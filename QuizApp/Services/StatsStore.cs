@@ -73,9 +73,8 @@ public sealed class SupabaseStatsStore(AppConfig config, AuthService auth, Supab
         var all = new List<T>();
         for (var from = 0; ; from += PageSize)
         {
-            using var req = await NewRequestAsync(HttpMethod.Get, path);
-            req.Headers.Add("Range-Unit", "items");
-            req.Headers.Add("Range", $"{from}-{from + PageSize - 1}");
+            // Paginazione con i parametri limit/offset di PostgREST (Supabase restituisce al massimo 1000 righe per richiesta).
+            using var req = await NewRequestAsync(HttpMethod.Get, $"{path}&limit={PageSize}&offset={from}");
             using var resp = await http.Client.SendAsync(req);
             if (!resp.IsSuccessStatusCode)
                 throw new InvalidOperationException($"Lettura non riuscita ({(int)resp.StatusCode}): {await resp.Content.ReadAsStringAsync()}");
