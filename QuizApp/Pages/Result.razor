@@ -1,0 +1,42 @@
+@page "/risultato"
+@inject SessionState Session
+
+<PageTitle>Risultato – Quiz</PageTitle>
+
+@if (Session.LastResult is not { } r)
+{
+    <p class="muted">Nessun risultato da mostrare. <a href="">Torna alla home</a>.</p>
+}
+else
+{
+    var wrong = Session.LastQuestions.Where(q => !q.IsCorrect).ToList();
+
+    <div class="card center">
+        <h1>@r.Correct / @r.Total</h1>
+        <p class="score @(r.Percent >= 60 ? "ok" : "ko")">@($"{r.Percent:0}%") di risposte corrette</p>
+        <p class="muted">Durata: @TimeSpan.FromSeconds(r.DurationSeconds).ToString(@"mm\:ss") minuti</p>
+        <div class="actions centered">
+            <a class="button primary" href="">Nuova sessione</a>
+            <a class="button" href="statistiche">Statistiche</a>
+        </div>
+    </div>
+
+    @if (wrong.Count > 0)
+    {
+        <h2>Da ripassare (@wrong.Count)</h2>
+        @foreach (var q in wrong)
+        {
+            <div class="card review">
+                <p class="muted small">@q.Source.Topic</p>
+                <p class="question">@q.Source.Text</p>
+                <p class="wrong-text">✘ La tua risposta: @q.Options[q.ChosenIndex!.Value]</p>
+                <p class="correct-text">✔ Risposta corretta: @q.Options[q.CorrectIndex]</p>
+                <p class="small">@q.Source.Explanation</p>
+            </div>
+        }
+    }
+    else
+    {
+        <p class="info">Nessun errore in questa sessione. Ottimo lavoro!</p>
+    }
+}

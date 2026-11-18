@@ -1,0 +1,92 @@
+@page "/statistiche"
+@inject IStatsStore Stats
+@inject QuizService Quiz
+
+<PageTitle>Statistiche – Quiz</PageTitle>
+
+<h1>Statistiche</h1>
+
+@if (_error is not null) { <p class="error">@_error</p> }
+
+@if (_loading)
+{
+    <p class="muted">Caricamento…</p>
+}
+else if (_sessions.Count == 0)
+{
+    <p class="muted">Non hai ancora completato nessuna sessione. <a href="">Inizia la prima</a>.</p>
+}
+else
+{
+    <div class="kpis">
+        <div class="kpi"><span class="kpi-value">@_sessions.Count</span><span class="kpi-label">sessioni</span></div>
+        <div class="kpi"><span class="kpi-value">@($"{_sessions.Average(s => s.Percent):0}%")</span><span class="kpi-label">media</span></div>
+        <div class="kpi"><span class="kpi-value">@($"{_sessions.Max(s => s.Percent):0}%")</span><span class="kpi-label">miglior risultato</span></div>
+        <div class="kpi"><span class="kpi-value">@_pendingErrors</span><span class="kpi-label">errori da ripassare</span></div>
+    </div>
+
+    <div class="card">
+        <h2>Andamento</h2>
+        <ProgressChart Sessions="_sessions" />
+    </div>
+
+    <div class="card">
+        <h2>Per argomento</h2>
+        <p class="muted small">Percentuale di risposte corrette su tutte le risposte date per ciascun argomento.</p>
+        @foreach (var t in _topicStats)
+        {
+            <div class="topic-row">
+                <div class="topic-name">@t.Topic</div>
+                <div class="bar"><div class="@BarClass(t)" style="width:@(t.Answered == 0 ? 0 : (int)t.Percent)%"></div></div>
+                <div class="topic-val">@(t.Answered == 0 ? "–" : $"{t.Percent:0}%") <span class="muted small">(@t.Correct/@t.Answered)</span></div>
+            </div>
+        }
+    </div>
+
+    <div class="card">
+        <h2>Storico delle sessioni</h2>
+        <table>
+            <thead><tr><th>Data</th><th>Punteggio</th><th>%</th><th>Durata</th></tr></thead>
+            <tbody>
+                @foreach (var s in Enumerable.Reverse(_sessions))
+                {
+                    <tr>
+                        <td>@s.StartedAt.ToLocalTime().ToString("dd/MM/yyyy HH:mm")</td>
+                        <td>@s.Correct / @s.Total</td>
+                        <td>@($"{s.Percent:0}%")</td>
+                        <td>@TimeSpan.FromSeconds(s.DurationSeconds).ToString(@"mm\:ss")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+@code {
+    private List<SessionRecord> _sessions = new();
+    private List<TopicStat> _topicStats = new();
+    private int _pendingErrors;
+    private bool _loading = true;
+    private string? _error;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _sessions = await Stats.GetSessionsAsync();
+            var answers = await Stats.GetAnswersAsync();
+            _topicStats = QuizService.TopicStats(answers, await Quiz.GetTopicsAsync());
+            _pendingErrors = QuizService.PendingErrors(answers);
+        }
+        catch (Exception ex) when (ex is AuthException or InvalidOperationException or HttpRequestException)
+        {
+            _error = ex.Message;
+        }
+        finally
+        {
+            _loading = false;
+        }
+    }
+
+    private static string BarClass(TopicStat t) => t.Percent >= 75 ? "good" : t.Percent >= 50 ? "mid" : "low";
+}

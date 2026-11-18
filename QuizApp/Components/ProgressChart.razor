@@ -1,0 +1,48 @@
+@* Grafico a linee (SVG) della percentuale di risposte corrette nelle ultime sessioni. *@
+
+@if (Sessions.Count == 0)
+{
+    <p class="muted">Il grafico comparirà dopo la prima sessione.</p>
+}
+else
+{
+    var pts = Sessions.TakeLast(MaxPoints).ToList();
+    var step = pts.Count > 1 ? PlotW / (pts.Count - 1) : 0;
+    <svg class="chart" viewBox="0 0 @W @H" role="img" aria-label="Andamento del punteggio nelle ultime sessioni">
+        @foreach (var g in new[] { 0, 25, 50, 75, 100 })
+        {
+            var y = Y(g);
+            <g>
+                <line x1="@F(Left)" x2="@F(W - Right)" y1="@F(y)" y2="@F(y)" class="grid" />
+                <text x="@F(Left - 6)" y="@F(y + 4)" class="axis" text-anchor="end">@g%</text>
+            </g>
+        }
+        <line x1="@F(Left)" x2="@F(W - Right)" y1="@F(Y(60))" y2="@F(Y(60))" class="threshold" />
+        @if (pts.Count > 1)
+        {
+            <polyline class="line" points="@string.Join(" ", pts.Select((s, i) => $"{F(Left + i * step)},{F(Y(s.Percent))}"))" />
+        }
+        @for (var i = 0; i < pts.Count; i++)
+        {
+            var s = pts[i];
+            var x = pts.Count > 1 ? Left + i * step : Left + PlotW / 2;
+            <circle cx="@F(x)" cy="@F(Y(s.Percent))" r="4" class="dot">
+                <title>@s.StartedAt.ToLocalTime().ToString("dd/MM HH:mm"): @s.Correct/@s.Total (@($"{s.Percent:0}%"))</title>
+            </circle>
+        }
+        <text x="@F(Left)" y="@F(H - 4)" class="axis">@pts[0].StartedAt.ToLocalTime().ToString("dd/MM")</text>
+        <text x="@F(W - Right)" y="@F(H - 4)" class="axis" text-anchor="end">@pts[^1].StartedAt.ToLocalTime().ToString("dd/MM")</text>
+    </svg>
+    <p class="muted small">Ultime @pts.Count sessioni · la linea tratteggiata indica il 60%.</p>
+}
+
+@code {
+    [Parameter, EditorRequired] public List<SessionRecord> Sessions { get; set; } = new();
+    [Parameter] public int MaxPoints { get; set; } = 30;
+
+    private const double W = 640, H = 240, Left = 44, Right = 12, Top = 12, Bottom = 24;
+    private const double PlotW = W - Left - Right, PlotH = H - Top - Bottom;
+
+    private static double Y(double percent) => Top + PlotH * (1 - percent / 100);
+    private static string F(double v) => v.ToString("0.#", System.Globalization.CultureInfo.InvariantCulture);
+}

@@ -1,0 +1,78 @@
+﻿@inherits LayoutComponentBase
+@implements IDisposable
+@inject AuthService Auth
+@inject AppConfig Config
+@inject NavigationManager Nav
+
+<header class="topbar">
+    <a class="brand" href="">⚖️ Quiz Diritto internazionale</a>
+    @if (Auth.IsAuthenticated)
+    {
+        <nav>
+            <NavLink href="" Match="NavLinkMatch.All">Home</NavLink>
+            <NavLink href="statistiche">Statistiche</NavLink>
+            <span class="user" title="@Auth.CurrentUser!.Email">@Auth.CurrentUser!.DisplayName</span>
+            <button class="link" @onclick="SignOut">Esci</button>
+        </nav>
+    }
+</header>
+
+@if (Config.IsLocalMode)
+{
+    <div class="banner">Modalità locale: Supabase non è configurato, utenti e statistiche restano solo in questo browser.</div>
+}
+
+<main class="container">
+    @if (!_ready)
+    {
+        <p class="muted">Caricamento…</p>
+    }
+    else if (!Auth.IsAuthenticated && !IsLoginPage)
+    {
+        <p class="muted">Reindirizzamento all'accesso…</p>
+    }
+    else
+    {
+        @Body
+    }
+</main>
+
+@code {
+    private bool _ready;
+
+    private bool IsLoginPage => Nav.ToBaseRelativePath(Nav.Uri).StartsWith("login", StringComparison.OrdinalIgnoreCase);
+
+    protected override async Task OnInitializedAsync()
+    {
+        Auth.Changed += OnAuthChanged;
+        Nav.LocationChanged += OnLocationChanged;
+        await Auth.InitializeAsync();
+        _ready = true;
+        EnsureAuth();
+    }
+
+    private void OnAuthChanged()
+    {
+        if (_ready) EnsureAuth();
+        InvokeAsync(StateHasChanged);
+    }
+
+    private void OnLocationChanged(object? sender, Microsoft.AspNetCore.Components.Routing.LocationChangedEventArgs e) => EnsureAuth();
+
+    private void EnsureAuth()
+    {
+        if (!Auth.IsAuthenticated && !IsLoginPage) Nav.NavigateTo("login");
+    }
+
+    private async Task SignOut()
+    {
+        await Auth.SignOutAsync();
+        Nav.NavigateTo("login");
+    }
+
+    public void Dispose()
+    {
+        Auth.Changed -= OnAuthChanged;
+        Nav.LocationChanged -= OnLocationChanged;
+    }
+}

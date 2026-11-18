@@ -1,0 +1,65 @@
+# Pubblica l'app su GitHub Pages a ogni push sul branch main.
+# Nel repository: Settings > Pages > Source = "GitHub Actions";
+# Settings > Secrets and variables > Actions > Variables: SUPABASE_URL e SUPABASE_ANON_KEY.
+name: Deploy su GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 10.0.x
+
+      - name: Pubblicazione
+        run: dotnet publish QuizApp/QuizApp.csproj -c Release -o out
+
+      - name: Configurazione per GitHub Pages
+        env:
+          SUPABASE_URL: ${{ vars.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ vars.SUPABASE_ANON_KEY }}
+          REPO_NAME: ${{ github.event.repository.name }}
+        run: |
+          cd out/wwwroot
+          # L'app è servita da https://<utente>.github.io/<repository>/
+          sed -i "s|<base href=\"/\" />|<base href=\"/${REPO_NAME}/\" />|" index.html
+          # Copia di index.html come 404.html: i link diretti alle pagine dell'app funzionano anche dopo un ricaricamento.
+          cp index.html 404.html
+          touch .nojekyll
+          cat > appsettings.json <<EOF
+          {
+            "Supabase": { "SupabaseUrl": "${SUPABASE_URL}", "SupabaseAnonKey": "${SUPABASE_ANON_KEY}" },
+            "QuestionsPerSession": 20
+          }
+          EOF
+          rm -f appsettings.json.br appsettings.json.gz
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: out/wwwroot
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

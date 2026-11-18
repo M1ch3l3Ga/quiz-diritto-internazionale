@@ -1,0 +1,131 @@
+@page "/quiz"
+@inject SessionState Session
+@inject IStatsStore Stats
+@inject NavigationManager Nav
+
+<PageTitle>Sessione – Quiz</PageTitle>
+
+@if (!Session.IsActive)
+{
+    <p class="muted">Nessuna sessione in corso. <a href="">Torna alla home</a> per iniziarne una.</p>
+}
+else
+{
+    var q = Session.Questions[Session.CurrentIndex];
+    var n = Session.Questions.Count;
+
+    <div class="quiz-head">
+        <span>Domanda @(Session.CurrentIndex + 1) di @n</span>
+        <span class="muted">@q.Source.Topic</span>
+        <span>✔ @Session.Questions.Count(x => x.IsAnswered && x.IsCorrect) · ✘ @Session.Questions.Count(x => x.IsAnswered && !x.IsCorrect)</span>
+    </div>
+    <div class="progress"><div style="width:@(100 * Session.Questions.Count(x => x.IsAnswered) / n)%"></div></div>
+
+    <div class="card">
+        <h2 class="question">@q.Source.Text</h2>
+
+        <div class="options">
+            @for (var i = 0; i < q.Options.Count; i++)
+            {
+                var idx = i;
+                <button class="option @OptionClass(q, idx)" disabled="@q.IsAnswered" @onclick="() => Answer(q, idx)">
+                    <span class="letter">@((char)('A' + idx))</span>
+                    <span>@q.Options[idx]</span>
+                </button>
+            }
+        </div>
+
+        @if (q.IsAnswered)
+        {
+            <div class="feedback @(q.IsCorrect ? "ok" : "ko")">
+                <strong>@(q.IsCorrect ? "Risposta corretta!" : $"Risposta sbagliata: quella giusta è la {(char)('A' + q.CorrectIndex)}.")</strong>
+                <p>@q.Source.Explanation</p>
+            </div>
+
+            @if (_saveError is not null) { <p class="error">@_saveError</p> }
+
+            <div class="actions">
+                @if (Session.CurrentIndex < n - 1)
+                {
+                    <button class="primary" @onclick="Next">Domanda successiva →</button>
+                }
+                else
+                {
+                    <button class="primary" @onclick="FinishAsync" disabled="@_saving">@(_saving ? "Salvataggio…" : "Vedi il risultato")</button>
+                }
+            </div>
+        }
+    </div>
+
+    <button class="link small" @onclick="Abandon">Abbandona la sessione (non viene salvata)</button>
+}
+
+@code {
+    private readonly Dictionary<SessionQuestion, DateTimeOffset> _answeredAt = new();
+    private bool _saving;
+    private string? _saveError;
+
+    private static string OptionClass(SessionQuestion q, int idx)
+    {
+        if (!q.IsAnswered) return "";
+        if (idx == q.CorrectIndex) return "correct";
+        if (idx == q.ChosenIndex) return "wrong";
+        return "dim";
+    }
+
+    private void Answer(SessionQuestion q, int idx)
+    {
+        if (q.IsAnswered) return;
+        q.ChosenIndex = idx;
+        _answeredAt[q] = DateTimeOffset.UtcNow;
+    }
+
+    private void Next() => Session.CurrentIndex++;
+
+    private void Abandon()
+    {
+        Session.Clear();
+        Nav.NavigateTo("");
+    }
+
+    private async Task FinishAsync()
+    {
+        _saving = true;
+        _saveError = null;
+        var now = DateTimeOffset.UtcNow;
+        var record = new SessionRecord
+        {
+            Id = Session.Id,
+            StartedAt = Session.StartedAt,
+            FinishedAt = now,
+            Total = Session.Questions.Count,
+            Correct = Session.Questions.Count(x => x.IsCorrect),
+            DurationSeconds = (int)(now - Session.StartedAt).TotalSeconds,
+        };
+        var answers = Session.Questions.Select(x => new AnswerRecord
+        {
+            SessionId = Session.Id,
+            QuestionId = x.Source.Id,
+            Topic = x.Source.Topic,
+            Correct = x.IsCorrect,
+            AnsweredAt = _answeredAt.GetValueOrDefault(x, now),
+        }).ToList();
+
+        try
+        {
+            await Stats.SaveSessionAsync(record, answers);
+            Session.LastResult = record;
+            Session.LastQuestions = Session.Questions;
+            Session.Clear();
+            Nav.NavigateTo("risultato");
+        }
+        catch (Exception ex) when (ex is AuthException or InvalidOperationException or HttpRequestException)
+        {
+            _saveError = $"Non è stato possibile salvare la sessione: {ex.Message} Riprova.";
+        }
+        finally
+        {
+            _saving = false;
+        }
+    }
+}

@@ -1,0 +1,110 @@
+@page "/login"
+@inject AuthService Auth
+@inject NavigationManager Nav
+
+<PageTitle>Accesso – Quiz</PageTitle>
+
+<div class="card narrow">
+    <div class="tabs">
+        <button class="@(_mode == Mode.Login ? "active" : "")" @onclick="() => Switch(Mode.Login)">Accedi</button>
+        <button class="@(_mode == Mode.Register ? "active" : "")" @onclick="() => Switch(Mode.Register)">Registrati</button>
+    </div>
+
+    @if (_mode == Mode.Reset)
+    {
+        <h1>Recupera password</h1>
+        <p class="muted">Inserisci la tua email: riceverai un link per impostare una nuova password.</p>
+    }
+    else
+    {
+        <h1>@(_mode == Mode.Login ? "Accedi al tuo account" : "Crea il tuo account")</h1>
+    }
+
+    <form @onsubmit="Submit" @onsubmit:preventDefault>
+        @if (_mode == Mode.Register)
+        {
+            <label>Nome
+                <input @bind="_name" autocomplete="name" required maxlength="40" />
+            </label>
+        }
+        <label>Email
+            <input type="email" @bind="_email" autocomplete="email" required />
+        </label>
+        @if (_mode != Mode.Reset)
+        {
+            <label>Password
+                <input type="password" @bind="_password" autocomplete="@(_mode == Mode.Login ? "current-password" : "new-password")" required minlength="6" />
+            </label>
+        }
+
+        @if (_error is not null) { <p class="error">@_error</p> }
+        @if (_info is not null) { <p class="info">@_info</p> }
+
+        <button class="primary wide" type="submit" disabled="@_busy">
+            @(_busy ? "Attendere…" : _mode switch { Mode.Login => "Accedi", Mode.Register => "Registrati", _ => "Invia il link" })
+        </button>
+    </form>
+
+    @if (_mode == Mode.Login)
+    {
+        <button class="link small" @onclick="() => Switch(Mode.Reset)">Password dimenticata?</button>
+    }
+    else if (_mode == Mode.Reset)
+    {
+        <button class="link small" @onclick="() => Switch(Mode.Login)">Torna all'accesso</button>
+    }
+</div>
+
+@code {
+    private enum Mode { Login, Register, Reset }
+
+    private Mode _mode = Mode.Login;
+    private string _name = "", _email = "", _password = "";
+    private string? _error, _info;
+    private bool _busy;
+
+    protected override void OnInitialized()
+    {
+        if (Auth.IsAuthenticated) Nav.NavigateTo("");
+    }
+
+    private void Switch(Mode m)
+    {
+        _mode = m;
+        _error = _info = null;
+    }
+
+    private async Task Submit()
+    {
+        _error = _info = null;
+        _busy = true;
+        try
+        {
+            switch (_mode)
+            {
+                case Mode.Login:
+                    await Auth.SignInAsync(_email, _password);
+                    Nav.NavigateTo("");
+                    break;
+                case Mode.Register:
+                    if (string.IsNullOrWhiteSpace(_name)) { _error = "Inserisci il tuo nome."; break; }
+                    var msg = await Auth.SignUpAsync(_name, _email, _password);
+                    if (msg is null) Nav.NavigateTo("");
+                    else { _info = msg; _mode = Mode.Login; }
+                    break;
+                case Mode.Reset:
+                    await Auth.SendPasswordResetAsync(_email, Nav.BaseUri);
+                    _info = "Se l'email è registrata riceverai a breve il link per reimpostare la password.";
+                    break;
+            }
+        }
+        catch (AuthException ex)
+        {
+            _error = ex.Message;
+        }
+        finally
+        {
+            _busy = false;
+        }
+    }
+}

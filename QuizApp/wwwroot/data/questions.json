@@ -1,0 +1,2043 @@
+[
+ {
+  "id": "t1-001",
+  "topic": "Nozioni fondamentali",
+  "question": "Quale delle seguenti affermazioni descrive correttamente l'ordinamento internazionale?",
+  "options": [
+   "Manca un legislatore centrale paragonabile a un parlamento mondiale",
+   "L'Assemblea generale dell'ONU adotta leggi vincolanti per tutti gli Stati",
+   "Esiste una polizia internazionale che impone il rispetto delle norme",
+   "La giurisdizione dei tribunali internazionali è obbligatoria per tutti"
+  ],
+  "answer": 0,
+  "explanation": "Nell'ordinamento internazionale mancano un legislatore mondiale, un governo mondiale, una giurisdizione obbligatoria e una polizia internazionale; ciò non esclude l'esistenza di norme internazionali."
+ },
+ {
+  "id": "t1-002",
+  "topic": "Nozioni fondamentali",
+  "question": "Che cosa esprime la formula «superiorem non recognoscens» riferita agli Stati?",
+  "options": [
+   "Gli Stati riconoscono solo le norme scritte nei trattati",
+   "Ogni Stato riconosce l'ONU come autorità suprema",
+   "Nessuno Stato riconosce un'autorità a sé superiore",
+   "Nessuno Stato riconosce l'esistenza degli altri Stati"
+  ],
+  "answer": 2,
+  "explanation": "Tutti gli Stati sono formalmente eguali e sovrani: nessuno riconosce un'autorità superiore, e questo è il principio cardine del diritto internazionale."
+ },
+ {
+  "id": "t1-003",
+  "topic": "Nozioni fondamentali",
+  "question": "Quale disposizione della Carta delle Nazioni Unite tutela la sovranità interna (domestic jurisdiction) degli Stati?",
+  "options": [
+   "Art. 1, par. 2",
+   "Art. 10",
+   "Art. 2, par. 7",
+   "Art. 2, par. 4"
+  ],
+  "answer": 2,
+  "explanation": "L'art. 2, par. 7 della Carta esclude che le Nazioni Unite possano intervenire in questioni che appartengono essenzialmente alla competenza interna di uno Stato."
+ },
+ {
+  "id": "t1-004",
+  "topic": "Nozioni fondamentali",
+  "question": "Con riferimento alla progressiva erosione della domestic jurisdiction, come si pongono oggi gli Stati membri dell'UE rispetto alle proprie politiche economiche?",
+  "options": [
+   "Le decidono in piena autonomia, senza alcun vincolo derivante dall'UE",
+   "Non le decidono più: la politica economica è divenuta competenza esclusiva dell'UE",
+   "Le decidono liberamente, perché l'UE adotta solo raccomandazioni non vincolanti",
+   "Le decidono, ma non in piena autonomia: devono rispettare vincoli e linee guida dell'UE"
+  ],
+  "answer": 3,
+  "explanation": "Gli Stati membri hanno delegato all'UE poteri in moltissime materie: le politiche economiche restano nazionali, ma non sono decise in piena autonomia perché vanno rispettati i vincoli e le linee guida dell'UE."
+ },
+ {
+  "id": "t1-005",
+  "topic": "Nozioni fondamentali",
+  "question": "La «coincidenza tra soggettività attiva e passiva» nel diritto internazionale significa che:",
+  "options": [
+   "Le norme prodotte dagli Stati si applicano solo agli individui",
+   "Gli stessi Stati che producono le norme ne sono anche i destinatari",
+   "Ogni Stato è destinatario solo di norme prodotte da altri Stati",
+   "Gli organi dell'ONU producono norme che vincolano gli Stati"
+  ],
+  "answer": 1,
+  "explanation": "Mancando un legislatore universale, le norme internazionali sono create dagli Stati, che sono anche tenuti a rispettarle."
+ },
+ {
+  "id": "t1-006",
+  "topic": "Nozioni fondamentali",
+  "question": "Secondo la sentenza «Lotus» (Corte permanente di giustizia internazionale, 1927), le regole del diritto internazionale:",
+  "options": [
+   "Emanano dalla volontà degli Stati, espressa in convenzioni o consuetudini accettate",
+   "Vincolano gli Stati solo se recepite da una legge costituzionale",
+   "Sono poste dagli organi della Società delle Nazioni con atti vincolanti",
+   "Derivano da principi naturali superiori alla volontà degli Stati"
+  ],
+  "answer": 0,
+  "explanation": "Nella sentenza Lotus la CPGI afferma che il diritto internazionale regola rapporti tra Stati indipendenti e che le sue regole emanano dalla volontà di questi ultimi."
+ },
+ {
+  "id": "t1-007",
+  "topic": "Nozioni fondamentali",
+  "question": "Lo Stato A intende portare una controversia con lo Stato B davanti a un tribunale internazionale. Che cosa è necessario?",
+  "options": [
+   "Una risoluzione dell'Assemblea generale che autorizzi il ricorso",
+   "Nulla: la giurisdizione internazionale è obbligatoria per tutti",
+   "Il previo voto unanime dei membri permanenti dell'ONU",
+   "Il consenso dello Stato B alla giurisdizione del tribunale"
+  ],
+  "answer": 3,
+  "explanation": "Non esiste un organo giudiziario internazionale con competenza generale obbligatoria: il ricorso ai giudici internazionali si fonda sempre sul consenso degli Stati interessati."
+ },
+ {
+  "id": "t1-008",
+  "topic": "Nozioni fondamentali",
+  "question": "Perché nel diritto internazionale assume particolare rilievo l'autotutela?",
+  "options": [
+   "Perché la Carta ONU affida ai singoli Stati il compito di legiferare",
+   "Perché le norme internazionali si applicano soltanto in tempo di guerra",
+   "Perché manca una forza di polizia internazionale che imponga il rispetto delle norme",
+   "Perché i tribunali internazionali possono condannare anche in contumacia"
+  ],
+  "answer": 2,
+  "explanation": "In assenza di una polizia internazionale, lo Stato leso spesso reagisce con l'autotutela, cioè facendosi giustizia da sé."
+ },
+ {
+  "id": "t1-009",
+  "topic": "Nozioni fondamentali",
+  "question": "A quale evento si fa tradizionalmente risalire la nascita del diritto internazionale?",
+  "options": [
+   "Alla pace di Vestfalia del 1648, che chiuse la Guerra dei Trent'anni",
+   "Alla firma della Carta di San Francisco nel 1945",
+   "Alla fondazione dell'Unione Postale Universale a fine Ottocento",
+   "Al Congresso di Vienna che seguì le guerre napoleoniche"
+  ],
+  "answer": 0,
+  "explanation": "Con i trattati di Vestfalia (1648) le monarchie iniziarono a riconoscersi come enti eguali e sovrani, ponendo le prime norme di diritto internazionale."
+ },
+ {
+  "id": "t1-010",
+  "topic": "Nozioni fondamentali",
+  "question": "Nella sentenza Tyrer (1978) la Corte europea dei diritti dell'uomo ha definito la Convenzione europea dei diritti dell'uomo come:",
+  "options": [
+   "Un atto non vincolante privo di efficacia per gli Stati parte",
+   "Uno strumento vivente da interpretare alla luce delle condizioni attuali",
+   "Un trattato da interpretare secondo la volontà originaria del 1950",
+   "Una norma interna di ciascuno Stato, non un trattato internazionale"
+  ],
+  "answer": 1,
+  "explanation": "La Corte EDU (sent. Tyrer, 1978) ha affermato che la Convenzione è un «living instrument» da interpretare alla luce delle condizioni odierne, a riprova del carattere dinamico del diritto internazionale."
+ },
+ {
+  "id": "t1-011",
+  "topic": "Nozioni fondamentali",
+  "question": "Un cittadino italiano e uno francese litigano su un contratto e occorre stabilire quale legge statale si applichi e quale giudice sia competente. Di quale ramo del diritto si tratta?",
+  "options": [
+   "Diritto internazionale umanitario",
+   "Diritto internazionale privato",
+   "Diritto internazionale pubblico",
+   "Diritto penale internazionale"
+  ],
+  "answer": 1,
+  "explanation": "Il diritto internazionale privato regola i rapporti tra privati che coinvolgono gli ordinamenti di almeno due Stati, individuando legge applicabile e giudice competente."
+ },
+ {
+  "id": "t2-001",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Nel parere «Riparazione dei danni subiti al servizio delle Nazioni Unite» (1949) la Corte internazionale di giustizia ha definito la persona giuridica internazionale come:",
+  "options": [
+   "Un ente riconosciuto dalla maggioranza degli Stati membri ONU",
+   "Un soggetto che partecipa con diritto di voto all'Assemblea generale",
+   "Un ente dotato di territorio, popolazione e governo effettivo",
+   "Un soggetto capace di possedere diritti e doveri internazionali"
+  ],
+  "answer": 3,
+  "explanation": "La CIG, nel parere del 1949, definisce la persona giuridica internazionale come un soggetto di diritto internazionale capace di possedere diritti e doveri internazionali."
+ },
+ {
+  "id": "t2-002",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Quali sono gli elementi costitutivi dello Stato come soggetto di diritto internazionale?",
+  "options": [
+   "Territorio, lingua comune e popolazione",
+   "Governo, popolazione e territorio",
+   "Governo, costituzione e riconoscimento",
+   "Popolazione, esercito e membership ONU"
+  ],
+  "answer": 1,
+  "explanation": "Uno Stato è soggetto di diritto internazionale quando un governo esercita la propria autorità su una popolazione stanziata su un territorio (triade governo-popolazione-territorio)."
+ },
+ {
+  "id": "t2-003",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Secondo la Corte di Cassazione italiana (sentenza Milo Djukanovic, 2004), oltre alla triade territorio-popolazione-governo, per l'esistenza di uno Stato occorrono:",
+  "options": [
+   "Il riconoscimento da parte degli altri Stati",
+   "I requisiti di effettività e indipendenza",
+   "L'ammissione come membro delle Nazioni Unite",
+   "Istituzioni democratiche e rispetto dei diritti umani"
+  ],
+  "answer": 1,
+  "explanation": "La Cassazione nella sentenza Djukanovic (2004) richiede, accanto alla triade, i requisiti di effettività e indipendenza del governo."
+ },
+ {
+  "id": "t2-004",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Un gruppo di privati costruisce in alto mare una piattaforma artificiale e vi proclama uno «Stato». Ai fini del diritto internazionale:",
+  "options": [
+   "Manca solo il riconoscimento, che renderebbe lo Stato subito esistente",
+   "Lo Stato esiste, purché la popolazione superi una soglia minima di abitanti",
+   "Manca un territorio, che deve essere una porzione di superficie terrestre naturale",
+   "Lo Stato esiste, perché basta autoproclamarsi tale per divenire soggetto"
+  ],
+  "answer": 2,
+  "explanation": "Il territorio rilevante è una porzione di superficie terrestre di origine naturale; una piattaforma artificiale costruita dall'uomo non lo è, e per il principio di effettività non basta dichiararsi Stato."
+ },
+ {
+  "id": "t2-005",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "San Marino e la Città del Vaticano sono considerati Stati ai fini del diritto internazionale?",
+  "options": [
+   "Sì, ma soltanto perché sono stati riconosciuti dall'Italia",
+   "No, perché la loro popolazione è inferiore alla soglia minima prevista",
+   "Sì, perché non sono richiesti né una popolazione minima né un territorio esteso",
+   "No, perché il loro territorio non raggiunge l'estensione minima richiesta"
+  ],
+  "answer": 2,
+  "explanation": "Non è richiesto un numero minimo di individui e non rilevano le dimensioni territoriali: anche i micro-Stati sono Stati."
+ },
+ {
+  "id": "t2-006",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "La Somalia, dagli anni '90, ha visto il potere frammentarsi tra bande e clan locali. Come viene trattata nella prassi internazionale?",
+  "options": [
+   "Come territorio sottoposto ad amministrazione dell'ONU",
+   "Come governo fantoccio dipendente da uno Stato vicino",
+   "Come Stato estinto, il cui territorio è divenuto terra nullius",
+   "Come «failed state», che non viene dichiarato estinto"
+  ],
+  "answer": 3,
+  "explanation": "Nei failed states gli organi statali hanno perso il controllo effettivo di territorio e popolazione, ma nella prassi lo Stato non si dichiara estinto, nella speranza che le autorità tornino a controllare il territorio."
+ },
+ {
+  "id": "t2-007",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Durante la Seconda guerra mondiale diversi governi dei paesi occupati dalla Germania nazista si trasferirono a Londra. Si tratta di un esempio di:",
+  "options": [
+   "Governi fantoccio",
+   "Movimenti insurrezionali",
+   "Failed states",
+   "Governi in esilio"
+  ],
+  "answer": 3,
+  "explanation": "I governi in esilio sono governi costretti ad abbandonare il proprio territorio perché spodestati da altre autorità; l'esempio tipico è quello dei governi riparati a Londra."
+ },
+ {
+  "id": "t2-008",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "La Repubblica turca di Cipro del Nord, proclamata nel 1983 dopo l'invasione turca del 1974, è un esempio di governo fantoccio. Secondo la Corte europea dei diritti dell'uomo (sentenze Loizidou c. Turchia, 1996, e Güzelyurtlu c. Cipro e Turchia, 2019):",
+  "options": [
+   "La Turchia ne risponde, perché vi esercita un controllo effettivo",
+   "È uno Stato sovrano, perché riconosciuto dalla Turchia",
+   "È un failed state privo di qualsiasi autorità di governo",
+   "La responsabilità dei suoi atti ricade sulla sola Cipro"
+  ],
+  "answer": 0,
+  "explanation": "Per la Corte EDU la Turchia esercita un controllo effettivo su Cipro Nord attraverso un'amministrazione locale subordinata e ne risponde per atti e omissioni; manca il requisito dell'indipendenza."
+ },
+ {
+  "id": "t2-009",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Perché le Regioni italiane o i Länder tedeschi non sono soggetti di diritto internazionale?",
+  "options": [
+   "Perché non esercitano un potere sovrano autonomo e indipendente sulla popolazione",
+   "Perché non dispongono di un territorio di origine naturale ben delimitato",
+   "Perché la loro popolazione è priva di un legame di cittadinanza",
+   "Perché non sono stati riconosciuti formalmente dalle Nazioni Unite"
+  ],
+  "answer": 0,
+  "explanation": "Gli enti territoriali degli Stati decentrati o federali esistono giuridicamente, ma il potere sovrano è esercitato dallo Stato di cui fanno parte: manca l'indipendenza."
+ },
+ {
+  "id": "t2-010",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Uno Stato decide di attribuire la cittadinanza esclusivamente in base alla nascita sul proprio territorio (jus soli). Dal punto di vista del diritto internazionale:",
+  "options": [
+   "È libero di farlo, perché la cittadinanza è materia di competenza statale",
+   "Viola una norma internazionale che impone lo jus sanguinis come criterio",
+   "Deve ottenere l'autorizzazione dell'Assemblea generale dell'ONU",
+   "Può farlo solo combinando il criterio con la naturalizzazione"
+  ],
+  "answer": 0,
+  "explanation": "Non esiste una norma internazionale che detti i criteri di attribuzione della cittadinanza: ogni Stato stabilisce liberamente le proprie regole."
+ },
+ {
+  "id": "t2-011",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Un ente con governo effettivo e indipendente, ma privo di istituzioni democratiche, è uno Stato ai fini del diritto internazionale?",
+  "options": [
+   "No, perché la democrazia è un requisito previsto dalla Carta ONU",
+   "No, finché non viene ammesso come membro delle Nazioni Unite",
+   "Sì, ma solo se viene riconosciuto da tutti i membri permanenti",
+   "Sì, perché la democraticità non è un requisito della statualità"
+  ],
+  "answer": 3,
+  "explanation": "Non esiste una norma che imponga la democraticità come requisito della statualità; la violazione dei principi democratici può però provocare reazioni come sanzioni economiche o rottura delle relazioni."
+ },
+ {
+  "id": "t2-012",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Quale tesi sul valore del riconoscimento degli Stati prevale nella prassi e nella giurisprudenza?",
+  "options": [
+   "La tesi costitutiva: senza riconoscimento lo Stato non può esistere",
+   "La tesi dichiarativa: il riconoscimento prende atto di uno Stato già esistente",
+   "La tesi negativa: il riconoscimento non ha alcun effetto, neppure politico",
+   "La tesi mista: il riconoscimento è costitutivo solo per i nuovi Stati"
+  ],
+  "answer": 1,
+  "explanation": "Prevale la tesi dichiarativa, coerente con il principio di effettività: se esistono i requisiti della sovranità lo Stato esiste, e il riconoscimento ha valore politico."
+ },
+ {
+  "id": "t2-013",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Nella sentenza Djukanovic (2004) la Corte di Cassazione ha affermato che il riconoscimento di uno Stato:",
+  "options": [
+   "Appartiene alla sfera politica e non è costitutivo della personalità internazionale",
+   "Ha effetti giuridici solo se espresso mediante un trattato internazionale",
+   "È necessario solo per gli Stati nati da processi di decolonizzazione",
+   "È costitutivo della personalità internazionale dell'ente riconosciuto"
+  ],
+  "answer": 0,
+  "explanation": "Secondo la Cassazione l'organizzazione di governo effettiva e indipendente diviene soggetto in modo automatico; il riconoscimento esprime solo l'intenzione di stringere relazioni amichevoli."
+ },
+ {
+  "id": "t2-014",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Un movimento insurrezionale riesce a controllare stabilmente parte del territorio e della popolazione di uno Stato. Quale soggettività internazionale ha?",
+  "options": [
+   "Una soggettività provvisoria, che cessa se l'insurrezione fallisce",
+   "Una soggettività derivata, concessa dal governo contro cui combatte",
+   "Nessuna, perché gli insorti agiscono contro il governo legittimo",
+   "Una soggettività piena e definitiva, che non può più venire meno"
+  ],
+  "answer": 0,
+  "explanation": "Per il principio di effettività gli insorti sono soggetti se e finché controllano territorio e popolazione; se il governo legittimo riprende il controllo cessano di esserlo (soggettività provvisoria)."
+ },
+ {
+  "id": "t2-015",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "In quale disposizione della Carta delle Nazioni Unite è richiamato il principio di autodeterminazione dei popoli?",
+  "options": [
+   "Art. 7",
+   "Art. 10",
+   "Art. 1, par. 2",
+   "Art. 2, par. 7"
+  ],
+  "answer": 2,
+  "explanation": "L'art. 1, par. 2 della Carta indica tra i fini dell'ONU lo sviluppo di relazioni amichevoli fondate sul principio dell'eguaglianza dei diritti e dell'autodeterminazione dei popoli."
+ },
+ {
+  "id": "t2-016",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "La popolazione di una regione di uno Stato, non soggetta a dominazione coloniale o straniera né a segregazione razziale, invoca l'autodeterminazione per separarsi. Secondo il diritto internazionale:",
+  "options": [
+   "Il principio si applica e attribuisce un diritto alla secessione",
+   "Il principio si applica se la secessione è approvata da un referendum",
+   "Il principio non si applica: non comporta un diritto alla secessione",
+   "Il principio si applica se la regione ha una propria lingua ufficiale"
+  ],
+  "answer": 2,
+  "explanation": "L'autodeterminazione rileva solo per i popoli sottoposti a dominazione coloniale, straniera o a segregazione razziale; non è un diritto alla secessione, che contrasterebbe con la sovranità territoriale."
+ },
+ {
+  "id": "t2-017",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Nella sentenza Timor Est (1995) la Corte internazionale di giustizia ha qualificato il principio di autodeterminazione dei popoli come:",
+  "options": [
+   "Principio politico privo di valore giuridico vincolante",
+   "Principio applicabile soltanto agli Stati membri dell'ONU",
+   "Principio superato con la fine della decolonizzazione",
+   "Principio fondamentale del diritto internazionale contemporaneo"
+  ],
+  "answer": 3,
+  "explanation": "La CIG (Timor Est, 1995) lo definisce «principio fondamentale del diritto internazionale contemporaneo»; ha inoltre carattere erga omnes ed è considerato norma cogente."
+ },
+ {
+  "id": "t2-018",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Nel 1985 la Corte di Cassazione italiana, chiamata a pronunciarsi su Arafat e sull'OLP, ha stabilito che l'OLP:",
+  "options": [
+   "È un'organizzazione internazionale istituita con trattato",
+   "È uno Stato sovrano e il suo presidente gode delle garanzie di capo di Stato",
+   "È un governo fantoccio privo di qualsiasi rappresentatività",
+   "Non è soggetto di diritto internazionale, ma rappresenta il popolo palestinese"
+  ],
+  "answer": 3,
+  "explanation": "La Cassazione ha escluso la soggettività internazionale dell'OLP, riconoscendole però una rappresentanza del popolo palestinese per discutere, in parità con gli Stati, modi e tempi dell'autodeterminazione."
+ },
+ {
+  "id": "t2-019",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Quale status l'Assemblea generale dell'ONU ha riconosciuto alla Palestina nel 2012?",
+  "options": [
+   "Membro a pieno titolo con diritto di voto",
+   "Stato osservatore non membro",
+   "Membro non permanente del Consiglio di sicurezza",
+   "Movimento di liberazione osservatore"
+  ],
+  "answer": 1,
+  "explanation": "Nel 2012 l'Assemblea generale ha riconosciuto lo status di «Stato osservatore non membro», senza diritto di voto: per la prima volta compariva la parola «Stato»."
+ },
+ {
+  "id": "t2-020",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Nel parere del 9 luglio 2004 sul Muro, la Corte internazionale di giustizia ha affermato che l'annessione di Gerusalemme Est da parte di Israele:",
+  "options": [
+   "È lecita, perché giustificata da esigenze di difesa del territorio israeliano",
+   "Viola il divieto di annessione con la forza, connesso all'art. 2, par. 4 della Carta",
+   "È lecita, perché la Cisgiordania non era soggetta a occupazione bellica",
+   "Rientra nella domestic jurisdiction di Israele ai sensi dell'art. 2, par. 7"
+  ],
+  "answer": 1,
+  "explanation": "Nel parere del 2004 la CIG ha ritenuto che l'annessione violasse il divieto di annessione di territori con la forza, contrario al divieto di uso della forza (art. 2, par. 4 Carta) e al diritto di autodeterminazione del popolo palestinese."
+ },
+ {
+  "id": "t2-021",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Che cosa ha stabilito la Corte internazionale di giustizia nel parere del 19 luglio 2024 sulle politiche di Israele nel territorio palestinese occupato?",
+  "options": [
+   "Che il territorio palestinese non è più soggetto a occupazione",
+   "Che Israele ha commesso un genocidio nell'offensiva a Gaza",
+   "Che le politiche violano il diritto internazionale e la presenza di Israele nei TPO deve cessare al più presto",
+   "Che la Palestina deve essere ammessa come membro delle Nazioni Unite"
+  ],
+  "answer": 2,
+  "explanation": "Il parere afferma che le politiche e pratiche israeliane in Cisgiordania, Gerusalemme Est e Gaza violano il diritto internazionale e che la presenza continuata di Israele nei TPO è illecita e deve cessare il più rapidamente possibile; non riguarda il distinto caso per genocidio promosso dal Sudafrica."
+ },
+ {
+  "id": "t2-022",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Perché la soggettività delle organizzazioni internazionali si definisce «derivata»?",
+  "options": [
+   "Perché le organizzazioni sono create dagli Stati con un trattato istitutivo",
+   "Perché derivano la soggettività dal territorio su cui hanno sede",
+   "Perché la loro soggettività deriva dal diritto interno di uno Stato",
+   "Perché sono riconosciute come Stati dall'Assemblea generale"
+  ],
+  "answer": 0,
+  "explanation": "Le OI sono enti non territoriali, istituiti dagli Stati mediante un trattato istitutivo e da questi scioglibili: la loro soggettività dipende dagli Stati che le creano."
+ },
+ {
+  "id": "t2-023",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Quale caratteristica ha la competenza delle organizzazioni internazionali secondo la Corte internazionale di giustizia (parere del 1996 sulle Armi nucleari, richiesto dall'OMS)?",
+  "options": [
+   "È limitata ai poteri specifici attribuiti dal trattato istitutivo",
+   "È stabilita caso per caso dall'Assemblea generale dell'ONU",
+   "È generale, come quella degli Stati che le hanno create",
+   "È illimitata nelle materie di pace e sicurezza internazionale"
+  ],
+  "answer": 0,
+  "explanation": "Diversamente dagli Stati, le OI non possiedono una competenza generale: sono dotate dagli Stati di poteri specifici, legati alle funzioni assegnate dal trattato istitutivo."
+ },
+ {
+  "id": "t2-024",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Quale dei seguenti elementi accresce l'autonomia di un'organizzazione internazionale rispetto agli Stati membri?",
+  "options": [
+   "Il finanziamento tramite contributi degli Stati",
+   "La disponibilità di risorse finanziarie proprie",
+   "Organi composti da delegati dei governi nazionali",
+   "L'adozione di sole raccomandazioni non vincolanti"
+  ],
+  "answer": 1,
+  "explanation": "L'autonomia è maggiore se l'OI ha risorse proprie, organi che adottano atti vincolanti, organi di individui indipendenti e un organo eletto dai cittadini: elementi tutti presenti nell'Unione europea."
+ },
+ {
+  "id": "t2-025",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Come avviene l'ammissione di un nuovo Stato membro delle Nazioni Unite (art. 4 della Carta)?",
+  "options": [
+   "Con decisione del Consiglio di sicurezza a maggioranza di nove voti, senza voto dell'Assemblea",
+   "Con decisione dell'Assemblea generale a maggioranza dei due terzi, su raccomandazione del Consiglio di sicurezza",
+   "Con decisione dell'Assemblea generale a maggioranza semplice, senza intervento del Consiglio di sicurezza",
+   "Con decisione del Segretario generale, su raccomandazione dell'Assemblea generale a maggioranza dei due terzi"
+  ],
+  "answer": 1,
+  "explanation": "Ai sensi dell'art. 4 decide l'Assemblea generale a maggioranza dei due terzi, su raccomandazione del Consiglio di sicurezza (nove voti con il concorso dei cinque permanenti); sono ammessi gli Stati amanti della pace che accettano gli obblighi della Carta."
+ },
+ {
+  "id": "t2-026",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Il Tribunale penale internazionale per l'ex Jugoslavia è stato istituito come:",
+  "options": [
+   "Organo sussidiario del Consiglio di sicurezza",
+   "Organo principale previsto dall'art. 7 della Carta",
+   "Sezione della Corte internazionale di giustizia",
+   "Istituto specializzato delle Nazioni Unite"
+  ],
+  "answer": 0,
+  "explanation": "Gli organi sussidiari non sono elencati nella Carta e sono creati dagli organi principali in base alle esigenze; il Tribunale per l'ex Jugoslavia fu istituito come organo sussidiario del Consiglio di sicurezza."
+ },
+ {
+  "id": "t2-027",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Quale affermazione sull'Assemblea generale delle Nazioni Unite è corretta?",
+  "options": [
+   "I cinque membri permanenti dispongono al suo interno del diritto di veto",
+   "Il voto di ciascuno Stato è ponderato in base alla sua popolazione",
+   "Ogni membro dispone di un voto e gli atti adottati sono raccomandazioni non vincolanti",
+   "È composta da 15 membri e adotta decisioni vincolanti per tutti gli Stati"
+  ],
+  "answer": 2,
+  "explanation": "L'Assemblea generale comprende tutti i membri, ciascuno con un voto (eguaglianza formale), e adotta raccomandazioni non giuridicamente obbligatorie (art. 10 Carta)."
+ },
+ {
+  "id": "t2-028",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Quale affermazione sul Consiglio di sicurezza delle Nazioni Unite è corretta?",
+  "options": [
+   "Ha 15 membri, tutti eletti a rotazione dall'Assemblea",
+   "Ha 15 membri, di cui 5 permanenti con diritto di veto",
+   "Ha 5 membri permanenti, privi di diritto di veto",
+   "Ha 10 membri, di cui 5 permanenti con diritto di veto"
+  ],
+  "answer": 1,
+  "explanation": "Il Consiglio di sicurezza ha 5 membri permanenti (USA, Russia, Cina, Francia, Regno Unito) con diritto di veto e 10 membri non permanenti eletti dall'Assemblea; ha la responsabilità principale per la pace e la sicurezza."
+ },
+ {
+  "id": "t2-029",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Che cosa sono gli istituti specializzati delle Nazioni Unite, come FMI, UNESCO, OMS e FAO?",
+  "options": [
+   "Organi principali delle Nazioni Unite elencati nell'art. 7 della Carta",
+   "Organizzazioni non governative accreditate presso le Nazioni Unite",
+   "Organizzazioni internazionali indipendenti, istituite con trattati distinti dalla Carta",
+   "Organi sussidiari creati dall'Assemblea generale con proprie risoluzioni"
+  ],
+  "answer": 2,
+  "explanation": "Gli istituti specializzati sono organizzazioni internazionali indipendenti, e quindi soggetti di diritto internazionale, fondate con trattati distinti dalla Carta e operanti in settori tecnici."
+ },
+ {
+  "id": "t2-030",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Perché le organizzazioni non governative (ONG), come Amnesty o Emergency, non sono soggetti di diritto internazionale?",
+  "options": [
+   "Perché non perseguono finalità di rilievo internazionale",
+   "Perché non possono partecipare a conferenze internazionali",
+   "Perché sono istituite con trattati non ancora ratificati",
+   "Perché sono enti privati, creati con atti di diritto interno"
+  ],
+  "answer": 3,
+  "explanation": "Le ONG sono create da privati con atti di diritto privato e regolate dal diritto interno dello Stato di sede; influenzano il diritto internazionale con mobilitazione e pressione, ma non ne sono soggetti."
+ },
+ {
+  "id": "t2-031",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Quale soggettività internazionale viene riconosciuta oggi all'individuo?",
+  "options": [
+   "Una soggettività attiva: partecipa alla formazione delle consuetudini",
+   "Nessuna soggettività: resta sottoposto soltanto al diritto interno",
+   "Una soggettività limitata e passiva: è titolare di diritti e doveri internazionali",
+   "Una soggettività piena: produce norme internazionali al pari degli Stati"
+  ],
+  "answer": 2,
+  "explanation": "All'individuo è riconosciuta una soggettività limitata: è destinatario di norme (diritti umani, diritto penale internazionale, come affermato a Norimberga) ma non crea diritto internazionale."
+ },
+ {
+  "id": "t2-032",
+  "topic": "Soggetti del diritto internazionale",
+  "question": "Perché si tende a escludere la soggettività internazionale delle imprese multinazionali?",
+  "options": [
+   "Perché sono vincolate dai codici di condotta, che hanno forza di trattato",
+   "Perché operano soltanto nel territorio dello Stato in cui sono costituite",
+   "Perché sono enti pubblici controllati dagli Stati in cui hanno sede",
+   "Perché, pur influenti, non esercitano poteri sovrani su territorio e popolazione"
+  ],
+  "answer": 3,
+  "explanation": "Le multinazionali sono enti giuridicamente frammentati tra più Stati e privi dei requisiti tradizionali della soggettività; i codici di condotta sono raccomandazioni non vincolanti (cfr. anche Corte Suprema USA, Jesner c. Arab Bank, 2018)."
+ },
+ {
+  "id": "t3-001",
+  "topic": "Fonti: la consuetudine",
+  "question": "Secondo l'art. 38 dello Statuto della Corte internazionale di giustizia, quali sono i «mezzi sussidiari» per la determinazione delle norme giuridiche?",
+  "options": [
+   "Le risoluzioni dell'Assemblea Generale e del Consiglio di Sicurezza",
+   "I principi generali di diritto riconosciuti dalle nazioni civili",
+   "Gli atti unilaterali degli Stati e le consuetudini regionali",
+   "Le decisioni giudiziarie e la dottrina degli autori più qualificati"
+  ],
+  "answer": 3,
+  "explanation": "L'art. 38, lett. d, dello Statuto CIG qualifica giurisprudenza e dottrina come mezzi sussidiari: aiutano a determinare il contenuto delle norme ma non sono fonti; i principi generali sono invece una delle tre fonti (lett. c)."
+ },
+ {
+  "id": "t3-002",
+  "topic": "Fonti: la consuetudine",
+  "question": "Che cosa si intende per opinio iuris come elemento della consuetudine internazionale?",
+  "options": [
+   "La ripetizione costante e uniforme di un comportamento da parte degli Stati",
+   "La convinzione degli Stati che un certo comportamento sia giuridicamente obbligatorio",
+   "L'opinione concorde della dottrina più qualificata sull'esistenza di una norma",
+   "Il consenso espresso degli Stati a una regola contenuta in un trattato"
+  ],
+  "answer": 1,
+  "explanation": "L'opinio iuris è l'elemento soggettivo della consuetudine; la ripetizione costante del comportamento è invece l'elemento oggettivo (usus). Entrambi devono essere presenti (art. 38 Statuto CIG: «general practice accepted as law»)."
+ },
+ {
+  "id": "t3-003",
+  "topic": "Fonti: la consuetudine",
+  "question": "Gli Stati seguono da decenni, quasi senza eccezioni, una certa regola di cerimoniale diplomatico, per pura cortesia. Si è formata una consuetudine internazionale?",
+  "options": [
+   "Sì, perché la frequenza e il carattere abituale degli atti bastano a creare la norma consuetudinaria",
+   "No, perché manca l'usus: gli atti di cerimoniale non possono mai costituire prassi rilevante",
+   "Sì, purché la regola sia stata seguita in modo ininterrotto per almeno cinquant'anni",
+   "No, perché manca l'opinio iuris: la condotta è motivata da cortesia e non da un senso di dovere giuridico"
+  ],
+  "answer": 3,
+  "explanation": "Nella sentenza Mare del Nord (1969) la CIG ha affermato che la frequenza o il carattere abituale degli atti non bastano: molti atti di cerimoniale o protocollo sono compiuti per cortesia, convenienza o tradizione e non per un senso di dovere giuridico."
+ },
+ {
+  "id": "t3-004",
+  "topic": "Fonti: la consuetudine",
+  "question": "Secondo la sentenza della CIG Nicaragua c. Stati Uniti (1986, par. 186), quale grado di generalità deve avere la prassi per dedurre l'esistenza di una consuetudine?",
+  "options": [
+   "È necessario che tutti gli Stati, senza alcuna eccezione, seguano la condotta",
+   "È sufficiente che la condotta sia seguita dalle sole grandi potenze",
+   "È sufficiente che la condotta degli Stati sia, in generale, conforme alla regola",
+   "È necessario che la condotta sia già codificata in un trattato multilaterale"
+  ],
+  "answer": 2,
+  "explanation": "La Corte adotta un criterio flessibile: la «generalità degli Stati» è intesa come la gran parte degli Stati, e basta che la condotta sia «in general, consistent with such rules» (Nicaragua c. Stati Uniti, 1986, par. 186)."
+ },
+ {
+  "id": "t3-005",
+  "topic": "Fonti: la consuetudine",
+  "question": "Quanto tempo deve durare la prassi perché si formi una consuetudine, secondo la CIG nella sentenza Mare del Nord (1969)?",
+  "options": [
+   "È necessario un certo lasso di tempo, che può essere anche breve",
+   "È necessario che la prassi risalga a un tempo immemorabile",
+   "Non è richiesto alcun lasso di tempo: basta un solo precedente",
+   "È necessario un periodo minimo di trent'anni fissato dallo Statuto"
+  ],
+  "answer": 0,
+  "explanation": "La prassi deve essere costante, cioè ripetuta nel tempo, ma per la CIG (Mare del Nord, 1969) «un certo lasso di tempo è necessario, anche breve»."
+ },
+ {
+  "id": "t3-006",
+  "topic": "Fonti: la consuetudine",
+  "question": "Secondo la CIG nella sentenza Mare del Nord, quale efficacia hanno le norme di diritto consuetudinario?",
+  "options": [
+   "Vincolano solo gli Stati che hanno contribuito alla loro formazione",
+   "Hanno eguale forza per tutti gli Stati e non ammettono esclusioni unilaterali",
+   "Vincolano solo gli Stati che vi hanno aderito con un accordo tacito",
+   "Possono essere escluse da ciascuno Stato con una propria dichiarazione"
+  ],
+  "answer": 1,
+  "explanation": "La consuetudine ha portata generale: per la Corte (Mare del Nord, 1969) le sue norme devono avere eguale forza per tutti i membri della comunità internazionale e non sono soggette ad alcuna esclusione unilaterale esercitabile a piacere da uno di essi. Per questo è stata respinta la tesi, sostenuta da Stati nati dalla decolonizzazione, della consuetudine come accordo tacito che vincola solo chi vi aderisce."
+ },
+ {
+  "id": "t3-007",
+  "topic": "Fonti: la consuetudine",
+  "question": "Durante un inseguimento, un poliziotto dello Stato A entra nel territorio del confinante Stato B. Un trattato tra A e B consente espressamente questa condotta. Lo Stato A viola la norma consuetudinaria sulla sovranità territoriale?",
+  "options": [
+   "Sì, perché le norme consuetudinarie non possono mai essere derogate da un trattato",
+   "Sì, a meno che il poliziotto non dimostri di aver agito in buona fede",
+   "No, perché l'inseguimento oltre confine è sempre lecito per diritto consuetudinario",
+   "No, perché la consuetudine è derogabile mediante un accordo tra gli Stati interessati"
+  ],
+  "answer": 3,
+  "explanation": "La consuetudine internazionale è una norma flessibile, derogabile tramite accordo tra Stati (salvo le norme di jus cogens): se il trattato tra A e B rende lecita la condotta, la violazione della sovranità territoriale non sussiste."
+ },
+ {
+  "id": "t3-008",
+  "topic": "Fonti: la consuetudine",
+  "question": "Quale organo ha istituito nel 1947 la Commissione del diritto internazionale, nell'ambito del compito di incoraggiare lo sviluppo progressivo e la codificazione del diritto internazionale previsto dall'art. 13 della Carta delle Nazioni Unite?",
+  "options": [
+   "Il Consiglio di Sicurezza delle Nazioni Unite",
+   "La Corte internazionale di giustizia",
+   "L'Assemblea Generale delle Nazioni Unite",
+   "Il Segretariato generale delle Nazioni Unite"
+  ],
+  "answer": 2,
+  "explanation": "L'art. 13 della Carta attribuisce all'Assemblea Generale il compito di promuovere studi e fare raccomandazioni per incoraggiare lo sviluppo progressivo del diritto internazionale e la sua codificazione; nel 1947 essa ha istituito la Commissione del diritto internazionale, che ha predisposto progetti di convenzioni come quelle di Vienna del 1961, del 1963 e del 1969."
+ },
+ {
+  "id": "t3-009",
+  "topic": "Fonti: la consuetudine",
+  "question": "Qual è il valore giuridico delle dichiarazioni di principi adottate dall'Assemblea Generale dell'ONU?",
+  "options": [
+   "Non sono di per sé vincolanti, ma possono enunciare consuetudini o stimolarne la formazione",
+   "Sono vincolanti per tutti gli Stati membri, in quanto adottate con risoluzione",
+   "Sono vincolanti soltanto per gli Stati che hanno votato a favore",
+   "Hanno lo stesso valore dei trattati, dopo la ratifica da parte degli Stati"
+  ],
+  "answer": 0,
+  "explanation": "Le dichiarazioni sono adottate con risoluzioni non vincolanti, ma mettono per iscritto principi di natura consuetudinaria o sollecitano nuove prassi; spesso danno impulso a nuovi trattati, come la Dichiarazione universale del 1948 rispetto ai Patti del 1966."
+ },
+ {
+  "id": "t3-010",
+  "topic": "Fonti: la consuetudine",
+  "question": "Secondo la Commissione del diritto internazionale (Conclusioni sulla consuetudine del 2018), a quali condizioni può operare la teoria dell'obiettore persistente?",
+  "options": [
+   "Basta che lo Stato contesti la norma in qualsiasi momento, anche dopo che si è formata",
+   "Opera anche per le norme di jus cogens, se l'obiezione è stata pubblica e ripetuta",
+   "Solo se l'obiezione è chiara, espressa mentre la norma si forma e mantenuta con costanza, e mai per lo jus cogens",
+   "Solo se almeno dieci Stati presentano la stessa obiezione all'Assemblea generale dell'ONU"
+  ],
+  "answer": 2,
+  "explanation": "La CDI riconosce l'obiettore persistente entro limiti stretti (conclusione 15): obiezione chiara, manifestata durante la formazione della norma e mantenuta con costanza; non vale per le norme di jus cogens. Secondo l'impostazione del corso la teoria resta comunque discussa e la consuetudine vincola in linea di principio tutti gli Stati."
+ },
+ {
+  "id": "t4-001",
+  "topic": "Fonti: i trattati",
+  "question": "Rispetto alla consuetudine, che tipo di fonte è il trattato internazionale?",
+  "options": [
+   "Una fonte generale, perché vincola tutti gli Stati membri dell'ONU",
+   "Una fonte sussidiaria, che si applica solo in mancanza di consuetudine",
+   "Una fonte particolare, perché vincola soltanto gli Stati contraenti",
+   "Una fonte superiore, perché prevale sempre sulla consuetudine"
+  ],
+  "answer": 2,
+  "explanation": "Il trattato è l'incontro di volontà di due o più soggetti che assumono diritti e obblighi reciproci: vincola solo le parti, mentre la consuetudine è fonte generale che vincola tutti gli Stati."
+ },
+ {
+  "id": "t4-002",
+  "topic": "Fonti: i trattati",
+  "question": "Da che cosa deriva il carattere obbligatorio dei trattati internazionali?",
+  "options": [
+   "Dall'art. 38 dello Statuto della CIG, che istituisce i trattati come fonte del diritto internazionale",
+   "Dalla registrazione del trattato presso il Segretariato generale delle Nazioni Unite",
+   "Da una norma consuetudinaria, pacta sunt servanda, codificata nell'art. 26 della Convenzione di Vienna",
+   "Dalla legge con cui ciascuno Stato autorizza la ratifica del trattato"
+  ],
+  "answer": 2,
+  "explanation": "Il trattato è obbligatorio perché lo prevede la consuetudine pacta sunt servanda, codificata nell'art. 26 della Convenzione di Vienna del 1969: ogni trattato in vigore vincola le parti e deve essere da esse eseguito in buona fede."
+ },
+ {
+  "id": "t4-003",
+  "topic": "Fonti: i trattati",
+  "question": "Una norma consuetudinaria è codificata in una convenzione ratificata da 80 Stati su 100. Che posizione hanno i 20 Stati che non ne sono parte?",
+  "options": [
+   "Sono vincolati alla norma, ma in quanto consuetudinaria e non in quanto scritta nel trattato",
+   "Non sono vincolati, perché il trattato produce effetti solo per gli Stati contraenti",
+   "Sono vincolati sia alla norma sia alle regole nuove introdotte dalla convenzione",
+   "Sono vincolati alla norma solo dopo aver aderito formalmente alla convenzione"
+  ],
+  "answer": 0,
+  "explanation": "La norma consuetudinaria vincola tutti gli Stati a prescindere dalla codificazione; le eventuali regole nuove, non consuetudinarie, aggiunte nella convenzione vincolano invece solo gli Stati parti."
+ },
+ {
+  "id": "t4-004",
+  "topic": "Fonti: i trattati",
+  "question": "Che cosa ha affermato la CIG, nella sentenza Costa Rica c. Nicaragua (2009), sulla Convenzione di Vienna sul diritto dei trattati?",
+  "options": [
+   "Che la Convenzione non può essere richiamata nei confronti di uno Stato che non ne è parte",
+   "Che le norme della Convenzione prevalgono su ogni consuetudine contraria, anche successiva",
+   "Che i suoi principi interpretativi si possono richiamare anche verso uno Stato non parte, perché consuetudinari",
+   "Che la Convenzione si applica retroattivamente a tutti i trattati conclusi prima del 1969"
+  ],
+  "answer": 2,
+  "explanation": "La CIG ha ritenuto che il fatto che il Nicaragua non fosse parte della Convenzione non le impedisse di riferirsi ai principi di interpretazione in essa codificati, perché conformi a norme consuetudinarie."
+ },
+ {
+  "id": "t4-005",
+  "topic": "Fonti: i trattati",
+  "question": "Due Stati concludono un accordo intitolato «Protocollo d'intesa», che presenta tutte le caratteristiche di un trattato. Come va qualificato?",
+  "options": [
+   "Come un atto politico, perché solo trattati e convenzioni sono vincolanti",
+   "Come un atto accessorio, privo di efficacia giuridica autonoma",
+   "Come un trattato internazionale, qualunque sia la sua denominazione",
+   "Come un trattato, ma solo dopo la registrazione presso l'ONU"
+  ],
+  "answer": 2,
+  "explanation": "La denominazione non rileva: in base all'art. 2, par. 1, della Convenzione di Vienna del 1969 un accordo con le caratteristiche di un trattato è tale «whatever its particular designation»."
+ },
+ {
+  "id": "t4-006",
+  "topic": "Fonti: i trattati",
+  "question": "Nel procedimento in forma solenne, come viene adottato il testo di un trattato in una conferenza internazionale, secondo l'art. 9 della Convenzione di Vienna?",
+  "options": [
+   "Con la maggioranza dei due terzi degli Stati presenti e votanti",
+   "Con la maggioranza semplice degli Stati presenti e votanti",
+   "All'unanimità degli Stati partecipanti",
+   "Con la maggioranza dei tre quarti degli Stati partecipanti"
+  ],
+  "answer": 0,
+  "explanation": "Per i trattati adottati in una conferenza internazionale l'art. 9, par. 2, della Convenzione di Vienna prevede la maggioranza dei due terzi degli Stati presenti e votanti, salvo che la stessa maggioranza decida diversamente; in alternativa il testo può essere adottato all'unanimità o per consensus."
+ },
+ {
+  "id": "t4-007",
+  "topic": "Fonti: i trattati",
+  "question": "Nel procedimento in forma solenne, quale funzione ha la firma del trattato?",
+  "options": [
+   "Autentica il testo come definitivo, ma non vincola lo Stato al rispetto del trattato",
+   "Vincola lo Stato al rispetto del trattato dal momento della sottoscrizione",
+   "Determina l'entrata in vigore del trattato tra tutti gli Stati firmatari",
+   "Conclude la negoziazione e autorizza il Parlamento a ratificare il trattato"
+  ],
+  "answer": 0,
+  "explanation": "Nella forma solenne la firma è una formale presa d'atto che il testo negoziato è definitivo e non modificabile; la volontà di vincolarsi si manifesta solo con la ratifica."
+ },
+ {
+  "id": "t4-008",
+  "topic": "Fonti: i trattati",
+  "question": "Nell'ordinamento italiano, chi ratifica i trattati internazionali e in quali casi occorre l'autorizzazione delle Camere?",
+  "options": [
+   "Il Presidente della Repubblica; serve una legge di autorizzazione delle Camere nei casi dell'art. 80 Cost.",
+   "Il Presidente del Consiglio; serve sempre un decreto del Presidente della Repubblica per ogni trattato",
+   "Le Camere con legge; il Presidente della Repubblica si limita a promulgare la legge di ratifica",
+   "Il Ministro degli esteri; serve il parere della Corte costituzionale nei casi dell'art. 80 Cost."
+  ],
+  "answer": 0,
+  "explanation": "L'art. 87, c. 8, Cost. attribuisce la ratifica al Presidente della Repubblica, previa autorizzazione delle Camere quando occorre; l'art. 80 la richiede per i trattati di natura politica, che prevedono arbitrati o regolamenti giudiziari, importano variazioni del territorio, oneri alle finanze o modificazioni di leggi."
+ },
+ {
+  "id": "t4-009",
+  "topic": "Fonti: i trattati",
+  "question": "In quale momento entra in vigore un trattato bilaterale concluso in forma solenne?",
+  "options": [
+   "Con la firma apposta dai due plenipotenziari",
+   "Con l'adozione del testo da parte dei due Stati",
+   "Con la registrazione presso il Segretariato ONU",
+   "Con lo scambio delle ratifiche tra i due Stati"
+  ],
+  "answer": 3,
+  "explanation": "Nei trattati bilaterali, dopo che entrambi gli Stati hanno ratificato, i rappresentanti diplomatici si scambiano le ratifiche e da quel momento il trattato entra in vigore; nei multilaterali conta invece il deposito del numero di ratifiche previsto dal trattato."
+ },
+ {
+  "id": "t4-010",
+  "topic": "Fonti: i trattati",
+  "question": "Due Stati concludono un trattato e non lo registrano presso il Segretariato generale delle Nazioni Unite. Quale conseguenza ne deriva?",
+  "options": [
+   "Il trattato non può essere fatto valere davanti alla CIG in caso di controversia",
+   "Il trattato è nullo perché manca un suo requisito essenziale di validità",
+   "Il trattato non entra in vigore fino a quando non viene registrato",
+   "Il trattato vincola soltanto lo Stato che si era impegnato a registrarlo"
+  ],
+  "answer": 0,
+  "explanation": "La registrazione presso il Segretariato (art. 102 Carta ONU) è una forma di pubblicità contro i trattati segreti e non condiziona la validità né l'entrata in vigore del trattato; la sua mancanza però impedisce di invocare il trattato davanti agli organi delle Nazioni Unite, e quindi davanti alla Corte internazionale di giustizia."
+ },
+ {
+  "id": "t4-011",
+  "topic": "Fonti: i trattati",
+  "question": "Che cosa caratterizza il procedimento di conclusione dei trattati in forma semplificata?",
+  "options": [
+   "Manca la firma: lo Stato manifesta la volontà di vincolarsi con la ratifica",
+   "Manca la ratifica: lo Stato manifesta la volontà di vincolarsi con la firma",
+   "Manca la negoziazione: il testo è predisposto da uno solo degli Stati",
+   "Manca l'adozione del testo: il trattato entra in vigore con la registrazione"
+  ],
+  "answer": 1,
+  "explanation": "Nella forma semplificata le fasi sono negoziazione, adozione del testo e firma; non c'è ratifica, per cui la volontà di vincolarsi è espressa con la firma."
+ },
+ {
+  "id": "t4-012",
+  "topic": "Fonti: i trattati",
+  "question": "Un trattato tra due Stati riconosce la libertà di navigazione su un fiume internazionale anche alle navi di uno Stato terzo. A quali condizioni quest'ultimo acquista tale diritto, secondo la Convenzione di Vienna del 1969?",
+  "options": [
+   "Se il trattato è stato registrato presso il Segretariato generale delle Nazioni Unite",
+   "Mai, perché un trattato non può produrre alcun effetto per gli Stati che non ne sono parti",
+   "Se le parti hanno inteso chiaramente attribuirglielo e lo Stato terzo lo ha accettato",
+   "Se lo Stato terzo confina con almeno uno degli Stati che hanno concluso il trattato"
+  ],
+  "answer": 2,
+  "explanation": "Il trattato è fonte di diritto particolare, ma in casi limitati può attribuire diritti o obblighi a uno Stato terzo, purché le parti lo abbiano chiaramente inteso e il terzo vi acconsenta. Per i diritti l'assenso del terzo si presume finché non risulta il contrario (art. 36); per gli obblighi serve un'accettazione espressa per iscritto (art. 35)."
+ },
+ {
+  "id": "t4-013",
+  "topic": "Fonti: i trattati",
+  "question": "Come definisce la riserva l'art. 2 della Convenzione di Vienna del 1969?",
+  "options": [
+   "Accordo tra tutte le parti con cui si modificano alcune disposizioni del trattato prima della sua entrata in vigore",
+   "Dichiarazione unilaterale con cui uno Stato contesta la compatibilità della riserva formulata da un altro Stato",
+   "Dichiarazione unilaterale con cui uno Stato comunica la propria volontà di recedere da alcune disposizioni",
+   "Dichiarazione unilaterale con cui uno Stato mira a escludere o modificare l'effetto giuridico di alcune disposizioni nei suoi confronti"
+  ],
+  "answer": 3,
+  "explanation": "Per l'art. 2 la riserva è una dichiarazione unilaterale, comunque formulata o denominata, resa quando lo Stato sottoscrive, ratifica, accetta, approva un trattato o vi aderisce, per escludere o modificare l'effetto di alcune disposizioni nei suoi confronti. La contestazione di una riserva altrui è invece un'obiezione."
+ },
+ {
+  "id": "t4-014",
+  "topic": "Fonti: i trattati",
+  "question": "Un trattato non contiene alcuna disposizione sulle riserve. Secondo la Convenzione di Vienna del 1969, uno Stato può apporre una riserva?",
+  "options": [
+   "Sì, purché la riserva sia compatibile con l'oggetto e lo scopo del trattato",
+   "No, perché in mancanza di espressa previsione le riserve sono sempre vietate",
+   "Sì, senza alcun limite, perché la riserva è una dichiarazione unilaterale",
+   "Sì, ma solo se tutti gli altri Stati la accettano all'unanimità in anticipo"
+  ],
+  "answer": 0,
+  "explanation": "Un trattato può ammettere o vietare espressamente le riserve; se tace, la Convenzione di Vienna le consente purché compatibili con l'oggetto e lo scopo del trattato."
+ },
+ {
+  "id": "t4-015",
+  "topic": "Fonti: i trattati",
+  "question": "Perché l'Italia ha formulato obiezioni alle riserve di Siria e Botswana alla Convenzione di New York del 1989 sui diritti del fanciullo?",
+  "options": [
+   "Perché erano eccessivamente ampie e in contrasto con lo scopo della convenzione",
+   "Perché erano state formulate dopo l'entrata in vigore della convenzione",
+   "Perché non erano state registrate presso il Segretariato generale ONU",
+   "Perché riguardavano norme procedurali e non disposizioni sostanziali"
+  ],
+  "answer": 0,
+  "explanation": "La Siria aveva escluso le disposizioni contrarie alla propria legislazione e alla Shariah (in particolare l'art. 14 sulla libertà di religione) e il Botswana quelle in conflitto con le sue leggi: riserve così generiche svuotavano gli impegni e contrastavano con lo scopo della convenzione."
+ },
+ {
+  "id": "t4-016",
+  "topic": "Fonti: i trattati",
+  "question": "Lo Stato A appone una riserva; lo Stato B obietta e si oppone all'entrata in vigore del trattato con A; lo Stato C non obietta. Quali sono gli effetti?",
+  "options": [
+   "Il trattato non entra in vigore per nessuno degli Stati che ne sono parti",
+   "Il trattato si applica tra A e B come modificato dalla riserva formulata",
+   "La riserva si considera ritirata e il trattato si applica integralmente",
+   "Il trattato non entra in vigore tra A e B, ma può entrare in vigore tra A e C"
+  ],
+  "answer": 3,
+  "explanation": "Secondo i principi della Convenzione di Vienna, se lo Stato obiettante si oppone all'entrata in vigore del trattato, questo non è efficace tra obiettante e riservante, ma può esserlo tra il riservante e uno Stato che non obietta."
+ },
+ {
+  "id": "t4-017",
+  "topic": "Fonti: i trattati",
+  "question": "Quali criteri interpretativi privilegia l'art. 31 della Convenzione di Vienna del 1969?",
+  "options": [
+   "Il criterio soggettivo e il criterio evolutivo",
+   "Il criterio oggettivo e il criterio funzionale",
+   "Il solo criterio soggettivo dei lavori preparatori",
+   "Il criterio soggettivo e il criterio funzionale"
+  ],
+  "answer": 1,
+  "explanation": "L'art. 31 impone di interpretare il trattato in buona fede secondo il senso comune dei termini (criterio oggettivo) nel loro contesto e alla luce dell'oggetto e dello scopo (criterio funzionale)."
+ },
+ {
+  "id": "t4-018",
+  "topic": "Fonti: i trattati",
+  "question": "Nell'interpretare una disposizione ambigua, un tribunale vuole consultare i lavori preparatori del trattato. Che spazio ha questo criterio nella Convenzione di Vienna?",
+  "options": [
+   "Ha carattere prioritario e precede l'esame del testo del trattato (art. 31)",
+   "È escluso del tutto, perché conta solo il testo letterale del trattato (art. 31)",
+   "È ammesso solo se tutte le parti vi acconsentono espressamente (art. 33)",
+   "Ha carattere residuale e si usa quando gli altri criteri non bastano (art. 32)"
+  ],
+  "answer": 3,
+  "explanation": "La consultazione dei lavori preparatori corrisponde al criterio soggettivo, fondato sulla volontà originaria delle parti; l'art. 32 della Convenzione di Vienna lo ammette solo in via residuale."
+ },
+ {
+  "id": "t4-019",
+  "topic": "Fonti: i trattati",
+  "question": "Nella controversia sul fiume di confine decisa dalla CIG nel 2009 (Costa Rica c. Nicaragua), come è stato interpretato il termine «comercio» del trattato ottocentesco?",
+  "options": [
+   "Secondo il significato dell'epoca, limitato al solo trasporto di merci",
+   "Secondo il significato attuale, che comprende il trasporto di persone e di beni",
+   "Secondo il significato risultante dai lavori preparatori del trattato",
+   "Secondo il significato attribuitogli dalla legislazione del Nicaragua"
+  ],
+  "answer": 1,
+  "explanation": "Applicando l'interpretazione evolutiva, la CIG ha dato ragione al Costa Rica: poiché il significato dei termini può evolvere nel tempo, conta quello attuale, e oggi il trasporto commerciale comprende anche le persone."
+ },
+ {
+  "id": "t4-020",
+  "topic": "Fonti: i trattati",
+  "question": "Due versioni linguistiche autentiche di una disposizione di un trattato sui diritti umani sono tra loro discordanti. Come si risolve il contrasto secondo l'art. 33 della Convenzione di Vienna?",
+  "options": [
+   "Si applica la versione redatta in inglese, lingua della prassi diplomatica",
+   "Si adotta il significato che meglio concilia i testi, tenendo conto dell'oggetto e dello scopo del trattato",
+   "Si applica la versione nella lingua dello Stato che invoca la disposizione",
+   "Si applica la traduzione ufficiale più recente del trattato"
+  ],
+  "answer": 1,
+  "explanation": "L'art. 33, par. 4, della Convenzione di Vienna impone di adottare il significato che meglio concilia i testi tenendo conto dell'oggetto e dello scopo del trattato, cioè quello che permette maggiormente di raggiungerne lo scopo (in un trattato sui diritti umani, quello che tutela appieno il diritto). Le traduzioni in lingue non autentiche non sono giuridicamente rilevanti."
+ },
+ {
+  "id": "t4-021",
+  "topic": "Fonti: i trattati",
+  "question": "Che cosa afferma la teoria dei poteri impliciti?",
+  "options": [
+   "Gli Stati membri possono esercitare i poteri che lo statuto non attribuisce all'organizzazione",
+   "Un'organizzazione internazionale può attribuirsi qualsiasi potere utile al perseguimento dei suoi fini",
+   "Lo statuto di un'organizzazione internazionale va interpretato solo secondo il suo testo letterale",
+   "Un'organizzazione internazionale ha anche i poteri non espressi necessari a svolgere le sue funzioni"
+  ],
+  "answer": 3,
+  "explanation": "La teoria, elaborata per interpretare i trattati istitutivi delle organizzazioni internazionali, riconosce i poteri non espressi ma necessari alle funzioni; va applicata con cautela per il principio di attribuzione, quindi l'organizzazione non può inventarsi poteri che non ha."
+ },
+ {
+  "id": "t4-022",
+  "topic": "Fonti: i trattati",
+  "question": "Lo Stato A si dissolve e sul suo territorio nascono due nuovi Stati, B e C. Secondo il diritto consuetudinario, che ne è dei trattati non localizzabili conclusi da A?",
+  "options": [
+   "Non vincolano B e C, in base al principio della tabula rasa",
+   "Vincolano B e C, in base al principio della continuità dei trattati",
+   "Vincolano B e C, in base al principio della mobilità delle frontiere",
+   "Vincolano solo il nuovo Stato con il territorio più esteso"
+  ],
+  "answer": 0,
+  "explanation": "Nello smembramento lo Stato predecessore si estingue; per i trattati non localizzabili, in caso di secessione, fusione o smembramento vale la tabula rasa: i nuovi Stati non sono vincolati dai trattati del predecessore."
+ },
+ {
+  "id": "t4-023",
+  "topic": "Fonti: i trattati",
+  "question": "Lo Stato A viene interamente incorporato nello Stato B, già esistente. Secondo il diritto consuetudinario, quali trattati non localizzabili si applicano al territorio dell'ex Stato A?",
+  "options": [
+   "I trattati dello Stato A, che continuano ad applicarsi a quel territorio",
+   "I trattati dello Stato B, che si estendono al territorio acquisito",
+   "Nessun trattato, per un periodo transitorio fissato dalla consuetudine",
+   "I trattati di entrambi gli Stati, applicati congiuntamente su quel territorio"
+  ],
+  "answer": 1,
+  "explanation": "In caso di incorporazione o distacco vale il principio della mobilità delle frontiere dei trattati: i trattati dello Stato successore si estendono ai territori acquisiti (nel distacco, inoltre, i trattati del predecessore cessano di avere efficacia sul territorio trasferito)."
+ },
+ {
+  "id": "t4-024",
+  "topic": "Fonti: i trattati",
+  "question": "Quale delle seguenti è una causa di invalidità assoluta di un trattato secondo la Convenzione di Vienna del 1969?",
+  "options": [
+   "L'errore di uno Stato sulla realtà regolata dal trattato",
+   "Il dolo con cui uno Stato è stato ingannato dagli altri",
+   "La violenza esercitata sullo Stato per costringerlo a stipulare",
+   "La violazione di norme interne sulla competenza a stipulare"
+  ],
+  "answer": 2,
+  "explanation": "Le invalidità assolute (violenza e contrasto con lo jus cogens) colpiscono l'intero trattato, non sono sanabili e possono essere fatte valere da qualsiasi Stato contraente; errore, dolo e violazione di norme interne sono invece invalidità relative."
+ },
+ {
+  "id": "t4-025",
+  "topic": "Fonti: i trattati",
+  "question": "L'Italia ratifica un trattato senza la legge di autorizzazione richiesta dall'art. 80 Cost. e anni dopo vuole farne valere l'invalidità. In base all'art. 46 della Convenzione di Vienna, quando può farlo?",
+  "options": [
+   "Sempre, perché l'art. 80 Cost. è una norma costituzionale e quindi prevale sul trattato",
+   "Solo se la violazione era manifesta e riguardava una norma interna di importanza fondamentale",
+   "Mai, perché il diritto interno di uno Stato è in ogni caso irrilevante per il diritto internazionale",
+   "Solo se tutti gli altri Stati contraenti acconsentono a dichiarare l'invalidità del trattato"
+  ],
+  "answer": 1,
+  "explanation": "L'art. 46 esclude di regola che uno Stato invochi la violazione del proprio diritto interno sulla competenza a stipulare, salvo che sia manifesta, cioè obiettivamente evidente per Stati che si comportino secondo la prassi abituale e in buona fede, e riguardi una norma di importanza fondamentale."
+ },
+ {
+  "id": "t4-026",
+  "topic": "Fonti: i trattati",
+  "question": "Due Stati concludono un trattato che autorizza reciprocamente i propri agenti a praticare la tortura sui prigionieri. Quale sorte ha il trattato?",
+  "options": [
+   "È valido tra le parti, perché le norme consuetudinarie sono derogabili per accordo",
+   "È invalido solo se uno dei due Stati, il cui consenso è viziato, lo fa valere",
+   "È valido finché uno dei due Stati non lo denuncia secondo l'art. 56",
+   "È invalido in modo assoluto, perché contrasta con una norma di jus cogens (art. 53)"
+  ],
+  "answer": 3,
+  "explanation": "Il divieto di tortura è un esempio di jus cogens, norma alla quale non è permessa alcuna deroga: per l'art. 53 della Convenzione di Vienna un trattato in conflitto con una norma imperativa al tempo della conclusione è invalido."
+ },
+ {
+  "id": "t4-027",
+  "topic": "Fonti: i trattati",
+  "question": "Il trattato istitutivo della CECA si è estinto nel 2002. Per quale causa di estinzione?",
+  "options": [
+   "Per il verificarsi di una condizione risolutiva",
+   "Per il termine finale previsto nel trattato",
+   "Per la denuncia da parte degli Stati membri",
+   "Per un mutamento fondamentale delle circostanze"
+  ],
+  "answer": 1,
+  "explanation": "Il termine finale è la data di cessazione dell'efficacia fissata dagli Stati nel trattato stesso; il trattato CECA, tra le prime forme di integrazione europea, si è estinto così nel 2002."
+ },
+ {
+  "id": "t4-028",
+  "topic": "Fonti: i trattati",
+  "question": "Un accordo commerciale tra l'Unione europea e uno Stato terzo qualifica come «essenziale» la clausola di rispetto della democrazia. Lo Stato terzo la viola gravemente. Che cosa può fare l'UE?",
+  "options": [
+   "Invocare il mutamento fondamentale delle circostanze (art. 62)",
+   "Far dichiarare l'invalidità assoluta del trattato per violenza esercitata sull'UE",
+   "Invocare la violazione sostanziale come motivo di estinzione del trattato (art. 60)",
+   "Nulla, perché solo la CIG può dichiarare estinto un trattato"
+  ],
+  "answer": 2,
+  "explanation": "L'art. 60 della Convenzione di Vienna consente di invocare la violazione del trattato come motivo di estinzione se è sostanziale, cioè riguarda una disposizione essenziale per lo scopo del trattato: la clausola democratica qualificata come essenziale rientra in questa ipotesi."
+ },
+ {
+  "id": "t4-029",
+  "topic": "Fonti: i trattati",
+  "question": "A quali condizioni uno Stato può invocare il mutamento delle circostanze (clausola rebus sic stantibus, art. 62 della Convenzione di Vienna) per far estinguere un trattato?",
+  "options": [
+   "Ogni volta che l'esecuzione del trattato è diventata più onerosa per lo Stato stesso",
+   "Se il mutamento deriva dalla violazione del trattato commessa dallo Stato che lo invoca",
+   "Se è trascorso il termine minimo di vigenza del trattato fissato dalla Convenzione",
+   "Se il mutamento è fondamentale e imprevedibile, riguarda una base essenziale del consenso e non deriva da una violazione dello Stato che lo invoca"
+  ],
+  "answer": 3,
+  "explanation": "La clausola rebus sic stantibus è una deroga al principio pacta sunt servanda e si ammette solo in casi eccezionali: mutamento fondamentale e imprevedibile di circostanze che costituivano una base essenziale del consenso delle parti, non derivante da una violazione, da parte dello Stato che lo invoca, del trattato o di altre norme internazionali."
+ },
+ {
+  "id": "t4-030",
+  "topic": "Fonti: i trattati",
+  "question": "Lo Stato A appone una riserva a un trattato; lo Stato B obietta, ma dichiara di non opporsi all'entrata in vigore del trattato tra i due. Quale effetto si produce?",
+  "options": [
+   "Il trattato entra in vigore tra A e B, ma le disposizioni oggetto della riserva non si applicano tra loro nei limiti della riserva",
+   "Il trattato non entra in vigore tra A e B, ma solo tra A e gli Stati che hanno accettato la riserva",
+   "Il trattato si applica tra A e B nella sua interezza, perché l'obiezione rende inefficace la riserva",
+   "La riserva diventa vincolante anche per B, che perde il diritto di contestarla in seguito"
+  ],
+  "answer": 0,
+  "explanation": "Se lo Stato obiettante non si oppone all'entrata in vigore, il trattato vincola i due Stati, ma le disposizioni cui si riferisce la riserva non si applicano tra loro nei limiti della riserva (art. 21, par. 3, Conv. Vienna). Se invece si oppone, il trattato non entra in vigore tra lo Stato obiettante e quello che ha apposto la riserva."
+ },
+ {
+  "id": "t4-031",
+  "topic": "Fonti: i trattati",
+  "question": "Gli Stati Uniti hanno firmato lo Statuto di Roma, ma non l'hanno ratificato. Quale conseguenza ne deriva per la Corte penale internazionale?",
+  "options": [
+   "La Corte non può mai giudicare un cittadino statunitense, qualunque sia il luogo del crimine",
+   "La Corte non ha giurisdizione sui cittadini USA in base alla nazionalità, ma può giudicarli per crimini commessi sul territorio di uno Stato parte",
+   "Con la sola firma gli Stati Uniti sono vincolati allo Statuto come se lo avessero ratificato",
+   "Lo Statuto si applica agli Stati Uniti solo dopo la registrazione presso il Segretariato dell'ONU"
+  ],
+  "answer": 1,
+  "explanation": "La firma autentica il testo ma non vincola lo Stato, che si obbliga solo con la ratifica: gli USA non sono parte dello Statuto (e nel 2002 hanno comunicato di non voler diventarlo). La Corte può però giudicare cittadini statunitensi per crimini commessi sul territorio di uno Stato parte (art. 12 dello Statuto)."
+ },
+ {
+  "id": "t4-032",
+  "topic": "Fonti: i trattati",
+  "question": "Quali sono le lingue autentiche della Carta delle Nazioni Unite indicate dall'art. 111?",
+  "options": [
+   "Inglese, francese, russo, cinese, spagnolo e arabo",
+   "Solo inglese e francese; le altre versioni sono traduzioni ufficiali",
+   "Le lingue di tutti gli Stati che hanno firmato la Carta a San Francisco",
+   "Inglese, francese, cinese, russo e spagnolo"
+  ],
+  "answer": 3,
+  "explanation": "L'art. 111 della Carta indica cinque testi autentici: cinese, francese, russo, inglese e spagnolo. L'arabo è oggi una lingua ufficiale dell'ONU, ma non è tra le lingue autentiche della Carta; le traduzioni in lingue non indicate come autentiche non sono giuridicamente rilevanti."
+ },
+ {
+  "id": "t5-001",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Quale disposizione richiama i principi generali di diritto «riconosciuti dalle nazioni civili» come fonte del diritto internazionale?",
+  "options": [
+   "L'art. 103 della Carta delle Nazioni Unite",
+   "L'art. 38 dello Statuto della Corte internazionale di giustizia",
+   "L'art. 30 della Convenzione di Vienna sul diritto dei trattati",
+   "L'art. 27 della Convenzione di Vienna sul diritto dei trattati"
+  ],
+  "answer": 1,
+  "explanation": "L'art. 38 dello Statuto della CIG, allegato alla Carta ONU del 1945, indica i principi generali di diritto riconosciuti dalle nazioni civili come terza fonte del diritto internazionale."
+ },
+ {
+  "id": "t5-002",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Nella sentenza della CIG sulla piattaforma continentale del Mare del Nord, in quale atto il giudice Ammoun definì la distinzione tra nazioni civili e non civili un'eredità del colonialismo?",
+  "options": [
+   "In un'opinione individuale allegata alla sentenza",
+   "Nel dispositivo della sentenza adottata all'unanimità",
+   "In un parere consultivo richiesto dall'Assemblea generale",
+   "In una dichiarazione allegata a un'ordinanza cautelare"
+  ],
+  "answer": 0,
+  "explanation": "Il giudice Ammoun espresse questa critica in un'opinione individuale (separate opinion) allegata alla sentenza CIG sul Mare del Nord del 1969, in linea con la contestazione del riferimento alle «nazioni civili» da parte degli Stati sorti dalla decolonizzazione."
+ },
+ {
+  "id": "t5-003",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "In quale situazione la Corte internazionale di giustizia ricorre tipicamente ai principi generali di diritto?",
+  "options": [
+   "Quando una delle parti chiede di disapplicare un trattato in vigore",
+   "Quando la consuetudine contrasta con una norma di jus cogens",
+   "Quando né una consuetudine né un trattato consentono di risolvere la controversia",
+   "Quando gli Stati in lite non hanno accettato la giurisdizione della Corte"
+  ],
+  "answer": 2,
+  "explanation": "I principi generali servono a colmare le lacune del diritto internazionale: se consuetudine e trattati non risolvono la controversia, la Corte individua principi comuni almeno agli Stati parti."
+ },
+ {
+  "id": "t5-004",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Quale dei seguenti è indicato negli appunti come esempio di principio generale di diritto?",
+  "options": [
+   "Il principio dell'immunità degli agenti diplomatici",
+   "Il divieto di uso della forza armata",
+   "Il principio di libertà dei mari",
+   "Il principio ne bis in idem"
+  ],
+  "answer": 3,
+  "explanation": "Tra gli esempi di principi generali di diritto gli appunti citano il ne bis in idem, la terzietà del giudice e il nullum crimen sine lege."
+ },
+ {
+  "id": "t5-005",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Perché gli atti vincolanti delle organizzazioni internazionali sono considerati fonti di terzo grado?",
+  "options": [
+   "Perché sono previsti da trattati istitutivi, che sono fonti di secondo grado",
+   "Perché sono adottati a maggioranza e non all'unanimità degli Stati membri",
+   "Perché sono elencati per terzi nell'art. 38 dello Statuto della CIG",
+   "Perché vincolano soltanto gli Stati che ne hanno votato l'adozione"
+  ],
+  "answer": 0,
+  "explanation": "Gli atti vincolanti delle OI traggono fondamento dal trattato istitutivo (fonte di secondo grado), che a sua volta discende dalla consuetudine pacta sunt servanda (primo grado); non possono quindi contrastare né consuetudini né trattati istitutivi."
+ },
+ {
+  "id": "t5-006",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Due norme consuetudinarie internazionali hanno contenuto contrastante. Quale prevale?",
+  "options": [
+   "Quella formatasi con la partecipazione del maggior numero di Stati",
+   "Quella riconosciuta per prima dalla Corte internazionale di giustizia",
+   "Quella successiva in ordine cronologico",
+   "Quella più risalente nel tempo, in quanto consolidata"
+  ],
+  "answer": 2,
+  "explanation": "Nel conflitto tra due consuetudini prevale l'ultima in ordine cronologico, dato che nel diritto internazionale manca una gerarchia formale tra le fonti."
+ },
+ {
+  "id": "t5-007",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Tunisia e Marocco concludono un trattato; in seguito il Marocco conclude con l'Algeria un trattato incompatibile sulla stessa materia. Che cosa accade secondo l'art. 30 della Convenzione di Vienna?",
+  "options": [
+   "Il trattato con l'Algeria è nullo perché successivo e incompatibile con il primo",
+   "Entrambi i trattati si estinguono automaticamente per incompatibilità",
+   "Prevale il trattato più recente, che diventa vincolante anche per la Tunisia",
+   "Il Marocco sceglie a quale trattato conformarsi, restando responsabile verso l'altro Stato"
+  ],
+  "answer": 3,
+  "explanation": "Se le parti dei due trattati coincidono solo in parte, lo Stato parte di entrambi sceglie a quale conformarsi, ferma la sua responsabilità internazionale verso l'altro contraente (art. 30 Conv. Vienna)."
+ },
+ {
+  "id": "t5-008",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Che tipo di clausola è contenuta nell'art. 103 della Carta delle Nazioni Unite?",
+  "options": [
+   "Una clausola di prevalenza, per cui gli obblighi della Carta prevalgono su quelli di altri accordi",
+   "Una clausola di subordinazione, per cui la Carta cede agli accordi precedenti dei membri",
+   "Una clausola di recesso, per cui i membri possono uscire dall'ONU in caso di conflitto",
+   "Una clausola di riserva, per cui i membri possono escludere singole disposizioni"
+  ],
+  "answer": 0,
+  "explanation": "L'art. 103 della Carta ONU stabilisce che, in caso di contrasto, prevalgono gli obblighi derivanti dalla Carta: è l'esempio tipico di clausola di prevalenza."
+ },
+ {
+  "id": "t5-009",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "L'art. 351 TFUE, secondo cui le disposizioni dei trattati non pregiudicano gli accordi conclusi dagli Stati membri con Stati terzi prima dell'adesione all'UE, è un esempio di:",
+  "options": [
+   "clausola di prevalenza",
+   "norma di jus cogens",
+   "clausola di subordinazione",
+   "ordine di esecuzione"
+  ],
+  "answer": 2,
+  "explanation": "Con la clausola di subordinazione il trattato cede rispetto ad altri accordi: l'art. 351 TFUE (trattati UE dopo Lisbona) fa salvi gli accordi conclusi da uno Stato membro con Stati terzi prima dell'adesione all'Unione."
+ },
+ {
+  "id": "t5-010",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "In caso di contrasto tra un trattato e una consuetudine anteriore, quale regola si applica di norma?",
+  "options": [
+   "Prevale la consuetudine, in quanto fonte di primo grado",
+   "Prevale il trattato, in applicazione del principio lex specialis derogat generali",
+   "Il trattato è invalido perché contrario a una fonte superiore",
+   "Si applica la norma che gli Stati parti indicano caso per caso"
+  ],
+  "answer": 1,
+  "explanation": "Il trattato vincola solo le parti e detta una disciplina speciale rispetto alla consuetudine, fonte generale: per il principio di specialità prevale quindi il trattato."
+ },
+ {
+  "id": "t5-011",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Quale limite incontra un trattato che intenda derogare al diritto internazionale generale?",
+  "options": [
+   "Non può derogare ad alcuna consuetudine internazionale",
+   "Può derogare solo a consuetudini formatesi dopo la sua entrata in vigore",
+   "Può derogare solo se ratificato da tutti gli Stati membri dell'ONU",
+   "Non può derogare a una norma di jus cogens, a pena di invalidità"
+  ],
+  "answer": 3,
+  "explanation": "Un trattato può derogare a una consuetudine ordinaria, ma non a una norma imperativa (jus cogens): il trattato contrario a jus cogens è invalido."
+ },
+ {
+  "id": "t5-012",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Quale affermazione descrive correttamente la soft law?",
+  "options": [
+   "Atti non vincolanti, per lo più delle OI, con rilievo politico ma privi di effetti giuridici",
+   "Atti vincolanti delle OI che costituiscono fonti di terzo grado del diritto internazionale",
+   "Consuetudini in corso di formazione che vincolano solo gli Stati che le praticano",
+   "Trattati in forma semplificata conclusi senza ratifica da parte dei Parlamenti"
+  ],
+  "answer": 0,
+  "explanation": "La soft law comprende atti e dichiarazioni non vincolanti, come le dichiarazioni di principi dell'Assemblea generale ONU o i codici di condotta per le multinazionali: non sono fonti, ma strumenti di pressione politica."
+ },
+ {
+  "id": "t5-013",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Quale atteggiamento ha il diritto internazionale verso le procedure con cui gli Stati si adattano alle norme internazionali?",
+  "options": [
+   "Impone a tutti gli Stati l'adattamento automatico tramite norma costituzionale",
+   "Le lascia alla libera scelta degli Stati, purché il risultato sia raggiunto",
+   "Richiede sempre una legge di recepimento che trascriva il testo integrale",
+   "Ammette solo procedure approvate dalla Corte internazionale di giustizia"
+  ],
+  "answer": 1,
+  "explanation": "Il diritto internazionale si disinteressa delle procedure di adattamento, rimesse alla discrezionalità degli Stati: conta che la norma internazionale sia effettivamente recepita."
+ },
+ {
+  "id": "t5-014",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Nel caso LaGrand, la condanna a morte di due cittadini tedeschi era stata decisa dallo Stato dell'Arizona. Chi è stato ritenuto responsabile sul piano internazionale?",
+  "options": [
+   "Lo Stato dell'Arizona, in quanto autore della condanna",
+   "Il Governatore dell'Arizona, personalmente",
+   "Arizona e Stati Uniti in via solidale",
+   "Gli Stati Uniti d'America"
+  ],
+  "answer": 3,
+  "explanation": "La CIG ha affermato che la responsabilità internazionale è dello Stato, cioè degli Stati Uniti, anche se l'attuazione delle misure rientrava nella competenza del Governatore dell'Arizona."
+ },
+ {
+  "id": "t5-015",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Uno Stato non ha dato esecuzione a un trattato e invoca la propria legislazione interna per giustificarsi. Quale disposizione glielo impedisce?",
+  "options": [
+   "L'art. 27 della Convenzione di Vienna sul diritto dei trattati",
+   "L'art. 30 della Convenzione di Vienna sul diritto dei trattati",
+   "L'art. 38 dello Statuto della Corte internazionale di giustizia",
+   "L'art. 103 della Carta delle Nazioni Unite"
+  ],
+  "answer": 0,
+  "explanation": "L'art. 27 della Convenzione di Vienna stabilisce che una parte non può invocare il proprio diritto interno per giustificare la mancata esecuzione di un trattato."
+ },
+ {
+  "id": "t5-016",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Secondo la tesi monista sui rapporti tra diritto internazionale e diritto statale:",
+  "options": [
+   "i due ordinamenti sono separati e serve sempre un atto di recepimento",
+   "il diritto internazionale vincola solo gli Stati che lo hanno codificato",
+   "i due ordinamenti sono integrati e il DI si applica senza atti di recepimento",
+   "il diritto statale prevale sempre sul diritto internazionale in caso di contrasto"
+  ],
+  "answer": 2,
+  "explanation": "Per i monisti i due ordinamenti formano un tutt'uno e il diritto internazionale è applicato direttamente dagli organi statali; Focarelli giudica ormai irrilevante l'opposizione tra monismo e dualismo."
+ },
+ {
+  "id": "t5-017",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Secondo la sentenza della Corte costituzionale n. 348/2007, a quali norme si riferisce l'art. 10 Cost. («norme del diritto internazionale generalmente riconosciute»)?",
+  "options": [
+   "A tutti i trattati multilaterali ratificati dall'Italia",
+   "Soltanto alle norme consuetudinarie internazionali",
+   "Ai trattati bilaterali e multilaterali eseguiti con legge",
+   "Agli atti vincolanti delle organizzazioni internazionali"
+  ],
+  "answer": 1,
+  "explanation": "La sentenza 348/2007 ha chiarito che l'art. 10 riguarda solo le consuetudini e ne dispone l'adattamento automatico, mentre le norme pattizie esulano dalla sua portata."
+ },
+ {
+  "id": "t5-018",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Il Parlamento approva una legge in contrasto con una consuetudine internazionale generalmente riconosciuta. Quale ne è la sorte?",
+  "options": [
+   "Prevale sulla consuetudine perché successiva",
+   "È valida, ma lo Stato risponde solo sul piano internazionale",
+   "È costituzionalmente illegittima per violazione indiretta dell'art. 10 Cost.",
+   "È disapplicata solo se la consuetudine è anche norma di jus cogens"
+  ],
+  "answer": 2,
+  "explanation": "La consuetudine recepita tramite l'art. 10 ha rango costituzionale: una legge contraria è costituzionalmente illegittima, perché viola indirettamente l'art. 10."
+ },
+ {
+  "id": "t5-019",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "In che cosa consiste il procedimento speciale (o per rinvio) di adattamento ai trattati?",
+  "options": [
+   "Nella trascrizione integrale del trattato in una legge ordinaria",
+   "Nell'applicazione automatica del trattato tramite l'art. 10 Cost.",
+   "Nell'adozione di un regolamento governativo che riassume il trattato",
+   "In una legge con l'ordine di esecuzione che rinvia al testo del trattato"
+  ],
+  "answer": 3,
+  "explanation": "Nel procedimento per rinvio il Parlamento approva una legge contenente l'ordine di esecuzione («piena ed intera esecuzione è data...») senza riprodurre il testo; è il più usato per rapidità e opportunità."
+ },
+ {
+  "id": "t5-020",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "La Convenzione dell'Aia del 1970 per la repressione della cattura illecita di aeromobili prevede che gli Stati puniscano gli autori con pene «severe». Quale procedimento di adattamento è necessario?",
+  "options": [
+   "Il procedimento ordinario, perché la norma non è self-executing",
+   "Il procedimento per rinvio, perché la norma è direttamente applicabile",
+   "L'adattamento automatico tramite l'art. 10 della Costituzione",
+   "Nessuno, perché la norma ha natura di soft law"
+  ],
+  "answer": 0,
+  "explanation": "Le norme non self-executing (norme quadro) richiedono che il legislatore ne specifichi il contenuto, ad esempio fissando le pene: non basta rinviare al testo con l'ordine di esecuzione, serve il procedimento ordinario."
+ },
+ {
+  "id": "t5-021",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Secondo le «sentenze gemelle» della Corte costituzionale del 2007, quale rango ha la legge che dà esecuzione a un trattato internazionale?",
+  "options": [
+   "Rango costituzionale, come le consuetudini recepite con l'art. 10",
+   "Rango sub-costituzionale, superiore alla legge ordinaria in virtù dell'art. 117 Cost.",
+   "Rango di legge ordinaria, derogabile da una legge successiva",
+   "Rango regolamentare, perché attua obblighi assunti dal Governo"
+  ],
+  "answer": 1,
+  "explanation": "In base all'art. 117, primo comma, Cost. (riforma del 2001), la legge di adattamento a un trattato ha forza superiore alla legge ordinaria ma resta subordinata alla Costituzione: una legge successiva contraria è costituzionalmente illegittima e perde efficacia quando la Corte costituzionale la dichiara tale."
+ },
+ {
+  "id": "t5-022",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Una Regione non attua, in una materia di sua competenza legislativa, un accordo internazionale ratificato dall'Italia. Che cosa prevede la Costituzione?",
+  "options": [
+   "La Regione risponde direttamente sul piano internazionale",
+   "L'accordo resta inattuato fino a nuova legge regionale",
+   "Lo Stato esercita il potere sostitutivo previsto dall'art. 120 Cost.",
+   "L'accordo si applica automaticamente in base all'art. 10 Cost."
+  ],
+  "answer": 2,
+  "explanation": "Dopo la riforma del 2001 le Regioni attuano gli accordi internazionali nelle materie di loro competenza (art. 117 Cost.); se sono inadempienti, lo Stato interviene con il potere sostitutivo dell'art. 120 Cost."
+ },
+ {
+  "id": "t5-023",
+  "topic": "Altre fonti e adattamento del diritto interno",
+  "question": "Una norma consuetudinaria si forma dopo la conclusione di un trattato e ne contrasta il contenuto. Quale delle due prevale secondo gli appunti?",
+  "options": [
+   "La consuetudine, in quanto norma successiva, se gli Stati contraenti hanno contribuito a formarla e intendono applicarla tra loro",
+   "Il trattato, perché come norma speciale deroga sempre alla consuetudine generale, anche se successiva",
+   "Il trattato diventa invalido, come accade quando contrasta con una norma di jus cogens",
+   "La consuetudine, ma solo dopo che l'Assemblea generale l'ha codificata in una dichiarazione di principi"
+  ],
+  "answer": 0,
+  "explanation": "Di regola il trattato prevale sulla consuetudine (lex specialis derogat generali); se però la consuetudine è successiva al trattato, prevale in quanto norma successiva, purché gli Stati contraenti abbiano contribuito alla sua formazione e intendano applicarla nei loro rapporti reciproci."
+ },
+ {
+  "id": "t6-001",
+  "topic": "Responsabilità internazionale",
+  "question": "Secondo gli appunti, quali sono i due elementi costitutivi dell'illecito internazionale?",
+  "options": [
+   "L'elemento oggettivo (condotta contraria a un obbligo internazionale) e l'elemento soggettivo (attribuzione della condotta a un soggetto di diritto internazionale)",
+   "L'elemento oggettivo (danno materiale subito da un altro Stato) e l'elemento soggettivo (colpa o dolo degli individui-organi che hanno agito)",
+   "L'elemento oggettivo (violazione di una norma di jus cogens) e l'elemento soggettivo (accertamento dell'illecito da parte di un giudice internazionale)",
+   "L'elemento oggettivo (condotta contraria al diritto interno) e l'elemento soggettivo (protesta formale dello Stato che si ritiene leso)"
+  ],
+  "answer": 0,
+  "explanation": "L'illecito internazionale si compone di un elemento oggettivo, cioè il comportamento contrario a un obbligo internazionale, e di un elemento soggettivo, cioè la riconducibilità di quel comportamento a un soggetto di diritto internazionale."
+ },
+ {
+  "id": "t6-002",
+  "topic": "Responsabilità internazionale",
+  "question": "Che valore ha il Progetto di articoli sulla responsabilità internazionale degli Stati elaborato dalla Commissione di diritto internazionale?",
+  "options": [
+   "È un trattato vincolante per tutti gli Stati membri delle Nazioni Unite fin dalla sua adozione",
+   "Non è di per sé vincolante, ma codifica il diritto internazionale consuetudinario in materia",
+   "È una risoluzione vincolante del Consiglio di sicurezza adottata ai sensi del Capitolo VII",
+   "È un insieme di semplici raccomandazioni prive di qualsiasi legame con la prassi degli Stati"
+  ],
+  "answer": 1,
+  "explanation": "Il Progetto (2001) della CDI, organo sussidiario dell'Assemblea Generale incaricato della codificazione, non è un trattato e non è vincolante in sé (l'AG ne ha preso atto con la ris. 56/83, senza ratifiche), ma riproduce in larga parte norme consuetudinarie sulla responsabilità dello Stato."
+ },
+ {
+  "id": "t6-003",
+  "topic": "Responsabilità internazionale",
+  "question": "Nel parere sulle Isole Chagos, la Corte internazionale di giustizia ha qualificato la condotta del Regno Unito, che non consentiva alla popolazione di esercitare il diritto di autodeterminazione, come:",
+  "options": [
+   "un illecito istantaneo ormai prescritto",
+   "un illecito composto da atti successivi",
+   "un fatto illecito a carattere continuato",
+   "una violazione di un obbligo di due diligence"
+  ],
+  "answer": 2,
+  "explanation": "La CIG ha affermato che il Regno Unito commette «un fatto illecito a carattere continuato», poiché gli effetti della violazione si protraggono nel tempo."
+ },
+ {
+  "id": "t6-004",
+  "topic": "Responsabilità internazionale",
+  "question": "Che cosa si intende per violazione di un obbligo di prevenzione o di due diligence?",
+  "options": [
+   "Lo Stato ha compiuto un'azione armata sul territorio di un altro Stato senza il suo consenso",
+   "Lo Stato ha adottato una legge interna in contrasto con un trattato internazionale da esso ratificato",
+   "Lo Stato ha reagito a un illecito altrui con una misura sproporzionata rispetto al danno subito",
+   "Lo Stato non ha fatto tutto ciò che poteva per evitare che si producessero danni a un altro Stato"
+  ],
+  "answer": 3,
+  "explanation": "La violazione di un obbligo di due diligence consiste nel non aver fatto tutto quanto possibile per prevenire danni a un altro Stato."
+ },
+ {
+  "id": "t6-005",
+  "topic": "Responsabilità internazionale",
+  "question": "Quale effetto producono le cause di esclusione dell'illiceità?",
+  "options": [
+   "Escludono l'attribuzione della condotta allo Stato, facendo venir meno l'elemento soggettivo dell'illecito",
+   "Riducono l'ammontare del risarcimento dovuto, lasciando però intatta l'illiceità della condotta",
+   "Rendono lecita una condotta che di per sé violerebbe il diritto internazionale, facendo venir meno l'elemento oggettivo",
+   "Sospendono la responsabilità dello Stato fino a quando un giudice internazionale non si pronunci"
+  ],
+  "answer": 2,
+  "explanation": "Le cause di esclusione dell'illiceità operano sul comportamento dello Stato: una condotta che sarebbe illecita viene considerata lecita, perché viene meno l'elemento oggettivo."
+ },
+ {
+  "id": "t6-006",
+  "topic": "Responsabilità internazionale",
+  "question": "Lo Stato A svolge un'esercitazione militare nel territorio dello Stato B, che vi aveva acconsentito in precedenza. Come si qualifica la condotta di A?",
+  "options": [
+   "È lecita, perché il consenso preventivo dello Stato leso esclude l'illiceità della condotta",
+   "È illecita, perché il consenso dello Stato territoriale non rileva in materia di integrità territoriale",
+   "È lecita, ma solo se lo Stato B conferma il proprio consenso dopo la conclusione dell'esercitazione",
+   "È illecita, ma lo Stato A può invocare lo stato di necessità per escludere la propria responsabilità"
+  ],
+  "answer": 0,
+  "explanation": "Il consenso dello Stato leso, se prestato prima della condotta, è causa di esclusione dell'illiceità: non vi è violazione dell'integrità territoriale di B."
+ },
+ {
+  "id": "t6-007",
+  "topic": "Responsabilità internazionale",
+  "question": "Un sottomarino militare di uno Stato va in avaria e viene trascinato dalla corrente nelle acque territoriali di un altro Stato. Quale causa di esclusione dell'illiceità viene in rilievo?",
+  "options": [
+   "Il consenso dello Stato leso",
+   "La contromisura",
+   "La legittima difesa",
+   "La forza maggiore"
+  ],
+  "answer": 3,
+  "explanation": "Si tratta di forza maggiore: un evento imprevedibile e fuori dal controllo dello Stato rende oggettivamente impossibile rispettare in quel momento la norma internazionale."
+ },
+ {
+  "id": "t6-008",
+  "topic": "Responsabilità internazionale",
+  "question": "Come viene definito negli appunti lo stato di necessità?",
+  "options": [
+   "La situazione in cui uno Stato viola una norma internazionale per reagire a un illecito commesso in precedenza da un altro Stato",
+   "La situazione in cui uno Stato viola una norma internazionale per evitare un pericolo imminente, grave e non da esso causato",
+   "La situazione in cui uno Stato viola una norma internazionale con il consenso preventivo dello Stato che subisce la violazione",
+   "La situazione in cui uno Stato viola una norma internazionale per errore di un proprio funzionario che ha ecceduto le competenze"
+  ],
+  "answer": 1,
+  "explanation": "Nello stato di necessità lo Stato è costretto a violare una norma per evitare un pericolo imminente, grave e non causato da esso; la reazione a un illecito altrui è invece una contromisura."
+ },
+ {
+  "id": "t6-009",
+  "topic": "Responsabilità internazionale",
+  "question": "Le cause di esclusione dell'illiceità possono operare quando la norma violata è una norma di jus cogens?",
+  "options": [
+   "Sì: il consenso dello Stato leso rende lecita anche la commissione di atti di genocidio sul proprio territorio",
+   "No: ad esempio uno Stato non può consentire che militari stranieri commettano atti di genocidio sul proprio territorio",
+   "Sì, ma solo la forza maggiore e lo stato di necessità, mentre consenso e contromisura restano esclusi",
+   "No, salvo che il Consiglio di sicurezza abbia autorizzato in precedenza la condotta dello Stato agente"
+  ],
+  "answer": 1,
+  "explanation": "Le cause di esclusione dell'illiceità non operano rispetto alle norme di jus cogens: il consenso di uno Stato non può rendere lecito un genocidio commesso sul suo territorio."
+ },
+ {
+  "id": "t6-010",
+  "topic": "Responsabilità internazionale",
+  "question": "Secondo l'art. 4 del Progetto della CDI, il comportamento di un organo è attribuito allo Stato:",
+  "options": [
+   "solo se si tratta di un organo del potere esecutivo che agisce in politica estera",
+   "solo se l'organo è espressamente previsto come tale dalla Costituzione dello Stato",
+   "solo se si tratta di un organo del governo centrale e non di un ente territoriale",
+   "qualunque funzione eserciti e qualunque posizione abbia, sia esso organo del governo centrale o di un'unità territoriale"
+  ],
+  "answer": 3,
+  "explanation": "L'art. 4 adotta una formula molto ampia: è atto dello Stato il comportamento di qualsiasi organo, legislativo, esecutivo, giudiziario o altro, centrale o territoriale."
+ },
+ {
+  "id": "t6-011",
+  "topic": "Responsabilità internazionale",
+  "question": "Un agente di polizia, agendo nella sua qualità ufficiale, eccede le proprie competenze e viola una norma internazionale. Secondo l'art. 7 del Progetto della CDI:",
+  "options": [
+   "la condotta è attribuita allo Stato anche se l'organo ha ecceduto la competenza o violato le istruzioni",
+   "la condotta non è attribuita allo Stato, perché l'agente ha agito fuori dalle competenze attribuite",
+   "la condotta è attribuita allo Stato solo se quest'ultimo la riconosce e la adotta in seguito come propria",
+   "la condotta è attribuita all'agente come individuo, che ne risponde davanti a un giudice internazionale"
+  ],
+  "answer": 0,
+  "explanation": "L'art. 7 (eccesso di potere o comportamento contrario a istruzioni) attribuisce allo Stato gli atti ultra vires dei suoi organi che agiscono in tale qualità."
+ },
+ {
+  "id": "t6-012",
+  "topic": "Responsabilità internazionale",
+  "question": "Qual è la regola di principio sugli atti illeciti commessi da privati privi di legami funzionali con lo Stato?",
+  "options": [
+   "Lo Stato ne risponde sempre, perché ogni cittadino è considerato un organo di fatto dello Stato",
+   "Lo Stato ne risponde solo se i privati hanno agito sul territorio di un altro Stato e non sul proprio",
+   "In linea di principio lo Stato non ne risponde, salvo eccezioni come il riconoscimento e l'adozione della condotta",
+   "Lo Stato non ne risponde mai, neppure se omette di prevenire o reprimere gli atti dei privati"
+  ],
+  "answer": 2,
+  "explanation": "Lo Stato non risponde di regola degli atti dei privati; vi sono però eccezioni, come quella dell'art. 11 del Progetto (condotta riconosciuta e adottata dallo Stato come propria)."
+ },
+ {
+  "id": "t6-013",
+  "topic": "Responsabilità internazionale",
+  "question": "Nel caso del personale diplomatico e consolare statunitense a Teheran (CIG, 1980), perché la condotta degli studenti fu attribuita all'Iran?",
+  "options": [
+   "Perché gli studenti erano stati arruolati in precedenza come funzionari del ministero degli esteri iraniano",
+   "Perché l'Iran aveva prestato un consenso preventivo all'occupazione delle sedi diplomatiche straniere",
+   "Perché la Corte applicò il criterio del controllo effettivo sulla singola operazione degli studenti",
+   "Perché i vertici del regime approvarono ufficialmente l'iniziativa e mantennero gli ostaggi, facendo propria la condotta"
+  ],
+  "answer": 3,
+  "explanation": "L'illecito dell'Iran, inizialmente solo omissivo, si trasformò quando le autorità approvarono e prolungarono l'azione dei privati: da quel momento la condotta degli studenti divenne direttamente attribuibile allo Stato iraniano, secondo il principio poi codificato nell'art. 11 del Progetto."
+ },
+ {
+  "id": "t6-014",
+  "topic": "Responsabilità internazionale",
+  "question": "Se privati privi di legami funzionali con lo Stato commettono atti illeciti contro un altro Stato, quale Stato può risponderne per non aver adottato le misure necessarie a prevenirli e reprimerli?",
+  "options": [
+   "Lo Stato di cui i privati sono cittadini, ovunque abbiano commesso gli atti illeciti",
+   "Lo Stato contro cui gli atti sono diretti, per non aver protetto i propri interessi",
+   "Lo Stato sul cui territorio gli atti illeciti sono stati commessi dai privati",
+   "Nessuno Stato, perché gli atti dei privati non possono mai fondare una responsabilità"
+  ],
+  "answer": 2,
+  "explanation": "L'obbligo di prevenire e reprimere grava sullo Stato territoriale: nel caso degli ostaggi di Teheran l'Iran rispose inizialmente per omissione, non avendo attivato la polizia per proteggere l'ambasciata statunitense."
+ },
+ {
+  "id": "t6-015",
+  "topic": "Responsabilità internazionale",
+  "question": "Quale criterio ha elaborato la CIG nella sentenza Nicaragua c. Stati Uniti (1986) per attribuire a uno Stato gli atti di gruppi armati?",
+  "options": [
+   "Il controllo generale dello Stato sul gruppo, desumibile da finanziamento e addestramento",
+   "Il controllo effettivo dello Stato sulle singole operazioni in cui sono state commesse le violazioni",
+   "La semplice dipendenza economica del gruppo armato dai finanziamenti dello Stato straniero",
+   "Il riconoscimento formale del gruppo armato da parte dello Stato come proprio organo di fatto"
+  ],
+  "answer": 1,
+  "explanation": "Nella sentenza del 1986 la CIG ha ritenuto insufficienti finanziamento, addestramento e supporto, richiedendo un controllo effettivo su ogni operazione in cui erano avvenute le violazioni."
+ },
+ {
+  "id": "t6-016",
+  "topic": "Responsabilità internazionale",
+  "question": "Nella sentenza sull'applicazione della Convenzione sul genocidio (Bosnia-Erzegovina c. Serbia e Montenegro, 2007), la CIG:",
+  "options": [
+   "ha confermato il criterio del controllo effettivo, ma ha ritenuto la Serbia responsabile per non aver prevenuto né represso il genocidio",
+   "ha abbandonato il criterio del controllo effettivo, ritenendo che la gravità del genocidio giustificasse un criterio meno rigoroso",
+   "ha attribuito direttamente alla Serbia il genocidio di Srebrenica, avendo accertato il suo controllo generale sui gruppi armati",
+   "ha escluso qualsiasi responsabilità della Serbia, non essendo provato il controllo effettivo sulle operazioni di Srebrenica"
+  ],
+  "answer": 0,
+  "explanation": "La CIG ha mantenuto il criterio della sentenza Nicaragua, escludendo che Srebrenica fosse sotto il controllo serbo, ma ha accertato la violazione dell'obbligo di prevenire e reprimere il genocidio."
+ },
+ {
+  "id": "t6-017",
+  "topic": "Responsabilità internazionale",
+  "question": "Quale principio è stato affermato dalla Corte permanente di giustizia internazionale nella sentenza Officina di Chorzów (1928)?",
+  "options": [
+   "Chi commette un illecito deve prestare una riparazione che, per quanto possibile, cancelli tutte le conseguenze dell'illecito",
+   "Lo Stato leso ha il dovere di adottare contromisure proporzionate prima di poter chiedere una riparazione",
+   "La responsabilità per gli atti di gruppi armati presuppone il controllo effettivo delle singole operazioni",
+   "Lo Stato risponde degli atti dei privati soltanto se li riconosce e li adotta in seguito come propri"
+  ],
+  "answer": 0,
+  "explanation": "Nella sentenza Officina di Chorzów del 1928 la CPGI ha affermato l'obbligo di riparazione come principio generale, poi ribadito dall'art. 31 del Progetto della CDI."
+ },
+ {
+  "id": "t6-018",
+  "topic": "Responsabilità internazionale",
+  "question": "Nel 1978 un satellite sovietico si disintegrò facendo cadere rottami radioattivi sul territorio canadese, e l'URSS versò al Canada alcuni milioni di dollari. Di quale forma di riparazione si tratta?",
+  "options": [
+   "Restituzione",
+   "Soddisfazione",
+   "Risarcimento",
+   "Contromisura"
+  ],
+  "answer": 2,
+  "explanation": "Il risarcimento, una delle tre forme di riparazione previste dall'art. 34 del Progetto, consiste nel pagamento di una somma di denaro che quantifica la lesione subita."
+ },
+ {
+  "id": "t6-019",
+  "topic": "Responsabilità internazionale",
+  "question": "Le scuse formali, l'omaggio alla bandiera dello Stato leso e le garanzie di non ripetizione sono esempi di:",
+  "options": [
+   "restituzione, forma di ripristino della situazione anteriore",
+   "risarcimento, forma di compensazione in denaro del danno",
+   "ritorsione, forma di reazione inamichevole ma lecita",
+   "soddisfazione, forma di riparazione dei danni morali"
+  ],
+  "answer": 3,
+  "explanation": "La soddisfazione ripara i danni morali, anche in assenza di danno materiale, e comprende misure come scuse formali, omaggio alla bandiera e assicurazioni di non ripetizione."
+ },
+ {
+  "id": "t6-020",
+  "topic": "Responsabilità internazionale",
+  "question": "Quale tra i seguenti NON è un limite all'ammissibilità di una contromisura?",
+  "options": [
+   "Deve essere proporzionata al danno subito dallo Stato che la adotta",
+   "Deve riguardare lo stesso ambito materiale in cui è stato commesso l'illecito altrui",
+   "Deve avere effetti temporanei e cessare quando cessa l'illecito altrui",
+   "Non deve comportare l'uso della forza armata contro lo Stato offensore"
+  ],
+  "answer": 1,
+  "explanation": "La contromisura può essere adottata anche in un ambito diverso da quello dell'illecito (es. violazione di un trattato commerciale in risposta a violazioni sul trattamento dello straniero); proporzionalità, temporaneità e divieto dell'uso della forza sono invece limiti."
+ },
+ {
+  "id": "t6-021",
+  "topic": "Responsabilità internazionale",
+  "question": "Che cosa distingue la ritorsione dalla contromisura?",
+  "options": [
+   "La ritorsione è una violazione del diritto internazionale giustificata dall'illecito altrui, la contromisura è un atto politico che non viola alcuna norma",
+   "La ritorsione può essere adottata solo da più Stati insieme, la contromisura solo dallo Stato direttamente leso dall'illecito",
+   "La ritorsione è un comportamento inamichevole che non viola norme internazionali, la contromisura viola una norma ma è lecita in quanto reazione a un illecito",
+   "La ritorsione comporta l'uso della forza armata, la contromisura consiste soltanto in misure di carattere economico"
+  ],
+  "answer": 2,
+  "explanation": "La ritorsione (es. boicottaggio statunitense delle Olimpiadi di Mosca del 1980) non viola il diritto internazionale; la contromisura è una violazione che diventa lecita come causa di esclusione dell'illiceità."
+ },
+ {
+  "id": "t6-022",
+  "topic": "Responsabilità internazionale",
+  "question": "Quale affermazione sulla responsabilità delle organizzazioni internazionali è conforme agli appunti?",
+  "options": [
+   "Le organizzazioni internazionali non possono mai essere responsabili, perché non sono soggetti di diritto internazionale",
+   "Il Progetto del 2011 la ammette alle stesse condizioni oggettive e soggettive degli Stati, ma nella prassi è difficile farla valere",
+   "Le organizzazioni internazionali rispondono solo davanti alla CIG, che giudica abitualmente le controversie che le riguardano",
+   "Nel caso del colera ad Haiti l'ONU ha riconosciuto la propria responsabilità giuridica e ha risarcito tutte le vittime"
+  ],
+  "answer": 1,
+  "explanation": "Il Progetto del 2011 riprende quello del 2001 sugli Stati; nella prassi però le OI non sono parti dei trattati sui diritti umani, mancano giudici competenti e i giudici statali ne riconoscono l'immunità (es. colera ad Haiti, Madri di Srebrenica)."
+ },
+ {
+  "id": "t6-023",
+  "topic": "Responsabilità internazionale",
+  "question": "Il comandante di un aereo militare in grave avaria atterra senza autorizzazione nel territorio di un altro Stato per salvare la propria vita e quella dell'equipaggio. Quale causa di esclusione dell'illiceità può invocare lo Stato?",
+  "options": [
+   "Lo stato di necessità, a tutela di un interesse essenziale dello Stato",
+   "Il pericolo estremo, previsto dall'art. 24 del Progetto CDI",
+   "La contromisura, in risposta a un illecito dello Stato territoriale",
+   "Il consenso dello Stato territoriale, presunto in caso di emergenza"
+  ],
+  "answer": 1,
+  "explanation": "Nel pericolo estremo l'organo dello Stato agisce per salvare la propria vita o quella delle persone affidate alle sue cure. Nel Progetto CDI è una causa distinta (art. 24) dallo stato di necessità (art. 25), che riguarda invece la tutela di un interesse essenziale dello Stato."
+ },
+ {
+  "id": "t6-024",
+  "topic": "Responsabilità internazionale",
+  "question": "Nel caso Rainbow Warrior (Tribunale arbitrale, 1990) si descrive una «forza irresistibile» o un «avvenimento esterno imprevedibile» che rende materialmente impossibile rispettare l'obbligo. A quale causa di esclusione dell'illiceità si riferisce il passo?",
+  "options": [
+   "Allo stato di necessità",
+   "Al pericolo estremo",
+   "Alla forza maggiore",
+   "Alla legittima difesa"
+  ],
+  "answer": 2,
+  "explanation": "Il passo definisce la forza maggiore: un evento esterno, imprevedibile e irresistibile, fuori dal controllo dello Stato, che rende materialmente impossibile adempiere l'obbligo. Nello stato di necessità, invece, lo Stato potrebbe rispettare la norma ma sceglie di violarla per evitare un pericolo grave e imminente."
+ },
+ {
+  "id": "t7-001",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Quale disposizione della Carta delle Nazioni Unite impone ai Membri di astenersi, nelle relazioni internazionali, dalla minaccia o dall'uso della forza?",
+  "options": [
+   "L'art. 1 par. 1 della Carta",
+   "L'art. 2 par. 3 della Carta",
+   "L'art. 2 par. 4 della Carta",
+   "L'art. 51 della Carta"
+  ],
+  "answer": 2,
+  "explanation": "Il divieto della minaccia e dell'uso della forza è sancito dall'art. 2 par. 4 della Carta di San Francisco; l'art. 2 par. 3 impone invece la soluzione pacifica delle controversie e l'art. 51 disciplina la legittima difesa."
+ },
+ {
+  "id": "t7-002",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Quale natura ha il divieto dell'uso della forza nel diritto internazionale?",
+  "options": [
+   "Codifica una norma consuetudinaria, appartiene allo jus cogens e pone un obbligo erga omnes",
+   "È una norma pattizia nuova, vincolante solo per i Membri ONU e priva di carattere imperativo",
+   "È una norma consuetudinaria derogabile mediante accordi bilaterali tra gli Stati interessati",
+   "È una norma di soft law che orienta gli Stati ma non produce obblighi giuridici vincolanti"
+  ],
+  "answer": 0,
+  "explanation": "L'art. 2 par. 4 codifica una norma consuetudinaria, come ribadito più volte dalla CIG; si tratta di una norma di jus cogens che pone un obbligo erga omnes, la cui violazione può essere fatta valere da qualsiasi Stato e non solo dallo Stato vittima."
+ },
+ {
+  "id": "t7-003",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Quale delle seguenti condotte di uno Stato rientra nel divieto dell'uso della forza di cui all'art. 2 par. 4 della Carta ONU?",
+  "options": [
+   "L'interruzione delle relazioni diplomatiche con un altro Stato",
+   "L'applicazione di dazi doganali elevati alle merci di un altro Stato",
+   "Il voto contrario a una risoluzione proposta da un altro Stato",
+   "La messa a disposizione del proprio territorio per attacchi armati contro un altro Stato"
+  ],
+  "answer": 3,
+  "explanation": "Il termine «forza» indica la forza militare e comprende, oltre alle classiche azioni di guerra, anche forme indirette come l'invio o il sostegno di bande armate e la messa a disposizione del proprio territorio per attacchi contro un altro Stato (si pensi al ruolo della Bielorussia nell'invasione russa dell'Ucraina)."
+ },
+ {
+  "id": "t7-004",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "A quali condizioni, secondo l'art. 51 della Carta ONU, il ricorso alla forza in legittima difesa è lecito?",
+  "options": [
+   "Se è autorizzato in via preventiva dall'Assemblea generale delle Nazioni Unite",
+   "Se avviene in risposta a un attacco armato ed è proporzionato all'attacco subìto",
+   "Se lo Stato ritiene probabile un attacco armato in un futuro non determinato",
+   "Se è diretto a ottenere la riparazione di un qualsiasi illecito internazionale"
+  ],
+  "answer": 1,
+  "explanation": "L'art. 51 riconosce il «diritto naturale» di legittima difesa solo nel caso in cui abbia luogo un attacco armato; la reazione deve inoltre essere proporzionata all'attacco subìto."
+ },
+ {
+  "id": "t7-005",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Lo Stato A subisce un attacco armato dallo Stato B. Lo Stato C, estraneo all'attacco ma legato ad A da un trattato di alleanza militare, interviene militarmente contro B. Come si qualifica l'azione di C?",
+  "options": [
+   "Come aggressione, perché C non è stato direttamente attaccato da B",
+   "Come intervento umanitario fondato sulla responsabilità di proteggere",
+   "Come misura coercitiva adottata ai sensi dell'art. 41 della Carta ONU",
+   "Come legittima difesa collettiva, riconosciuta dall'art. 51 della Carta ONU"
+  ],
+  "answer": 3,
+  "explanation": "L'art. 51 riconosce la legittima difesa individuale e collettiva: possono reagire anche Stati estranei al primo attacco, di solito in base a un trattato di mutua assistenza come l'art. 5 del Trattato NATO."
+ },
+ {
+  "id": "t7-006",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Che cosa deve fare, ai sensi dell'art. 51 della Carta ONU, uno Stato che agisce in legittima difesa?",
+  "options": [
+   "Informare subito il Consiglio di Sicurezza e cessare l'azione quando questo adotta le misure necessarie",
+   "Chiedere il parere preventivo della Corte internazionale di giustizia prima di usare la forza armata",
+   "Ottenere l'autorizzazione dell'Assemblea generale entro un termine stabilito dalla Carta delle Nazioni Unite",
+   "Notificare l'azione al Segretario generale, che decide se proseguirla con forze delle Nazioni Unite"
+  ],
+  "answer": 0,
+  "explanation": "Le misure prese in legittima difesa vanno immediatamente portate a conoscenza del Consiglio di Sicurezza, che resta libero di intervenire; il diritto vale «fintantoché» il CdS non abbia preso le misure necessarie, momento in cui l'azione dello Stato deve cessare."
+ },
+ {
+  "id": "t7-007",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Quale principio, poi ripreso dalla Carta ONU, viene delineato nella Carta Atlantica del 1941 da Roosevelt e Churchill?",
+  "options": [
+   "Il riconoscimento a ogni Stato di un diritto illimitato di ricorrere alla guerra",
+   "L'affidamento della pace mondiale a una Corte internazionale con poteri esecutivi",
+   "Il disarmo degli Stati aggressori e un sistema permanente di sicurezza generale",
+   "La creazione di un'alleanza militare permanente tra le sole potenze vincitrici"
+  ],
+  "answer": 2,
+  "explanation": "La Carta Atlantica afferma che non può esservi pace se gli Stati restano sovrani nell'uso della forza: occorre disarmare chi minaccia aggressioni e creare «un sistema permanente di sicurezza generale», idea poi tradotta nell'art. 2 par. 4 e nel sistema di sicurezza collettiva ONU."
+ },
+ {
+  "id": "t7-008",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Che funzione ha l'accertamento previsto dall'art. 39 della Carta ONU?",
+  "options": [
+   "È un parere facoltativo che il CdS chiede all'Assemblea generale prima di agire",
+   "È la premessa necessaria perché il CdS possa adottare le misure degli artt. 41 e 42",
+   "È una dichiarazione con cui lo Stato attaccato avvia la propria legittima difesa",
+   "È una verifica giudiziale affidata alla CIG sull'esistenza di un'aggressione"
+  ],
+  "answer": 1,
+  "explanation": "Con l'art. 39 il Consiglio di Sicurezza accerta l'esistenza di una minaccia alla pace, di una violazione della pace o di un atto di aggressione: è la premessa necessaria per ricorrere alle misure degli artt. 41 e 42, e spetta solo al CdS."
+ },
+ {
+  "id": "t7-009",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Che cosa mostra la prassi del Consiglio di Sicurezza nella qualificazione di una situazione come «minaccia alla pace»?",
+  "options": [
+   "Un'ampia discrezionalità, estesa a situazioni eterogenee come l'apartheid o l'epidemia di Ebola del 2014",
+   "Una competenza limitata ai conflitti armati tra Stati, con esclusione delle situazioni interne",
+   "Una competenza condizionata al previo accertamento della minaccia da parte dell'Assemblea generale",
+   "Una competenza esercitabile solo dopo un parere vincolante della Corte internazionale di giustizia"
+  ],
+  "answer": 0,
+  "explanation": "Il CdS ha piena discrezionalità ex art. 39 e nella prassi ha qualificato come minaccia alla pace situazioni molto diverse: guerre civili, l'apartheid in Sudafrica, epidemie come Ebola nel 2014."
+ },
+ {
+  "id": "t7-010",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Quale delle seguenti misure rientra tra quelle previste dall'art. 41 della Carta ONU?",
+  "options": [
+   "L'interruzione totale o parziale delle relazioni economiche con lo Stato responsabile",
+   "Il blocco navale delle coste dello Stato responsabile da parte di forze armate",
+   "L'invio di contingenti terrestri per occupare il territorio dello Stato responsabile",
+   "Il bombardamento mirato delle infrastrutture militari dello Stato responsabile"
+  ],
+  "answer": 0,
+  "explanation": "L'art. 41 riguarda le misure non implicanti l'uso della forza armata, come l'interruzione delle relazioni economiche (embargo), delle comunicazioni e la rottura delle relazioni diplomatiche; le azioni con forze aeree, navali o terrestri rientrano nell'art. 42."
+ },
+ {
+  "id": "t7-011",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Una volta accertata una minaccia alla pace, il Consiglio di Sicurezza deve rispettare un ordine nell'adozione delle misure del capitolo VII?",
+  "options": [
+   "Sì, deve prima adottare le misure provvisorie dell'art. 40 e solo poi passare all'art. 41",
+   "Sì, può ricorrere all'art. 42 solo dopo aver adottato e verificato le misure dell'art. 41",
+   "No, la Carta non impone gradualità e il CdS può ricorrere direttamente all'art. 42",
+   "No, ma per ricorrere all'art. 42 serve il consenso dello Stato destinatario delle misure"
+  ],
+  "answer": 2,
+  "explanation": "La Carta non impone al CdS alcuna gradualità: rientra nella sua discrezionalità scegliere se e quali misure adottare e in che ordine, potendo partire direttamente dall'art. 42."
+ },
+ {
+  "id": "t7-012",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Poiché gli accordi previsti dall'art. 43 della Carta non sono mai stati stipulati, quale sistema si è affermato nella prassi per l'uso della forza nel quadro del capitolo VII?",
+  "options": [
+   "Il CdS impiega un esercito permanente delle Nazioni Unite posto sotto il comando del Segretario generale",
+   "Il CdS autorizza in via preventiva gli Stati a usare «ogni misura necessaria», indicando durata e obiettivi",
+   "Ogni Stato membro può usare la forza senza autorizzazione quando il CdS è bloccato da un veto",
+   "L'Assemblea generale autorizza gli interventi armati quando il CdS non ha contingenti a disposizione"
+  ],
+  "answer": 1,
+  "explanation": "Non avendo mai avuto i contingenti dell'art. 43, il CdS autorizza gli Stati membri ad adottare «ogni misura necessaria», opzione militare compresa; l'autorizzazione deve essere preventiva, indicare durata e obiettivi ed essere seguita da un controllo effettivo del CdS."
+ },
+ {
+  "id": "t7-013",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "A quale vicenda si riferisce la risoluzione 660/1990 del Consiglio di Sicurezza, citata come esempio di reazione conforme al sistema del capitolo VII?",
+  "options": [
+   "Alla crisi di Suez e all'invio della forza di interposizione UNEF",
+   "Alla guerra in Kosovo e all'istituzione della missione UNMIK",
+   "All'invasione del Kuwait da parte dell'Iraq, prima guerra del Golfo",
+   "Agli attacchi dell'11 settembre e al regime dei talebani in Afghanistan"
+  ],
+  "answer": 2,
+  "explanation": "La risoluzione 660/1990 riguarda la prima guerra del Golfo: il CdS condannò l'invasione irachena del Kuwait e chiese il ritiro immediato, poi con la ris. 678/1990 autorizzò gli Stati a usare «tutti i mezzi necessari» se l'Iraq non si fosse ritirato entro il 15 gennaio 1991."
+ },
+ {
+  "id": "t7-014",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Quali requisiti caratterizzano le operazioni di peace-keeping di prima generazione, come l'UNEF del 1956?",
+  "options": [
+   "Uso della forza per imporre la pace, senza consenso dello Stato e senza neutralità",
+   "Neutralità delle forze, consenso dello Stato territoriale e armi solo per legittima difesa",
+   "Amministrazione diretta del territorio, con funzioni legislative e amministrative",
+   "Comando affidato allo Stato territoriale e contingenti forniti dalla sola NATO"
+  ],
+  "answer": 1,
+  "explanation": "Le operazioni di prima generazione, risalenti alla Guerra fredda, avevano compiti di interposizione e richiedevano neutralità, consenso dello Stato territoriale e uso delle armi solo per legittima difesa; l'UNEF (crisi di Suez, 1956) fu però istituita dall'Assemblea Generale in base alla Uniting for Peace, per il veto di Regno Unito e Francia in CdS."
+ },
+ {
+  "id": "t7-015",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Quale novità caratterizza le operazioni di peace-keeping di seconda generazione, come l'UNMIK in Kosovo del 1999?",
+  "options": [
+   "La rinuncia a qualsiasi componente militare a favore di soli osservatori civili",
+   "Il limite dell'interposizione tra le parti in conflitto per garantire il cessate il fuoco",
+   "L'avvio delle operazioni su iniziativa dei singoli Stati senza delibera del CdS",
+   "L'estensione alla sfera civile, fino all'amministrazione diretta di un territorio"
+  ],
+  "answer": 3,
+  "explanation": "Dopo il 1989 gli obiettivi si ampliano verso la sfera civile: amministrazione diretta di territori con funzioni legislative e amministrative (UNMIK, Kosovo 1999), sostegno ai processi di pace, monitoraggio elettorale, tutela dei diritti umani."
+ },
+ {
+  "id": "t7-016",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Che cosa distingue le operazioni di terza generazione, dette di peace enforcement, come quelle in Somalia e in Bosnia-Erzegovina?",
+  "options": [
+   "L'uso della forza per imporre la pace oltre la legittima difesa, senza consenso né neutralità",
+   "L'impiego di sole forze di interposizione neutrali, con il consenso dello Stato territoriale",
+   "La limitazione dei compiti al monitoraggio delle elezioni e alla tutela dei diritti umani",
+   "Il comando affidato direttamente al CdS tramite i contingenti previsti dall'art. 43"
+  ],
+  "answer": 0,
+  "explanation": "Nel peace enforcement si passa dal mantenere all'imporre la pace: il personale militare usa la forza senza il limite della legittima difesa, non serve il consenso dello Stato e viene meno l'obbligo di neutralità."
+ },
+ {
+  "id": "t7-017",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Lo Stato A schiera le proprie truppe al confine con lo Stato B, pronto a un attacco imminente; B colpisce per primo. Come si qualifica la condotta di B?",
+  "options": [
+   "Come pre-emptive self defence, ammissibile di fronte a un pericolo grave e imminente",
+   "Come preventive self defence, sempre ammessa quando l'attacco è soltanto ipotetico",
+   "Come misura coercitiva dell'art. 42, adottabile da ciascuno Stato membro",
+   "Come intervento umanitario, giustificato dalla responsabilità di proteggere"
+  ],
+  "answer": 0,
+  "explanation": "La pre-emptive self defence riguarda il caso in cui lo Stato non ha ancora subìto un attacco ma esiste un pericolo grave e imminente, come truppe schierate al confine; deve comunque restare un'eccezione assoluta da valutare caso per caso."
+ },
+ {
+  "id": "t7-018",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Come vanno qualificati gli usi della forza giustificati dalla legittima difesa preventiva, come l'attacco di USA e Regno Unito all'Iraq di Saddam Hussein nella seconda guerra del Golfo?",
+  "options": [
+   "Come legittima difesa collettiva, perché proveniente da più Stati alleati",
+   "Come azioni lecite, perché autorizzate implicitamente dal Consiglio di Sicurezza",
+   "Come usi della forza privi di base giuridica: nessun attacco armato né autorizzazione",
+   "Come applicazione dell'art. 42, perché l'Iraq costituiva una minaccia alla pace"
+  ],
+  "answer": 2,
+  "explanation": "Questi episodi sono accomunati dall'assenza di un attacco armato, che esclude la legittima difesa ex art. 51, e dall'assenza di autorizzazione del CdS; la quasi totalità della dottrina e degli Stati ha ritenuto non pertinente il richiamo alla legittima difesa preventiva."
+ },
+ {
+  "id": "t7-019",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Quale argomento viene invocato per giustificare l'intervento umanitario senza autorizzazione del CdS, come l'attacco del 1999 contro la Serbia per i massacri in Kosovo?",
+  "options": [
+   "La competenza esclusiva dell'Assemblea generale a decidere sull'uso della forza",
+   "Il diritto di ogni Stato di agire in legittima difesa preventiva contro minacce remote",
+   "L'obbligo di neutralità imposto agli Stati dalle operazioni di peace-keeping",
+   "La natura erga omnes delle norme che tutelano i diritti umani fondamentali"
+  ],
+  "answer": 3,
+  "explanation": "Si invocano la natura erga omnes delle norme sui diritti umani fondamentali e la «responsabilità di proteggere», elaborata nel 2001 dall'ICISS e recepita dall'AG nel 2005 (che però subordina l'uso della forza a una decisione del CdS); prassi e dottrina restano divise e la teoria non ha avuto particolare seguito."
+ },
+ {
+  "id": "t7-020",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Che cosa comporta la clausola aut dedere aut judicare contenuta nei trattati contro la criminalità transnazionale?",
+  "options": [
+   "Che il reato sia giudicato solo dallo Stato di cui il reo è cittadino",
+   "Che lo Stato contraente giudichi l'autore del crimine o lo consegni a un altro Stato",
+   "Che la competenza sia sempre trasferita a un tribunale penale internazionale",
+   "Che lo Stato contraente espella l'autore del crimine verso un qualsiasi Stato terzo"
+  ],
+  "answer": 1,
+  "explanation": "Con la clausola aut dedere aut judicare gli Stati si impegnano a giudicare gli autori del crimine o, in alternativa, a consegnarli tramite estradizione a un altro Stato perché vi siano giudicati."
+ },
+ {
+  "id": "t7-021",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Come ha definito il terrorismo la risoluzione dell'Assemblea generale ONU del 1994?",
+  "options": [
+   "Come ogni atto violento compiuto da movimenti di liberazione nazionale",
+   "Come ogni uso della forza armata da parte di uno Stato contro un altro Stato",
+   "Come ogni attacco armato che autorizza la legittima difesa ai sensi dell'art. 51",
+   "Come atti volti a provocare terrore nel pubblico per motivi politici in senso lato"
+  ],
+  "answer": 3,
+  "explanation": "La risoluzione del 1994, non vincolante, qualifica come terroristici gli atti intesi a provocare uno stato di terrore nel pubblico per motivi politici in senso lato, ingiustificabili in ogni circostanza; manca tuttora una definizione condivisa, anche per la difficoltà di distinguerli dagli atti dei movimenti di liberazione nazionale."
+ },
+ {
+  "id": "t7-022",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Nei confronti di chi possono essere dirette le misure che il Consiglio di Sicurezza impone agli Stati per contrastare un gruppo qualificato come terroristico?",
+  "options": [
+   "Solo nei confronti degli Stati che hanno subìto attacchi terroristici sul proprio territorio",
+   "Solo nei confronti dei membri del gruppo già condannati da un tribunale internazionale",
+   "Verso individui contigui al gruppo e verso lo Stato che non lo contrasta o ne è complice",
+   "Solo nei confronti degli Stati di nazionalità dei terroristi, indipendentemente dalla condotta"
+  ],
+  "answer": 2,
+  "explanation": "In mancanza di una definizione condivisa, il CdS qualifica di volta in volta gruppi e individui come terroristici; le misure possono colpire singoli individui legati al gruppo o lo Stato in cui il gruppo opera, se non si attiva per sradicarlo o ne risulta complice."
+ },
+ {
+  "id": "t7-023",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "A quale condizione l'uso della forza contro un altro Stato può essere giustificato come legittima difesa contro un attacco compiuto da gruppi terroristici privati?",
+  "options": [
+   "Se l'attacco terroristico è stato rivendicato pubblicamente dal gruppo responsabile",
+   "Se si dimostra un collegamento organico tra i terroristi e lo Stato contro cui si agisce",
+   "Se i terroristi sono cittadini dello Stato contro cui viene usata la forza armata",
+   "Se l'Assemblea generale ha qualificato il gruppo come terroristico con una risoluzione"
+  ],
+  "answer": 1,
+  "explanation": "L'art. 51 parla di «attacco armato» senza precisare se debba provenire da uno Stato; la reazione contro uno Stato è ammissibile se si dimostra un collegamento organico tra i terroristi e quello Stato, come per il regime dei talebani in Afghanistan dopo l'11 settembre 2001."
+ },
+ {
+  "id": "t7-024",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Secondo gli appunti, su quale giustificazione si fonda l'uso della forza da parte di alcuni Stati contro le basi dell'ISIS in Siria e in Iraq dopo la risoluzione 2249 del 2015?",
+  "options": [
+   "Il consenso espresso dell'Assemblea generale delle Nazioni Unite",
+   "La legittima difesa preventiva contro attacchi remoti e ipotetici",
+   "Un mandato di peace-keeping di prima generazione affidato all'ONU",
+   "L'autorizzazione del CdS ad adottare «tutte le misure necessarie»"
+  ],
+  "answer": 3,
+  "explanation": "Con la risoluzione 2249/2015 il CdS ha invitato gli Stati ad adottare «tutte le misure necessarie» contro l'ISIS: gli appunti la citano come esempio di autorizzazione del CdS, accanto alla legittima difesa e al consenso dello Stato territoriale."
+ },
+ {
+  "id": "t7-025",
+  "topic": "Uso della forza, sicurezza collettiva e terrorismo",
+  "question": "Quale problema accomuna la sentenza Kadi della Corte di giustizia dell'Unione europea (2008) e la sentenza Nada della Corte europea dei diritti dell'uomo (2012)?",
+  "options": [
+   "La liceità dei bombardamenti contro le basi terroristiche situate in Stati terzi",
+   "L'applicazione della clausola aut dedere aut judicare ai terroristi catturati all'estero",
+   "La distinzione tra atti terroristici e atti dei movimenti di liberazione nazionale",
+   "I diritti fondamentali degli individui colpiti da sanzioni del CdS per terrorismo"
+  ],
+  "answer": 3,
+  "explanation": "Entrambe le sentenze riguardano le sanzioni del CdS contro individui ritenuti collegati al terrorismo, adottate senza contraddittorio né difesa e con difficoltà di delisting: il caso Nada riguardava un imprenditore colpito da divieto di espatrio e congelamento del conto."
+ }
+]

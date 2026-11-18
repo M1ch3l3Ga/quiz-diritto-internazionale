@@ -1,0 +1,98 @@
+﻿@page "/"
+@inject AuthService Auth
+@inject QuizService Quiz
+@inject IStatsStore Stats
+@inject SessionState Session
+@inject NavigationManager Nav
+
+<PageTitle>Quiz Diritto internazionale</PageTitle>
+
+@if (Auth.CurrentUser is { } user)
+{
+    <h1>Ciao, @user.DisplayName!</h1>
+
+    @if (_error is not null) { <p class="error">@_error</p> }
+
+    @if (_loading)
+    {
+        <p class="muted">Caricamento delle statistiche…</p>
+    }
+    else
+    {
+        <div class="kpis">
+            <div class="kpi"><span class="kpi-value">@_sessions.Count</span><span class="kpi-label">sessioni svolte</span></div>
+            <div class="kpi"><span class="kpi-value">@(_sessions.Count == 0 ? "–" : $"{_sessions.Average(s => s.Percent):0}%")</span><span class="kpi-label">media risposte giuste</span></div>
+            <div class="kpi"><span class="kpi-value">@_seen / @_total</span><span class="kpi-label">domande già viste</span></div>
+            <div class="kpi"><span class="kpi-value">@_pendingErrors</span><span class="kpi-label">errori da ripassare</span></div>
+        </div>
+
+        <div class="card">
+            <h2>Nuova sessione</h2>
+            <p class="muted">
+                @Quiz.Count domande a sessione, con 4 risposte ciascuna: dopo ogni risposta vedi subito la correzione e la spiegazione.
+                @if (_pendingErrors > 0)
+                {
+                    <span> Una parte delle domande ripropone quelle sbagliate in passato.</span>
+                }
+            </p>
+            <label>Argomento
+                <select @bind="_topic">
+                    <option value="">Tutti gli argomenti</option>
+                    @foreach (var t in _topics)
+                    {
+                        <option value="@t">@t</option>
+                    }
+                </select>
+            </label>
+            <button class="primary" @onclick="StartAsync" disabled="@_starting">@(_starting ? "Preparazione…" : "Inizia")</button>
+        </div>
+
+        @if (_sessions.Count > 0)
+        {
+            var last = _sessions[^1];
+            <p class="muted">Ultima sessione: @last.StartedAt.ToLocalTime().ToString("dd/MM/yyyy HH:mm") · @last.Correct/@last.Total (@($"{last.Percent:0}%")) · <a href="statistiche">tutte le statistiche</a></p>
+        }
+    }
+}
+
+@code {
+    private List<SessionRecord> _sessions = new();
+    private IReadOnlyList<string> _topics = [];
+    private List<AnswerRecord> _answers = new();
+    private int _pendingErrors, _seen, _total;
+    private string _topic = "";
+    private bool _loading = true, _starting;
+    private string? _error;
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (!Auth.IsAuthenticated) return;
+        try
+        {
+            var questions = await Quiz.GetQuestionsAsync();
+            _total = questions.Count;
+            _topics = await Quiz.GetTopicsAsync();
+            _sessions = await Stats.GetSessionsAsync();
+            _answers = await Stats.GetAnswersAsync();
+            _pendingErrors = QuizService.PendingErrors(_answers);
+            var ids = questions.Select(q => q.Id).ToHashSet();
+            _seen = _answers.Select(a => a.QuestionId).Where(ids.Contains).Distinct().Count();
+        }
+        catch (Exception ex) when (ex is AuthException or InvalidOperationException or HttpRequestException)
+        {
+            _error = ex.Message;
+        }
+        finally
+        {
+            _loading = false;
+        }
+    }
+
+    private async Task StartAsync()
+    {
+        _starting = true;
+        var questions = await Quiz.BuildSessionAsync(_answers, string.IsNullOrEmpty(_topic) ? null : _topic);
+        Session.Start(questions, string.IsNullOrEmpty(_topic) ? null : _topic);
+        Nav.NavigateTo("quiz");
+    }
+}

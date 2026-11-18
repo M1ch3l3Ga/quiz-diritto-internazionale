@@ -1,0 +1,22 @@
+# Lista bianca: si pubblicano SOLO i file dell'app.
+# Tutto il resto della cartella (appunti, registrazioni, documenti, file di prova) resta escluso.
+/*
+!/.gitignore
+!/README.md
+!/QuizApp/
+!/supabase/
+!/.github/
+
+# Dentro le cartelle dell'app: file generati e personali
+bin/
+obj/
+.vs/
+*.user
+
+# Per sicurezza, mai documenti o audio anche dentro le cartelle pubblicate
+*.pdf
+*.docx
+*.aac
+*.mp3
+*.m4a
+*.wav
