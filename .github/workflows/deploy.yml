@@ -1,6 +1,7 @@
 # Pubblica l'app su GitHub Pages a ogni push sul branch main.
 # Nel repository: Settings > Pages > Source = "GitHub Actions";
-# Settings > Secrets and variables > Actions > Variables: SUPABASE_URL e SUPABASE_ANON_KEY.
+# Settings > Secrets and variables > Actions > Variables: SUPABASE_URL e SUPABASE_ANON_KEY;
+# facoltativa GOATCOUNTER_CODE (codice del sito su goatcounter.com) per le statistiche delle visite.
 name: Deploy su GitHub Pages
 
 on:
@@ -35,10 +36,21 @@ jobs:
           SUPABASE_URL: ${{ vars.SUPABASE_URL }}
           SUPABASE_ANON_KEY: ${{ vars.SUPABASE_ANON_KEY }}
           REPO_NAME: ${{ github.event.repository.name }}
+          GOATCOUNTER_CODE: ${{ vars.GOATCOUNTER_CODE }}
         run: |
           cd out/wwwroot
           # L'app è servita da https://<utente>.github.io/<repository>/
           sed -i "s|<base href=\"/\" />|<base href=\"/${REPO_NAME}/\" />|" index.html
+          # Statistiche delle visite con GoatCounter (senza cookie), solo se la variabile GOATCOUNTER_CODE è impostata.
+          # Il primo caricamento è contato da count.js; i cambi di pagina interni a Blazor (history.pushState) dallo script che segue.
+          if [ -n "${GOATCOUNTER_CODE}" ]; then
+            cat > goatcounter.snippet <<EOF
+              <script data-goatcounter="https://${GOATCOUNTER_CODE}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+              <script>(function(){var p=history.pushState;history.pushState=function(){p.apply(this,arguments);if(window.goatcounter&&window.goatcounter.count)window.goatcounter.count({path:location.pathname});};})();</script>
+          EOF
+            python3 -c "import sys;f='index.html';s=open(f,encoding='utf-8').read();g=open('goatcounter.snippet',encoding='utf-8').read();open(f,'w',encoding='utf-8').write(s.replace('</body>',g+'</body>',1))"
+            rm -f goatcounter.snippet index.html.br index.html.gz
+          fi
           # Copia di index.html come 404.html: i link diretti alle pagine dell'app funzionano anche dopo un ricaricamento.
           cp index.html 404.html
           touch .nojekyll
