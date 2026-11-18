@@ -2039,5 +2039,629 @@
   ],
   "answer": 3,
   "explanation": "Entrambe le sentenze riguardano le sanzioni del CdS contro individui ritenuti collegati al terrorismo, adottate senza contraddittorio né difesa e con difficoltà di delisting: il caso Nada riguardava un imprenditore colpito da divieto di espatrio e congelamento del conto."
+ },
+ {
+  "id": "t8-001",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "Quale rapporto esiste tra l'obbligo di risolvere pacificamente le controversie (art. 2 par. 3 Carta ONU) e il divieto dell'uso della forza (art. 2 par. 4)?",
+  "options": [
+   "L'obbligo di soluzione pacifica è un corollario del divieto dell'uso della forza",
+   "L'obbligo di soluzione pacifica è un'eccezione al divieto dell'uso della forza",
+   "Il divieto dell'uso della forza discende dall'obbligo di soluzione pacifica",
+   "I due obblighi sono autonomi e operano in ambiti del tutto separati"
+  ],
+  "answer": 0,
+  "explanation": "Se gli Stati non possono ricorrere alla forza salvo ipotesi eccezionali, le loro controversie vanno risolte con mezzi pacifici: l'art. 2 par. 3 è un corollario dell'art. 2 par. 4 Carta ONU."
+ },
+ {
+  "id": "t8-002",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "Come va inteso l'elenco dei mezzi di soluzione delle controversie contenuto nell'art. 33 Carta ONU?",
+  "options": [
+   "È un elenco tassativo, da seguire nell'ordine in cui i mezzi sono indicati",
+   "È un elenco esemplificativo, ma da seguire nell'ordine in cui è formulato",
+   "È un elenco tassativo, ma gli Stati possono scegliere liberamente l'ordine",
+   "È un elenco esemplificativo e gli Stati sono liberi di scegliere lo strumento"
+  ],
+  "answer": 3,
+  "explanation": "L'art. 33 si chiude con «altri mezzi pacifici di loro scelta»: l'elenco non è tassativo e gli Stati non devono seguire l'ordine indicato."
+ },
+ {
+  "id": "t8-003",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "In quale sentenza la CIG ha affermato che la buona fede nei negoziati comporta la «genuina intenzione di arrivare a un risultato positivo»?",
+  "options": [
+   "Nella sentenza sulla piattaforma continentale del Mare del Nord del 1969",
+   "Nella sentenza sul Golfo del Maine del 1984",
+   "Nella sentenza sul Golfo del Maine del 1996",
+   "Nella sentenza sul caso Nicaragua del 1986"
+  ],
+  "answer": 1,
+  "explanation": "La CIG, nella sentenza sul Golfo del Maine del 1984, ha precisato il contenuto del principio consuetudinario di buona fede nei negoziati."
+ },
+ {
+  "id": "t8-004",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "Il Segretario generale dell'ONU mette a disposizione una sede per i colloqui tra due Stati in controversia e ne agevola il dialogo, senza formulare valutazioni o proposte nel merito. Di quale strumento si tratta?",
+  "options": [
+   "Mediazione",
+   "Conciliazione",
+   "Buoni uffici",
+   "Inchiesta"
+  ],
+  "answer": 2,
+  "explanation": "Nei buoni uffici, strumento affermatosi nella prassi e non menzionato dall'art. 33, il terzo ha una mera funzione di facilitatore, senza proposte nel merito."
+ },
+ {
+  "id": "t8-005",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "Quale tra i seguenti soggetti può essere parte di una controversia nell'ambito della funzione contenziosa della CIG?",
+  "options": [
+   "Un individuo che lamenti la violazione dei propri diritti da parte di uno Stato",
+   "Esclusivamente uno Stato, in una controversia con un altro Stato",
+   "Un'organizzazione internazionale in una controversia con uno Stato membro",
+   "Un istituto specializzato dell'ONU previa autorizzazione dell'Assemblea Generale"
+  ],
+  "answer": 1,
+  "explanation": "La CIG decide esclusivamente controversie tra Stati: individui e altri soggetti internazionali non possono esserne parti."
+ },
+ {
+  "id": "t8-006",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "Quale tra le seguenti affermazioni sull'inchiesta è corretta?",
+  "options": [
+   "Il terzo accerta i fatti controversi e conclude con una relazione, senza proporre una soluzione",
+   "Il terzo accerta i fatti e impone alle parti la soluzione che ne consegue",
+   "Il terzo partecipa ai negoziati e suggerisce informalmente un compromesso",
+   "Il terzo può essere anche uno degli Stati parti della controversia"
+  ],
+  "answer": 0,
+  "explanation": "L'inchiesta, condotta da un terzo imparziale, mira all'accertamento oggettivo dei fatti e si conclude con un rapporto; presuppone la cooperazione in buona fede delle parti."
+ },
+ {
+  "id": "t8-007",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "Secondo l'art. 37 Carta ONU, che cosa accade se le parti non riescono a risolvere la controversia con i mezzi indicati dall'art. 33?",
+  "options": [
+   "Devono sottoporla obbligatoriamente alla Corte internazionale di giustizia",
+   "Possono deferirla al CdS, che adotta una decisione vincolante nel merito",
+   "Devono rivolgersi all'Assemblea Generale, che raccomanda una soluzione",
+   "Devono deferirla al CdS, che può raccomandare i termini di regolamento"
+  ],
+  "answer": 3,
+  "explanation": "L'art. 37 obbliga le parti a deferire la controversia al CdS, che entra nel merito ma adotta comunque solo una raccomandazione."
+ },
+ {
+  "id": "t8-008",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "Quale tratto caratterizza la recente evoluzione della giurisdizione internazionale rispetto alla CIG?",
+  "options": [
+   "La CIG è stata sostituita da tribunali regionali competenti per tutte le materie",
+   "Le nuove corti settoriali emettono soltanto pareri consultivi non vincolanti",
+   "Molti tribunali, spesso settoriali, sono aperti anche ai ricorsi individuali",
+   "I nuovi tribunali possono giudicare gli Stati anche senza il loro consenso"
+  ],
+  "answer": 2,
+  "explanation": "Si sono diffuse numerose giurisdizioni universali e regionali, spesso settoriali, molte delle quali ammettono ricorsi individuali (es. Corte europea dei diritti dell'uomo)."
+ },
+ {
+  "id": "t8-009",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "Che cosa significa il carattere volontario della giurisdizione internazionale?",
+  "options": [
+   "Che la sentenza internazionale vincola lo Stato solo se esso decide di accettarla",
+   "Che il giudice internazionale può decidere se pronunciarsi o meno sulla controversia",
+   "Che un tribunale non può decidere se anche uno solo degli Stati coinvolti non ne ha previamente accettato la giurisdizione",
+   "Che lo Stato può ritirarsi dal giudizio in qualsiasi momento prima della sentenza"
+  ],
+  "answer": 2,
+  "explanation": "Nessuno Stato può essere costretto a sottoporsi a un giudizio: serve la previa accettazione della giurisdizione da parte di tutti gli Stati coinvolti; la decisione resta poi vincolante."
+ },
+ {
+  "id": "t8-010",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "Qual è la principale differenza tra un giudice internazionale e un arbitro internazionale?",
+  "options": [
+   "Il giudice adotta decisioni vincolanti, l'arbitro solo proposte non vincolanti",
+   "Il giudice richiede il consenso degli Stati, l'arbitro può imporsi anche senza",
+   "L'arbitro è sempre un organo collegiale, il giudice è sempre un organo monocratico",
+   "Il giudice è precostituito; l'arbitro è costituito dalle parti per risolvere quella specifica controversia"
+  ],
+  "answer": 3,
+  "explanation": "Il giudice (es. la CIG) esiste già quando sorge la controversia e ha competenza generale; l'arbitro, singolo o collegio, è creato dalle parti ed è competente solo per quella controversia."
+ },
+ {
+  "id": "t8-011",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "Gli Stati A e B, dopo che tra loro è sorta una controversia, stipulano un accordo con cui ne affidano la soluzione a un collegio arbitrale, disciplinandone composizione e diritto applicabile. Si tratta di:",
+  "options": [
+   "un compromesso arbitrale",
+   "una clausola compromissoria",
+   "un trattato generale di arbitrato",
+   "una dichiarazione unilaterale di accettazione"
+  ],
+  "answer": 0,
+  "explanation": "Il compromesso arbitrale riguarda una controversia già esistente; la clausola compromissoria e il trattato generale di arbitrato operano invece per controversie future."
+ },
+ {
+  "id": "t8-012",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "Con l'ordinanza del 16 marzo 2022 nel caso Ucraina c. Federazione Russa, che cosa ha disposto la CIG?",
+  "options": [
+   "Una sentenza di merito che accerta la responsabilità della Russia per aggressione",
+   "Misure provvisorie, tra cui la sospensione immediata delle operazioni militari avviate il 24 febbraio",
+   "Un parere consultivo, richiesto dall'Assemblea Generale, sulla liceità dell'invasione",
+   "Una raccomandazione al CdS affinché adotti misure coercitive contro la Russia"
+  ],
+  "answer": 1,
+  "explanation": "In pendenza di giudizio, per il rischio reale e imminente di un danno irreparabile, la Corte ha ordinato alla Russia, quale misura provvisoria, di sospendere immediatamente le operazioni militari."
+ },
+ {
+  "id": "t8-013",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "Che cos'è la Corte permanente d'arbitrato, creata con la Convenzione dell'Aja del 1899?",
+  "options": [
+   "Un tribunale arbitrale permanente con giudici eletti per nove anni",
+   "Un organo giurisdizionale delle Nazioni Unite con sede all'Aja",
+   "Un collegio arbitrale di tre membri competente per tutte le controversie europee",
+   "Una lista di arbitri nominati dagli Stati contraenti, dotata di una struttura amministrativa permanente"
+  ],
+  "answer": 3,
+  "explanation": "Nonostante il nome, non è una corte né un tribunale vero e proprio ma un elenco di arbitri da cui gli Stati possono attingere; ha sede amministrativa permanente all'Aja."
+ },
+ {
+  "id": "t8-014",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "Quale affermazione sulla composizione della CIG è corretta?",
+  "options": [
+   "È composta da 15 giudici eletti da CdS e AG, senza diritto di veto dei membri permanenti, con mandato di nove anni",
+   "È composta da 15 giudici eletti dal solo CdS, con diritto di veto dei membri permanenti, con mandato di nove anni",
+   "È composta da 15 giudici eletti da CdS e AG, che rappresentano gli Stati di cui hanno la cittadinanza",
+   "È composta da 9 giudici eletti dall'AG su lista del Segretario generale, con mandato di quindici anni"
+  ],
+  "answer": 0,
+  "explanation": "I 15 giudici sono eletti da CdS e AG su lista predisposta dal Segretario generale, senza veto dei membri permanenti; sono nominati a titolo personale e restano in carica nove anni."
+ },
+ {
+  "id": "t8-015",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "Se uno Stato non adempie a una sentenza della CIG, che cosa prevede l'art. 94 par. 2 Carta ONU?",
+  "options": [
+   "La Corte stessa adotta misure coercitive nei confronti dello Stato inadempiente",
+   "Il CdS è obbligato ad adottare misure vincolanti, senza possibilità di veto",
+   "L'altra parte può ricorrere al CdS, che ha facoltà di fare raccomandazioni o decidere misure",
+   "L'altra parte può ricorrere all'Assemblea Generale, che decide le misure da prendere"
+  ],
+  "answer": 2,
+  "explanation": "Il CdS ha una facoltà discrezionale, non un obbligo, e i membri permanenti possono esercitare il veto; finora è intervenuto una sola volta in esecuzione di una sentenza della Corte."
+ },
+ {
+  "id": "t8-016",
+  "topic": "Soluzione delle controversie e Corte internazionale di giustizia",
+  "question": "L'OMS chiese alla CIG un parere sulla liceità dell'uso di armi nucleari. Come si concluse la vicenda nel 1996?",
+  "options": [
+   "La Corte dichiarò illecito l'uso di armi nucleari con parere vincolante",
+   "La Corte si astenne, perché il quesito esulava dalle competenze dell'OMS (art. 96 par. 2 Carta ONU)",
+   "La Corte si astenne, perché gli istituti specializzati non possono mai chiedere pareri",
+   "La Corte si pronunciò, perché l'OMS può chiedere pareri su qualsiasi questione giuridica"
+  ],
+  "answer": 1,
+  "explanation": "Gli istituti specializzati, previa autorizzazione dell'AG, possono chiedere pareri solo su questioni giuridiche sorte nell'ambito delle loro attività (art. 96 par. 2), e le questioni nucleari non rientrano nella competenza dell'OMS."
+ },
+ {
+  "id": "t9-001",
+  "topic": "Immunità degli Stati",
+  "question": "Che cosa esprime il principio «par in parem non habet iudicium»?",
+  "options": [
+   "Che uno Stato, in quanto pari agli altri, non può essere giudicato da un altro Stato",
+   "Che uno Stato può essere giudicato solo da un tribunale internazionale di cui ha accettato la giurisdizione",
+   "Che gli organi di uno Stato rispondono personalmente degli atti compiuti all'estero",
+   "Che le sentenze straniere non producono effetti senza riconoscimento dello Stato pari"
+  ],
+  "answer": 0,
+  "explanation": "Gli Stati sono enti pari ed egualmente sovrani e non accettano entità superiori che li giudichino: fra pari non ci si giudica, quindi uno Stato non può essere sottoposto a giudizio da un altro."
+ },
+ {
+  "id": "t9-002",
+  "topic": "Immunità degli Stati",
+  "question": "Secondo la Corte internazionale di giustizia, da quale principio discende la norma consuetudinaria sull'immunità degli Stati dalla giurisdizione?",
+  "options": [
+   "Dal principio di autodeterminazione dei popoli, sancito dall'art. 1, par. 2 della Carta ONU",
+   "Dal principio di sovrana eguaglianza degli Stati, risultante dall'art. 2, par. 1 della Carta ONU",
+   "Dal divieto della minaccia e dell'uso della forza, sancito dall'art. 2, par. 4 della Carta ONU",
+   "Dal principio di non ingerenza negli affari interni, sancito dall'art. 2, par. 7 della Carta ONU"
+  ],
+  "answer": 1,
+  "explanation": "La CIG ha più volte evidenziato che l'immunità discende dal principio di sovrana eguaglianza degli Stati, che, come risulta dall'art. 2, par. 1 della Carta ONU, è uno dei principi fondamentali dell'ordine giuridico internazionale."
+ },
+ {
+  "id": "t9-003",
+  "topic": "Immunità degli Stati",
+  "question": "Lo Stato A acquista un immobile nello Stato B per affittarlo e rivenderlo traendone un guadagno. Come si qualifica l'atto ai fini dell'immunità?",
+  "options": [
+   "Atto iure imperii, coperto dall'immunità perché compiuto da uno Stato sovrano",
+   "Atto iure imperii, coperto dall'immunità solo se l'immobile è iscritto a nome del governo",
+   "Atto iure gestionis (iure privatorum), non coperto dall'immunità",
+   "Atto iure gestionis, coperto comunque dall'immunità in quanto bene di proprietà statale"
+  ],
+  "answer": 2,
+  "explanation": "L'acquisto di un immobile a fini speculativi è un atto che qualsiasi privato compie: è iure privatorum e non è coperto dall'immunità; sarebbe invece iure imperii l'acquisto per installarvi l'ambasciata."
+ },
+ {
+  "id": "t9-004",
+  "topic": "Immunità degli Stati",
+  "question": "Quale evoluzione ha conosciuto, dall'inizio del Novecento, l'immunità degli Stati dalla giurisdizione?",
+  "options": [
+   "È divenuta relativa sia per la giurisdizione civile sia per quella penale, per effetto di una convenzione internazionale",
+   "È divenuta relativa per la giurisdizione penale, mentre quella civile è rimasta assoluta",
+   "È stata abolita per gli atti iure gestionis grazie a una risoluzione dell'Assemblea generale ONU",
+   "È divenuta relativa per la giurisdizione civile, per opera della giurisprudenza di alcuni Stati, mentre quella penale è rimasta assoluta"
+  ],
+  "answer": 3,
+  "explanation": "Tradizionalmente assoluta, l'immunità dalla giurisdizione civile è stata ridimensionata dalla giurisprudenza di alcuni Stati con la distinzione tra atti iure imperii e iure gestionis; quella dalla giurisdizione penale rimane assoluta."
+ },
+ {
+  "id": "t9-005",
+  "topic": "Immunità degli Stati",
+  "question": "Un tribunale dello Stato B dispone misure esecutive su beni di proprietà dello Stato A. Quale regola si applica?",
+  "options": [
+   "Tutti i beni dello Stato straniero sono pignorabili se esiste una sentenza definitiva",
+   "Sono immuni dall'esecuzione i beni destinati alla funzione pubblica, mentre gli altri possono essere aggrediti",
+   "Tutti i beni dello Stato straniero sono immuni, poiché l'immunità dall'esecuzione è assoluta",
+   "Sono immuni dall'esecuzione solo i beni mobili, mentre gli immobili sono sempre pignorabili"
+  ],
+  "answer": 1,
+  "explanation": "La distinzione si applica anche ai procedimenti esecutivi e cautelari: i beni destinati alla funzione pubblica dello Stato (es. un'ambasciata) non possono essere pignorati; su quelli non destinati a funzione pubblica l'esecuzione è possibile."
+ },
+ {
+  "id": "t9-006",
+  "topic": "Immunità degli Stati",
+  "question": "Qual è lo stato attuale della Convenzione di New York del 2004 sulle immunità giurisdizionali degli Stati?",
+  "options": [
+   "È in vigore dal 2004 ed è stata ratificata da tutti gli Stati membri dell'ONU",
+   "È in vigore solo per gli Stati europei, che l'hanno ratificata in blocco",
+   "È stata sostituita da una successiva convenzione di Vienna sulle immunità",
+   "Non è ancora entrata in vigore, perché non è stato raggiunto il numero minimo di ratifiche"
+  ],
+  "answer": 3,
+  "explanation": "La Convenzione di New York del 2004 è una convenzione di codificazione non ancora entrata in vigore per il mancato raggiungimento del numero minimo di ratifiche."
+ },
+ {
+  "id": "t9-007",
+  "topic": "Immunità degli Stati",
+  "question": "Quale esempio di atti esclusi dall'immunità, in quanto privatistici, è contemplato dalla Convenzione di New York del 2004?",
+  "options": [
+   "Gli atti compiuti da organi statali in relazione a operazioni commerciali o alla partecipazione in società",
+   "Gli atti compiuti dalle forze armate di uno Stato nel corso di un conflitto armato",
+   "Gli atti relativi all'organizzazione degli uffici di un'ambasciata e al licenziamento del personale",
+   "Gli atti di acquisto di immobili destinati a ospitare sedi diplomatiche o consolari"
+  ],
+  "answer": 0,
+  "explanation": "La Convenzione individua le eccezioni all'immunità: ad esempio non sono coperti gli atti di organi statali relativi a operazioni commerciali o alla partecipazione in società, confermando la distinzione tra atti iure imperii e iure privatorum."
+ },
+ {
+  "id": "t9-008",
+  "topic": "Immunità degli Stati",
+  "question": "Il giardiniere italiano dell'ambasciata di Francia a Roma non riceve lo stipendio da alcuni mesi. Secondo la Corte di cassazione, può agire davanti al giudice italiano?",
+  "options": [
+   "No, perché ogni controversia di lavoro con uno Stato straniero è coperta da immunità assoluta",
+   "No, perché deve rivolgersi esclusivamente ai giudici dello Stato francese",
+   "Sì, perché gli aspetti patrimoniali del rapporto di lavoro non sono coperti dall'immunità",
+   "Sì, ma solo se lo Stato francese accetta espressamente la giurisdizione italiana"
+  ],
+  "answer": 2,
+  "explanation": "La Cassazione distingue: sugli aspetti patrimoniali (retribuzione, TFR) si esercita la giurisdizione italiana e l'immunità non opera; le questioni legate ai poteri pubblicistici, come il licenziamento, restano coperte dall'immunità."
+ },
+ {
+  "id": "t9-009",
+  "topic": "Immunità degli Stati",
+  "question": "Secondo l'art. 11 della Convenzione di New York del 2004, in quale caso lo Stato straniero datore di lavoro gode dell'immunità?",
+  "options": [
+   "Quando l'azione riguarda il pagamento delle retribuzioni arretrate",
+   "Quando l'azione riguarda l'indennità di fine rapporto del lavoratore",
+   "Quando il lavoratore ha la nazionalità dello Stato del foro",
+   "Quando l'azione ha per oggetto l'assunzione o la proroga del rapporto di lavoro"
+  ],
+  "answer": 3,
+  "explanation": "L'art. 11 riconosce l'immunità quando l'azione ha per oggetto l'assunzione o la proroga del rapporto di lavoro, escludendone gli aspetti patrimoniali; è conforme all'orientamento della Cassazione, che risulta quindi in linea con il diritto consuetudinario."
+ },
+ {
+  "id": "t9-010",
+  "topic": "Immunità degli Stati",
+  "question": "Che cosa si intende per «eccezione umanitaria» alla regola dell'immunità dello Stato dalla giurisdizione civile?",
+  "options": [
+   "L'esclusione dell'immunità per atti iure imperii quando lo Stato è accusato di gravi violazioni di norme di jus cogens",
+   "L'esclusione dell'immunità per tutti gli atti iure gestionis compiuti da uno Stato straniero",
+   "L'obbligo dello Stato del foro di concedere l'immunità per gli atti compiuti a fini umanitari",
+   "La possibilità per uno Stato di rinunciare all'immunità per ragioni umanitarie"
+  ],
+  "answer": 0,
+  "explanation": "Il problema, posto dalla giurisprudenza italiana, è se l'immunità per atti iure imperii venga meno quando lo Stato convenuto è accusato di gravi violazioni dei diritti umani e, in generale, di norme di jus cogens."
+ },
+ {
+  "id": "t9-011",
+  "topic": "Immunità degli Stati",
+  "question": "Quali fatti sono all'origine della causa promossa dal sig. Ferrini contro la Germania?",
+  "options": [
+   "L'uccisione dei suoi familiari durante la strage di Monte Sole del 1944",
+   "La confisca dei suoi beni da parte delle autorità tedesche dopo l'armistizio",
+   "La cattura in un rastrellamento, la deportazione in Germania e l'obbligo ai lavori forzati",
+   "L'arruolamento forzato nell'esercito tedesco per combattere sul fronte orientale"
+  ],
+  "answer": 2,
+  "explanation": "Ferrini, cittadino italiano, nel 1943-1944 fu catturato dai militari tedeschi in un rastrellamento, deportato in Germania, rinchiuso in un campo di concentramento e obbligato ai lavori forzati (la «caccia alla manodopera»)."
+ },
+ {
+  "id": "t9-012",
+  "topic": "Immunità degli Stati",
+  "question": "Con quale argomento la Corte di cassazione, nella sentenza Ferrini del 2004, nega alla Germania l'immunità dalla giurisdizione civile?",
+  "options": [
+   "Gli atti dei militari tedeschi erano atti iure gestionis e quindi non coperti dall'immunità",
+   "Pur trattandosi di atti iure imperii, l'immunità non opera quando essi costituiscono gravi violazioni di norme di jus cogens",
+   "La Germania aveva rinunciato all'immunità firmando i trattati di pace del dopoguerra",
+   "Lo Stato tedesco attuale non coincide con lo Stato nazista autore dei crimini"
+  ],
+  "answer": 1,
+  "explanation": "La Cassazione non contesta la natura di atti iure imperii, ma esclude l'immunità quando tali atti violano gravemente la dignità umana e norme di jus cogens; principio confermato, tra le altre, da Cass. n. 1072/2009."
+ },
+ {
+  "id": "t9-013",
+  "topic": "Immunità degli Stati",
+  "question": "Nella sentenza Jurisdictional Immunities of the State (Germany v. Italy) del 3 febbraio 2012, che cosa accerta la CIG?",
+  "options": [
+   "Che l'immunità è una norma convenzionale vincolante solo per gli Stati parti della Convenzione di New York",
+   "Che la prassi degli Stati riconosce ormai un'eccezione umanitaria per le violazioni di jus cogens",
+   "Che l'immunità è una norma consuetudinaria, sorretta da usus e opinio iuris, e opera anche per gli atti delle forze armate lesivi del jus cogens",
+   "Che gli atti delle forze armate tedesche erano atti iure gestionis, estranei all'immunità"
+  ],
+  "answer": 2,
+  "explanation": "La CIG accerta usus e opinio iuris della norma sull'immunità, qualifica come iure imperii gli atti delle forze armate tedesche e rileva che la prassi non esclude l'immunità neppure per violazioni di jus cogens; la giurisprudenza italiana è isolata."
+ },
+ {
+  "id": "t9-014",
+  "topic": "Immunità degli Stati",
+  "question": "Quale obbligo impone all'Italia la sentenza della CIG del 3 febbraio 2012?",
+  "options": [
+   "Versare direttamente alla Germania un indennizzo per le somme pagate alle vittime",
+   "Sospendere i procedimenti in corso in attesa di un accordo bilaterale con la Germania",
+   "Ratificare la Convenzione di New York del 2004 entro un termine stabilito",
+   "Ristabilire la situazione anteriore alla giurisprudenza Ferrini, rendendo inapplicabili le decisioni emanate"
+  ],
+  "answer": 3,
+  "explanation": "In applicazione dell'obbligo di riparazione, la CIG stabilisce che l'Italia deve adottare tutte le misure necessarie per ristabilire la situazione preesistente al 2004, rendendo inapplicabili le decisioni già emanate dalle corti."
+ },
+ {
+  "id": "t9-015",
+  "topic": "Immunità degli Stati",
+  "question": "Con la sentenza n. 238 del 2014 la Corte costituzionale ritiene che la norma consuetudinaria sull'immunità debba cedere di fronte a quale principio fondamentale?",
+  "options": [
+   "Al principio di eguaglianza, di cui all'art. 3 Cost.",
+   "Al diritto a ottenere giustizia, di cui all'art. 24 Cost.",
+   "Al ripudio della guerra, di cui all'art. 11 Cost.",
+   "Al principio di sovranità popolare, di cui all'art. 1 Cost."
+  ],
+  "answer": 1,
+  "explanation": "Per la Corte costituzionale (sent. n. 238/2014) il diritto a ottenere giustizia dell'art. 24 Cost. (letto insieme all'art. 2 Cost. sui diritti inviolabili) è un principio fondamentale che prevale sulla norma consuetudinaria che prevede l'immunità degli Stati."
+ },
+ {
+  "id": "t9-016",
+  "topic": "Immunità degli Stati",
+  "question": "Secondo la sentenza n. 238/2014 della Corte costituzionale, che cosa accade a una norma consuetudinaria internazionale contraria a un principio fondamentale della Costituzione?",
+  "options": [
+   "Non entra nell'ordinamento italiano, perché non opera il rinvio dell'art. 10, primo comma, Cost.",
+   "Entra nell'ordinamento italiano, ma con rango di legge ordinaria e quindi derogabile",
+   "Entra nell'ordinamento italiano e prevale sulla Costituzione in forza dell'art. 117 Cost.",
+   "Resta sospesa finché il Parlamento non decide se recepirla con legge costituzionale"
+  ],
+  "answer": 0,
+  "explanation": "La Corte afferma che tale norma «non entra nell'ordinamento italiano» e non vi svolge alcun effetto, in quanto non opera il rinvio di cui al primo comma dell'art. 10 Cost."
+ },
+ {
+  "id": "t10-001",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "Con riferimento all'ambasciatore italiano a Parigi, quale Stato è lo Stato accreditante?",
+  "options": [
+   "La Francia, in quanto Stato in cui è stabilita la missione",
+   "L'Unione europea, in quanto organizzazione di cui entrambi fanno parte",
+   "L'Italia, in quanto Stato di nazionalità che invia la missione",
+   "Entrambi gli Stati, in quanto parti della relazione diplomatica"
+  ],
+  "answer": 2,
+  "explanation": "Lo Stato accreditante è lo Stato di nazionalità dell'agente che invia la missione (l'Italia); lo Stato accreditatario è quello in cui la missione è stabilita (la Francia)."
+ },
+ {
+  "id": "t10-002",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "Qual è la ratio delle norme consuetudinarie sulle immunità diplomatiche?",
+  "options": [
+   "Garantire agli agenti diplomatici un privilegio personale legato al loro rango",
+   "Sottrarre gli agenti diplomatici all'obbligo di osservare la legge dello Stato ospite",
+   "Consentire allo Stato accreditante di esercitare la propria giurisdizione all'estero",
+   "Impedire che lo Stato accreditatario, con i suoi poteri di governo, ostacoli la missione"
+  ],
+  "answer": 3,
+  "explanation": "Le immunità servono a far sì che gli agenti svolgano i loro compiti in sicurezza, evitando che lo Stato accreditatario ostacoli con i suoi poteri autoritativi le relazioni internazionali."
+ },
+ {
+  "id": "t10-003",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "Secondo l'art. 2 della Convenzione di Vienna del 1961, lo stabilimento di relazioni diplomatiche tra due Stati:",
+  "options": [
+   "È obbligatorio per tutti gli Stati membri delle Nazioni Unite",
+   "Ha luogo per mutuo consenso ed è frutto di una scelta politica discrezionale",
+   "È obbligatorio tra Stati confinanti o legati da trattati commerciali",
+   "Richiede l'autorizzazione preventiva del Consiglio di sicurezza"
+  ],
+  "answer": 1,
+  "explanation": "L'art. 2 della Convenzione di Vienna del 1961 stabilisce che le relazioni diplomatiche si instaurano per mutuo consenso: è una facoltà rientrante nella sovranità esterna, non un obbligo."
+ },
+ {
+  "id": "t10-004",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "In quale sentenza la CIG ha affermato il carattere «fondamentale» e «imperativo» delle norme sulle immunità diplomatiche?",
+  "options": [
+   "Germania c. Italia del 2012, sulle immunità giurisdizionali dello Stato",
+   "Nicaragua c. Stati Uniti del 1986, sulle attività militari e paramilitari",
+   "Stati Uniti c. Iran del 1980, sul personale diplomatico e consolare a Teheran",
+   "Congo c. Belgio del 2002, sul mandato d'arresto contro un ministro"
+  ],
+  "answer": 2,
+  "explanation": "Nella sentenza USA c. Iran del 1980 la CIG ha sottolineato il carattere fondamentale e imperativo di queste norme e l'importanza cardinale di buoni rapporti tra gli Stati."
+ },
+ {
+  "id": "t10-005",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "L'ambasciata dello Stato A nello Stato B trasmette al proprio governo rapporti sugli sviluppi politici ed economici di B, raccolti con mezzi leciti. Quale funzione esercita?",
+  "options": [
+   "La funzione di rappresentanza dello Stato accreditatario presso lo Stato A",
+   "La funzione di informazione, rientrante tra le funzioni della missione",
+   "Una funzione consolare di tutela amministrativa dei connazionali",
+   "Un'attività illecita, in quanto ingerenza negli affari interni di B"
+  ],
+  "answer": 1,
+  "explanation": "Tra le funzioni della missione vi è quella di informarsi, con mezzi leciti, degli avvenimenti nello Stato accreditatario e di presentare rapporti al governo dello Stato accreditante."
+ },
+ {
+  "id": "t10-006",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "In base all'art. 9 par. 1 della Convenzione di Vienna del 1961, lo Stato accreditatario può dichiarare persona non grata un membro del personale diplomatico:",
+  "options": [
+   "In ogni momento e senza essere obbligato a precisarne i motivi",
+   "Solo dopo una sentenza penale definitiva dei propri giudici",
+   "Solo motivando formalmente la decisione allo Stato accreditante",
+   "Solo dopo che il soggetto ha preso servizio sul suo territorio"
+  ],
+  "answer": 0,
+  "explanation": "L'art. 9 par. 1 consente la dichiarazione in ogni momento e senza motivazione, anche prima che la persona giunga sul territorio; lo Stato accreditante deve quindi richiamarla."
+ },
+ {
+  "id": "t10-007",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "L'estensione delle immunità diplomatiche al personale tecnico-amministrativo della missione, prevista dall'art. 37 della Convenzione di Vienna del 1961:",
+  "options": [
+   "Codifica una norma consuetudinaria risalente alla pace di Vestfalia",
+   "Si applica anche agli impiegati cittadini dello Stato accreditatario",
+   "Si ritiene non corrispondente al diritto internazionale consuetudinario",
+   "È stata superata dalla Convenzione di Vienna sulle relazioni consolari"
+  ],
+  "answer": 2,
+  "explanation": "L'art. 37 è uno dei rari casi in cui una convenzione di codificazione non corrisponde alla consuetudine, che riserva le immunità ad agenti diplomatici, familiari, capi di Stato e di governo e ministri degli esteri in visita ufficiale."
+ },
+ {
+  "id": "t10-008",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "Oltre ad astenersi da misure coercitive, che cosa impone allo Stato accreditatario l'inviolabilità personale dell'agente diplomatico?",
+  "options": [
+   "Di esentare l'agente da ogni tipo di imposta, comprese quelle indirette",
+   "Di adottare tutte le misure necessarie per prevenire ogni attacco alla persona dell'agente",
+   "Di consentire all'agente di esercitare funzioni di polizia nella sede della missione",
+   "Di affidare la sicurezza dell'agente alle forze armate dello Stato accreditante"
+  ],
+  "answer": 1,
+  "explanation": "Lo Stato accreditatario deve prevenire e reprimere ogni attacco alla persona e alla libertà dell'agente; nel caso degli ostaggi di Teheran (USA c. Iran, 1980) l'Iran non lo aveva fatto."
+ },
+ {
+  "id": "t10-009",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "La polizia dello Stato accreditatario intende perquisire la sede di una missione diplomatica straniera. A quale condizione è ammessa la perquisizione?",
+  "options": [
+   "Solo con l'autorizzazione del capo della missione",
+   "Con l'autorizzazione di un giudice dello Stato accreditatario",
+   "Quando vi sia il sospetto fondato di un reato grave",
+   "Previa notifica al Segretario generale dell'ONU"
+  ],
+  "answer": 0,
+  "explanation": "In base all'inviolabilità della sede, non sono ammessi atti di coercizione come perquisizioni o irruzioni senza l'autorizzazione del capo missione; la stessa tutela riguarda l'abitazione del diplomatico."
+ },
+ {
+  "id": "t10-010",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "Un agente diplomatico acquista nello Stato accreditatario beni soggetti a IVA. Quale regola si applica?",
+  "options": [
+   "È esente, perché l'immunità fiscale copre ogni tipo di imposta",
+   "È esente solo se lo Stato accreditante lo richiede formalmente",
+   "È soggetto all'IVA, salvo esenzione concessa a titolo di cortesia",
+   "È soggetto all'IVA solo se possiede anche la cittadinanza locale"
+  ],
+  "answer": 2,
+  "explanation": "L'immunità fiscale riguarda esclusivamente le imposte dirette personali; le imposte indirette (IVA, accise) restano dovute, salvo estensione concessa dallo Stato accreditatario per cortesia."
+ },
+ {
+  "id": "t10-011",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "Un agente diplomatico assume personalmente un domestico; terminata la missione, il lavoratore lo cita in giudizio. Che cosa accade?",
+  "options": [
+   "Non può essere processato, perché l'atto è coperto dall'immunità funzionale",
+   "Non può mai essere processato, perché l'immunità personale è perpetua",
+   "Può essere processato soltanto dai giudici dello Stato accreditante",
+   "Può essere processato: era un atto privato coperto solo dall'immunità personale"
+  ],
+  "answer": 3,
+  "explanation": "L'assunzione di un domestico è un atto privato: l'immunità ratione personae è un'esenzione dal processo che cessa con la fine del mandato, dopo la quale l'ex agente può essere convenuto in giudizio."
+ },
+ {
+  "id": "t10-012",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "Un agente diplomatico, su mandato del proprio governo, consegna allo Stato territoriale una nota con espressioni offensive verso quello Stato. Terminata la missione, può essere processato per tale condotta?",
+  "options": [
+   "No, perché si tratta di un atto ufficiale coperto dall'immunità funzionale",
+   "Sì, perché l'immunità personale cessa con la fine del mandato",
+   "Sì, ma soltanto davanti ai giudici dello Stato accreditante",
+   "Sì, purché sia stato prima dichiarato persona non grata"
+  ],
+  "answer": 0,
+  "explanation": "L'immunità ratione materiae copre gli atti compiuti come organo dello Stato, imputabili soltanto a quest'ultimo, e vale sia durante sia dopo il mandato."
+ },
+ {
+  "id": "t10-013",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "Secondo l'opinione prevalente, il diritto internazionale consuetudinario riconosce ai consoli:",
+  "options": [
+   "Tutte le immunità diplomatiche, comprese quella fiscale e domiciliare",
+   "Nessuna immunità, essendo i consoli semplici funzionari amministrativi",
+   "La sola immunità giurisdizionale personale per gli atti privati",
+   "L'immunità funzionale dalla giurisdizione e l'inviolabilità dell'archivio consolare"
+  ],
+  "answer": 3,
+  "explanation": "La Convenzione di Vienna del 1963 sulle relazioni consolari prevede immunità analoghe a quelle diplomatiche, ma la consuetudine riconoscerebbe solo l'immunità funzionale e l'inviolabilità dell'archivio consolare."
+ },
+ {
+  "id": "t10-014",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "Quale affermazione sull'immunità dalla giurisdizione e dall'esecuzione delle organizzazioni internazionali è corretta?",
+  "options": [
+   "Si fonda esclusivamente sul consenso caso per caso dello Stato territoriale",
+   "È un corollario della loro soggettività internazionale ed è spesso prevista da norme pattizie",
+   "Ha natura pacificamente consuetudinaria e non viene mai regolata nei trattati istitutivi",
+   "Spetta soltanto alle organizzazioni con sede in Stati che non ne sono membri"
+  ],
+  "answer": 1,
+  "explanation": "L'immunità delle OI deriva dalla loro soggettività internazionale; data l'incertezza sulla sua natura consuetudinaria, è spesso prevista nei trattati istitutivi (es. art. 105 par. 1 Carta ONU)."
+ },
+ {
+  "id": "t10-015",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "Perché l'immunità di un'organizzazione internazionale nelle controversie di lavoro con i propri funzionari è ritenuta compatibile con il diritto di accesso al giudice?",
+  "options": [
+   "Perché il funzionario può sempre rivolgersi alla Corte internazionale di giustizia",
+   "Perché il funzionario rinuncia per contratto a ogni forma di tutela giurisdizionale",
+   "Perché la controversia è decisa dai giudici dello Stato di nazionalità del funzionario",
+   "Perché esistono organi interni indipendenti e imparziali che offrono una tutela equivalente"
+  ],
+  "answer": 3,
+  "explanation": "Le OI predispongono procedure giudiziarie interne, indipendenti e imparziali (es. Tribunale dell'UE; per l'ONU, il sistema di giustizia interna che dal 2009 ha sostituito il Tribunale amministrativo), che garantiscono al lavoratore una protezione equivalente a quella dei giudici statali."
+ },
+ {
+  "id": "t10-016",
+  "topic": "Immunità diplomatiche, consolari e delle organizzazioni internazionali",
+  "question": "Le immunità e i privilegi dei funzionari delle organizzazioni internazionali trovano fondamento:",
+  "options": [
+   "In norme pattizie, come l'art. 105 par. 2 della Carta ONU",
+   "In una norma consuetudinaria analoga a quella sugli agenti diplomatici",
+   "Nella Convenzione di Vienna sulle relazioni consolari del 1963",
+   "Nell'art. 37 della Convenzione di Vienna del 1961"
+  ],
+  "answer": 0,
+  "explanation": "Il diritto consuetudinario non impone obblighi specifici sul trattamento dei funzionari delle OI: le loro immunità derivano dai trattati istitutivi, ad esempio l'art. 105 par. 2 della Carta ONU."
  }
 ]
