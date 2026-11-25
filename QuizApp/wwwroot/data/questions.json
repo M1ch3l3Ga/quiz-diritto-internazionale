@@ -2663,5 +2663,629 @@
   ],
   "answer": 0,
   "explanation": "Il diritto consuetudinario non impone obblighi specifici sul trattamento dei funzionari delle OI: le loro immunità derivano dai trattati istitutivi, ad esempio l'art. 105 par. 2 della Carta ONU."
+ },
+ {
+  "id": "t11-001",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "Le espressioni «diritti dell'uomo» e «diritti umani»:",
+  "options": [
+   "Indicano categorie diverse: la prima i soli diritti civili, la seconda anche quelli sociali",
+   "Indicano rispettivamente i diritti dei cittadini e quelli di tutti gli individui",
+   "Sono equivalenti: derivano dal francese droits de l'homme e dall'inglese human rights",
+   "Indicano rispettivamente i diritti nazionali e quelli tutelati dal diritto internazionale"
+  ],
+  "answer": 2,
+  "explanation": "Si può parlare indifferentemente di diritti dell'uomo o di diritti umani: in entrambi i casi si tratta dei diritti dell'individuo in quanto tale."
+ },
+ {
+  "id": "t11-002",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "Che cosa caratterizza il Bill of Rights inglese del 1689?",
+  "options": [
+   "Stabilisce la subordinazione del sovrano al Parlamento e amplia la platea dei destinatari rispetto alla Magna Charta",
+   "Riconosce diritti ai soli baroni e feudatari e introduce per la prima volta l'habeas corpus",
+   "È una carta octroyée concessa dal sovrano dopo i moti insurrezionali dell'Ottocento",
+   "Proclama i diritti di seconda generazione, come il diritto all'istruzione e alla salute"
+  ],
+  "answer": 0,
+  "explanation": "Il Bill of Rights (1689) è il primo elenco dei diritti del popolo e segna la fine del potere assoluto: il re è subordinato al Parlamento e alle sue leggi."
+ },
+ {
+  "id": "t11-003",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "Che cosa si intende per diritti «di seconda generazione»?",
+  "options": [
+   "I diritti civili e politici, come la libertà di stampa e la libertà personale",
+   "I diritti riconosciuti allo straniero dal diritto internazionale consuetudinario",
+   "I diritti inalienabili derivanti dal diritto naturale secondo il giusnaturalismo",
+   "I diritti sociali ed economici, come il diritto all'istruzione e alla salute"
+  ],
+  "answer": 3,
+  "explanation": "Nel Novecento ai diritti civili e politici (di prima generazione, più risalenti) si aggiungono i diritti sociali ed economici, detti di seconda generazione."
+ },
+ {
+  "id": "t11-004",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "Lo Stato A pretende che uno straniero residente sul suo territorio presti il servizio militare nel proprio esercito. È conforme al diritto internazionale?",
+  "options": [
+   "Sì, purché lo straniero risieda nello Stato da almeno cinque anni",
+   "No, perché manca il legame sufficiente che un comportamento di natura politica richiede",
+   "Sì, purché lo Stato di nazionalità dello straniero vi abbia acconsentito",
+   "Sì, ma soltanto in tempo di guerra e per esigenze di difesa nazionale"
+  ],
+  "answer": 1,
+  "explanation": "Allo straniero non possono essere imposti comportamenti di natura politica, come il servizio militare, indice di un legame molto forte con lo Stato (Cassazione, sentenza Klieber del 1992)."
+ },
+ {
+  "id": "t11-005",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "L'obbligo dello Stato di proteggere lo straniero presente sul suo territorio si articola in:",
+  "options": [
+   "Prevenzione delle violazioni dei suoi diritti e repressione dei crimini commessi ai suoi danni",
+   "Ammissione sul territorio e divieto di espulsione senza il consenso dello Stato di nazionalità",
+   "Assistenza consolare e rimpatrio a spese dello Stato in caso di pericolo",
+   "Esenzione dalle imposte e dagli obblighi di natura politica, come il servizio militare"
+  ],
+  "answer": 0,
+  "explanation": "La protezione comprende la prevenzione (normale situazione di sicurezza, analoga a quella dei cittadini) e la repressione dei crimini, con accesso dello straniero alla giustizia."
+ },
+ {
+  "id": "t11-006",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "Secondo la Corte permanente di giustizia internazionale, nella sentenza Mavrommatis del 1924, lo Stato che agisce in protezione diplomatica:",
+  "options": [
+   "Fa valere un diritto del cittadino leso, agendo come suo rappresentante processuale",
+   "Adempie un obbligo internazionale nei confronti del proprio cittadino leso",
+   "Fa valere un diritto suo proprio: far rispettare il diritto internazionale nella persona dei suoi cittadini",
+   "Esercita funzioni riservate agli agenti diplomatici, coperte da immunità funzionale"
+  ],
+  "answer": 2,
+  "explanation": "Per la sentenza Mavrommatis (1924) lo Stato fa valere un diritto suo proprio; l'individuo è oggetto dell'azione dello Stato, che resta libero di agire o meno."
+ },
+ {
+  "id": "t11-007",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "Quali sono i requisiti per l'esercizio della protezione diplomatica?",
+  "options": [
+   "La residenza abituale della vittima nello Stato che agisce e il consenso dello Stato autore dell'illecito",
+   "L'autorizzazione del Consiglio di sicurezza e la previa notifica allo Stato autore dell'illecito",
+   "La cittadinanza della vittima e la previa richiesta di asilo nello Stato che vuole agire",
+   "L'effettivo legame di cittadinanza con la vittima e il previo esaurimento dei ricorsi interni"
+  ],
+  "answer": 3,
+  "explanation": "Occorrono un effettivo legame di cittadinanza tra lo Stato che agisce e la vittima e il previo esaurimento dei rimedi giurisdizionali dello Stato che ha leso i diritti."
+ },
+ {
+  "id": "t11-008",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "Secondo la CIG nella sentenza Barcelona Traction del 1970, quale Stato può agire in protezione diplomatica a tutela di una società?",
+  "options": [
+   "Lo Stato di cui ha la nazionalità la maggioranza degli azionisti",
+   "Lo Stato in cui la società ha la sede",
+   "Qualunque Stato in cui la società abbia filiali o uffici di rappresentanza",
+   "Lo Stato in cui sono situati i beni espropriati o nazionalizzati"
+  ],
+  "answer": 1,
+  "explanation": "Nella sentenza Barcelona Traction (1970) la CIG ha individuato lo Stato nazionale della società in quello della sede, non in quello di nazionalità degli azionisti."
+ },
+ {
+  "id": "t11-009",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "Quale disposizione della Carta ONU funge da contrappeso alla promozione dei diritti umani prevista dall'art. 1?",
+  "options": [
+   "L'art. 2 par. 7, che esclude l'intervento dell'ONU nelle questioni di competenza interna degli Stati",
+   "L'art. 14, che riconosce a ogni individuo il diritto di cercare asilo in altri Paesi",
+   "L'art. 51, che riconosce il diritto naturale di legittima difesa individuale e collettiva",
+   "L'art. 105, che attribuisce all'Organizzazione privilegi e immunità negli Stati membri"
+  ],
+  "answer": 0,
+  "explanation": "L'art. 2 par. 7 sancisce il rispetto della sovranità statale: la tutela effettiva dei diritti umani resta nella domestic jurisdiction degli Stati."
+ },
+ {
+  "id": "t11-010",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "La Dichiarazione universale dei diritti dell'uomo è stata adottata:",
+  "options": [
+   "Nel 1945, dal Consiglio di sicurezza con una delibera vincolante",
+   "Nel 1950, come trattato ratificato dagli Stati membri del Consiglio d'Europa",
+   "Nel 1966, dall'Assemblea generale insieme ai due Patti internazionali",
+   "Il 10 dicembre 1948, dall'Assemblea generale con una risoluzione non vincolante"
+  ],
+  "answer": 3,
+  "explanation": "La Dichiarazione è stata approvata dall'Assemblea generale dell'ONU il 10 dicembre 1948 con una risoluzione, come tale non vincolante."
+ },
+ {
+  "id": "t11-011",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "Nell'art. 1 della Dichiarazione universale, l'affermazione che tutti gli esseri umani «nascono» liberi ed eguali indica che i diritti:",
+  "options": [
+   "Spettano solo a chi nasce nel territorio di uno Stato membro dell'ONU",
+   "Si acquistano con la cittadinanza e sono riconosciuti dallo Stato di nascita",
+   "Sono connaturati all'essere umano e non concessi dal sovrano",
+   "Vincolano gli Stati dal momento della nascita delle Nazioni Unite"
+  ],
+  "answer": 2,
+  "explanation": "Il termine «nascono» esprime che i diritti sono connaturati alla persona, a differenza delle carte ottocentesche concesse dal sovrano."
+ },
+ {
+  "id": "t11-012",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "Qual è il valore giuridico della Dichiarazione universale dei diritti dell'uomo?",
+  "options": [
+   "È vincolante come un trattato per tutti gli Stati membri delle Nazioni Unite",
+   "Non è vincolante, ma il suo contenuto corrisponde in larga misura al diritto consuetudinario",
+   "Ha valore esclusivamente politico e nessuna sua norma ha rilievo giuridico",
+   "È vincolante solo per gli Stati che l'hanno votata in Assemblea generale"
+  ],
+  "answer": 1,
+  "explanation": "Pur non vincolante, la Dichiarazione riflette in larga parte norme consuetudinarie; alcuni principi, come il divieto di tortura, sono di jus cogens."
+ },
+ {
+  "id": "t11-013",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "Perché nel 1966 sono stati stipulati due Patti distinti anziché uno solo?",
+  "options": [
+   "Perché i diritti civili e politici sono immediatamente applicabili, quelli economici e sociali richiedono un'azione dello Stato",
+   "Perché il primo Patto ha portata universale, mentre il secondo vale solo per gli Stati europei",
+   "Perché il primo è un trattato vincolante, mentre il secondo è una semplice dichiarazione di principi",
+   "Perché il primo riguarda i cittadini degli Stati parti, il secondo gli stranieri e gli apolidi"
+  ],
+  "answer": 0,
+  "explanation": "I due Patti del 1966 riguardano categorie diverse di diritti: quelli civili e politici sono immediatamente applicabili, quelli economici e sociali richiedono un intervento statale."
+ },
+ {
+  "id": "t11-014",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "Quale affermazione sul Comitato dei diritti umani istituito dal Patto sui diritti civili e politici è corretta?",
+  "options": [
+   "Le sue decisioni sulle comunicazioni individuali sono vincolanti per lo Stato interessato",
+   "Si pronuncia in modo non vincolante, previo esaurimento dei ricorsi interni",
+   "Le sue pronunce possono essere impugnate davanti alla Corte internazionale di giustizia",
+   "Esamina ogni anno i rapporti degli Stati e adotta raccomandazioni vincolanti"
+  ],
+  "answer": 1,
+  "explanation": "Il Comitato esamina i rapporti quinquennali degli Stati e le segnalazioni di Stati e individui (Protocollo facoltativo), con pronunce non vincolanti e previo esaurimento dei ricorsi interni."
+ },
+ {
+  "id": "t11-015",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "Quale abbinamento tra convenzione universale settoriale e anno di adozione è corretto?",
+  "options": [
+   "Convenzione sul genocidio, 1984",
+   "Convenzione contro la tortura, 1948",
+   "Convenzione sui diritti dell'infanzia, 1989",
+   "Convenzione sulla discriminazione nei confronti della donna, 1965"
+  ],
+  "answer": 2,
+  "explanation": "La Convenzione sui diritti dell'infanzia è del 1989; quella sul genocidio è del 1948, quella contro la tortura del 1984, quella sulla discriminazione nei confronti della donna del 1979."
+ },
+ {
+  "id": "t11-016",
+  "topic": "Tutela internazionale dei diritti umani",
+  "question": "Quale convenzione regionale sui diritti umani è stata adottata nel 1981?",
+  "options": [
+   "La Convenzione europea dei diritti dell'uomo",
+   "La Convenzione americana dei diritti dell'uomo",
+   "La Convenzione di Ginevra sullo status di rifugiato",
+   "La Carta africana dei diritti dell'uomo e dei popoli"
+  ],
+  "answer": 3,
+  "explanation": "La Carta africana è del 1981; la Convenzione europea è del 1950 e quella americana del 1969, mentre la Convenzione di Ginevra (1951) è universale settoriale."
+ },
+ {
+  "id": "t12-001",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "Nell'impianto originario dei trattati istitutivi delle Comunità europee, l'individuo rilevava:",
+  "options": [
+   "In quanto entità economica, cioè come lavoratore, fornitore di servizi o operatore economico",
+   "In quanto persona titolare dei diritti civili e politici sanciti dai trattati",
+   "In quanto cittadino europeo titolare del diritto di voto al Parlamento europeo",
+   "In quanto destinatario diretto degli obblighi della Convenzione europea dei diritti dell'uomo"
+  ],
+  "answer": 0,
+  "explanation": "I trattati (in particolare il Trattato CEE) non contenevano norme sui diritti fondamentali, ma solo le quattro libertà economiche strumentali al mercato unico: l'individuo rilevava come soggetto che esercita un'attività economica."
+ },
+ {
+  "id": "t12-002",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "Secondo la sentenza Nold della Corte di giustizia del 14 maggio 1974, nel garantire i diritti fondamentali la Corte si ispira:",
+  "options": [
+   "Esclusivamente alle quattro libertà economiche previste dal Trattato CEE",
+   "Alla giurisprudenza della Corte internazionale di giustizia in materia di diritti umani",
+   "Alle tradizioni costituzionali comuni agli Stati membri e ai trattati internazionali sui diritti dell'uomo",
+   "Alle sole norme della Costituzione dello Stato membro coinvolto nella controversia"
+  ],
+  "answer": 2,
+  "explanation": "Nella sentenza Nold (1974) la Corte afferma che i diritti fondamentali fanno parte dei principi generali del diritto comunitario e che essa si ispira alle tradizioni costituzionali comuni e ai trattati internazionali, cioè anche a fonti esterne all'ordinamento comunitario."
+ },
+ {
+  "id": "t12-003",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "Quale novità introduce il Trattato di Maastricht del 1992 in materia di diritti fondamentali?",
+  "options": [
+   "Attribuisce forza giuridicamente vincolante alla Carta dei diritti fondamentali",
+   "Recepisce in un trattato l'impegno dell'Unione a rispettare i diritti fondamentali come garantiti dalla CEDU",
+   "Consente al Consiglio di sospendere il diritto di voto dello Stato che viola i diritti fondamentali",
+   "Prevede l'adesione obbligatoria di tutti gli Stati membri al Consiglio d'Europa"
+  ],
+  "answer": 1,
+  "explanation": "Con Maastricht l'Unione si impegna a «rispettare i diritti fondamentali come garantiti dalla Convenzione europea dei diritti dell'uomo»: ciò che era una presa d'atto della Corte di giustizia diventa un impegno pattizio degli Stati."
+ },
+ {
+  "id": "t12-004",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "Il meccanismo introdotto dal Trattato di Amsterdam, che consente al Consiglio di sospendere il diritto di voto di uno Stato responsabile di una violazione grave e persistente dei principi fondanti dell'Unione:",
+  "options": [
+   "È stato applicato nei confronti dell'Ungheria, con la sospensione del suo diritto di voto",
+   "È stato applicato nei confronti della Polonia su iniziativa del Parlamento europeo",
+   "È di competenza esclusiva della Corte di giustizia, su ricorso della Commissione",
+   "Non è mai stato esercitato, perché implica valutazioni politiche molto gravi"
+  ],
+  "answer": 3,
+  "explanation": "La facoltà prevista dal Trattato di Amsterdam (1997) non è mai stata esercitata; nel caso dell'Ungheria si è preferita la pressione della Commissione europea tramite la sospensione dell'erogazione di fondi europei."
+ },
+ {
+  "id": "t12-005",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "La Carta dei diritti fondamentali dell'Unione europea, approvata nel 2000:",
+  "options": [
+   "È stata fin dall'origine vincolante, in quanto trattato ratificato da tutti gli Stati membri",
+   "È tuttora una mera dichiarazione politica priva di valore giuridico",
+   "Era inizialmente solo proclamata e ha acquisito forza vincolante con il Trattato di Lisbona",
+   "È divenuta vincolante con il Trattato di Amsterdam, che l'ha posta a fondamento dell'Unione"
+  ],
+  "answer": 2,
+  "explanation": "Nel 2000 la Carta fu soltanto proclamata da Parlamento europeo, Consiglio e Commissione, senza valore vincolante; con il Trattato di Lisbona è divenuta giuridicamente vincolante."
+ },
+ {
+  "id": "t12-006",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "Con l'espressione «living instrument which must be interpreted in the light of the present-day conditions», la Corte europea dei diritti dell'uomo nella sentenza Tyrer del 1978 ha affermato:",
+  "options": [
+   "Il carattere evolutivo dell'interpretazione della Convenzione",
+   "Il carattere vincolante delle sentenze soltanto tra le parti della controversia",
+   "La necessità del previo esaurimento dei mezzi di ricorso interni",
+   "La competenza del Comitato dei Ministri sull'esecuzione delle sentenze"
+  ],
+  "answer": 0,
+  "explanation": "Nella sentenza Tyrer (1978) la Corte qualifica la Convenzione come «living instrument»: una giurisprudenza evolutiva, che adegua gli ordinamenti degli Stati alle nuove esigenze."
+ },
+ {
+  "id": "t12-007",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "Un cittadino italiano risiede stabilmente a Monaco di Baviera. In base ai diritti di cittadinanza europea ribaditi dalla Carta:",
+  "options": [
+   "Può votare alle elezioni comunali tedesche solo dopo aver acquisito la cittadinanza tedesca",
+   "Può votare soltanto alle elezioni comunali del comune italiano di origine",
+   "Può votare alle elezioni politiche nazionali tedesche, ma non a quelle comunali",
+   "Può votare alle elezioni comunali di Monaco e alle elezioni del Parlamento europeo in Germania"
+  ],
+  "answer": 3,
+  "explanation": "Il capo sulla cittadinanza della Carta ribadisce il diritto del cittadino europeo di votare alle elezioni del Parlamento europeo e alle elezioni comunali nello Stato membro di residenza."
+ },
+ {
+  "id": "t12-008",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "Quale affermazione sul Consiglio d'Europa è corretta?",
+  "options": [
+   "È l'istituzione dell'Unione europea che riunisce i capi di Stato o di governo dei 27 Stati membri",
+   "È un'organizzazione internazionale distinta dall'Unione europea, istituita con il Trattato di Londra del 1949",
+   "È l'organo dell'Unione europea che adotta gli atti legislativi insieme al Parlamento europeo",
+   "È un'organizzazione internazionale di cui fanno parte soltanto i 27 Stati membri dell'Unione"
+  ],
+  "answer": 1,
+  "explanation": "Il Consiglio d'Europa, creato con il Trattato di Londra del 1949, è un'organizzazione distinta dall'UE e dal Consiglio europeo; conta 46 Stati, tra cui Svizzera, Norvegia, Regno Unito e Turchia."
+ },
+ {
+  "id": "t12-009",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "In base all'art. 1 della CEDU, uno Stato contraente deve riconoscere i diritti sanciti dalla Convenzione:",
+  "options": [
+   "A ogni persona soggetta alla sua giurisdizione, compresi gli stranieri",
+   "Ai soli propri cittadini, ovunque essi si trovino",
+   "Ai cittadini degli Stati membri del Consiglio d'Europa presenti sul suo territorio",
+   "Ai soli cittadini dell'Unione europea residenti sul suo territorio"
+  ],
+  "answer": 0,
+  "explanation": "L'art. 1 CEDU impone di riconoscere i diritti «ad ogni persona» soggetta alla giurisdizione dello Stato: non solo ai cittadini, ma anche agli stranieri."
+ },
+ {
+  "id": "t12-010",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "Tizio, condannato in primo grado in Italia, ritiene violato il proprio diritto a un equo processo (art. 6 CEDU). Può ricorrere subito alla Corte europea dei diritti dell'uomo?",
+  "options": [
+   "Sì, perché il ricorso individuale è ammesso per ogni violazione dei diritti fondamentali",
+   "Sì, ma solo se il ricorso è presentato dallo Stato di cui è cittadino",
+   "No, perché i ricorsi individuali sono esaminati dal Comitato dei Ministri",
+   "No, deve prima esaurire i mezzi di ricorso interni, cioè appello e ricorso in Cassazione"
+  ],
+  "answer": 3,
+  "explanation": "Il ricorso individuale è subordinato al previo esaurimento dei mezzi di ricorso interni: l'individuo può adire Strasburgo solo quando l'ordinamento statale non offre più rimedi adeguati ed effettivi."
+ },
+ {
+  "id": "t12-011",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "Se uno Stato non dà esecuzione a una sentenza della Corte europea dei diritti dell'uomo, il Protocollo n. 14, in vigore dal 2010, consente:",
+  "options": [
+   "Alla Corte di giustizia dell'Unione europea di sospendere il diritto di voto dello Stato",
+   "Al Consiglio europeo di espellere lo Stato dal Consiglio d'Europa a maggioranza semplice",
+   "Al Comitato dei Ministri, a maggioranza dei 2/3, di avviare un'ulteriore azione davanti alla Corte",
+   "Alla vittima di chiedere l'esecuzione forzata della sentenza alla Corte internazionale di giustizia"
+  ],
+  "answer": 2,
+  "explanation": "Il Comitato dei Ministri, organo politico del Consiglio d'Europa, con decisione a maggioranza dei 2/3 può adire nuovamente la Corte contro lo Stato inadempiente (Protocollo n. 14, in vigore dal 2010)."
+ },
+ {
+  "id": "t12-012",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "Quale composizione della Corte europea dei diritti dell'uomo decide i casi che comportano importanti questioni di interpretazione della CEDU o mutamenti di giurisprudenza?",
+  "options": [
+   "Il comitato di 3 giudici, competente per le questioni di principio",
+   "La Grande Camera di 17 giudici, che funge anche da istanza d'appello rispetto alle camere",
+   "La camera di 7 giudici, che decide in ultima istanza su ogni ricorso",
+   "Il giudice unico, nominato dallo Stato contro cui è proposto il ricorso"
+  ],
+  "answer": 1,
+  "explanation": "La Grande Camera (17 giudici) decide le questioni interpretative importanti e i cambiamenti di giurisprudenza ed è una sorta di istanza d'appello contro le sentenze delle camere (7 giudici); i comitati (3 giudici) trattano i casi evidentemente irricevibili."
+ },
+ {
+  "id": "t12-013",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "Come sono sistemati i diritti nella Carta dei diritti fondamentali dell'Unione europea?",
+  "options": [
+   "In sei capi: dignità, libertà, uguaglianza, solidarietà, cittadinanza, giustizia",
+   "In due parti: diritti civili e politici e diritti economici, sociali e culturali",
+   "In un unico elenco di articoli, sul modello dei Patti delle Nazioni Unite del 1966",
+   "In quattro titoli corrispondenti alle quattro libertà economiche fondamentali"
+  ],
+  "answer": 0,
+  "explanation": "La Carta ha una struttura innovativa rispetto ai Patti del 1966: i diritti sono raggruppati in sei capi (dignità, libertà, uguaglianza, solidarietà, cittadinanza, giustizia) e comprendono anche diritti di terza generazione come ambiente, privacy e tutela del consumatore."
+ },
+ {
+  "id": "t12-014",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "Oltre a ordinare la cessazione della violazione, che cosa può imporre la Corte europea dei diritti dell'uomo allo Stato condannato?",
+  "options": [
+   "L'espulsione dei funzionari responsabili dal Consiglio d'Europa",
+   "Un'«equa soddisfazione» alla vittima, cioè un risarcimento in denaro",
+   "La sospensione del diritto di voto nel Comitato dei Ministri",
+   "L'annullamento diretto della legge interna contraria alla Convenzione"
+  ],
+  "answer": 1,
+  "explanation": "Accertata la violazione, la Corte ingiunge allo Stato di farla cessare e può imporgli di versare alla vittima un'equa soddisfazione, cioè un pagamento in denaro a titolo di risarcimento."
+ },
+ {
+  "id": "t12-015",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "Quale abbinamento tra articolo della CEDU e diritto tutelato è corretto?",
+  "options": [
+   "Art. 2: divieto della tortura",
+   "Art. 6: libertà di espressione",
+   "Art. 8: diritto al rispetto della vita privata e familiare",
+   "Art. 14: diritto al matrimonio"
+  ],
+  "answer": 2,
+  "explanation": "L'art. 8 CEDU tutela la vita privata e familiare; l'art. 2 il diritto alla vita, l'art. 3 il divieto della tortura, l'art. 6 l'equo processo, l'art. 10 la libertà di espressione, l'art. 12 il matrimonio e l'art. 14 il divieto di discriminazione."
+ },
+ {
+  "id": "t12-016",
+  "topic": "Diritti fondamentali nell'Unione europea e CEDU",
+  "question": "Come si configura il rapporto tra il sistema dell'Unione europea e quello della CEDU?",
+  "options": [
+   "L'Unione è priva di vincoli verso la CEDU, perché è tenuta a rispettare solo la propria Carta",
+   "La Corte di giustizia funge da giudice d'appello rispetto alla Corte europea dei diritti dell'uomo",
+   "Le sentenze della Corte europea dei diritti dell'uomo sono annullabili dalla Corte di giustizia",
+   "I sistemi restano separati, ma le due Corti richiamano spesso i principi stabiliti dall'altra"
+  ],
+  "answer": 3,
+  "explanation": "Dal Trattato di Maastricht l'Unione si impegna a rispettare i diritti garantiti dalla CEDU; pur restando separati, i due sistemi sono fortemente compenetrati e la Corte di giustizia e la Corte di Strasburgo si richiamano reciprocamente."
+ },
+ {
+  "id": "t13-001",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Quale novità comporta, rispetto al diritto internazionale classico, la commissione di un crimine internazionale?",
+  "options": [
+   "Oltre allo Stato, risponde individualmente anche la persona che ne è materialmente autrice",
+   "Risponde esclusivamente lo Stato di cui l'autore materiale ha la cittadinanza",
+   "Risponde soltanto l'individuo, mentre la responsabilità dello Stato viene esclusa",
+   "Risponde la comunità internazionale nel suo complesso, in solido con lo Stato"
+  ],
+  "answer": 0,
+  "explanation": "Dal crimine internazionale sorge la responsabilità non solo dello Stato ma anche dell'individuo autore: si supera la concezione per cui solo lo Stato risponde delle azioni dei suoi cittadini."
+ },
+ {
+  "id": "t13-002",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Quale tra le seguenti affermazioni sui caratteri dei crimini internazionali è corretta?",
+  "options": [
+   "Possono essere commessi soltanto da organi dello Stato nell'esercizio delle loro funzioni",
+   "Possono essere commessi da organi statali o da privati, in tempo di pace o di guerra",
+   "Possono essere commessi soltanto in tempo di guerra, da militari contro civili",
+   "Ledono esclusivamente i diritti della singola vittima e non norme di jus cogens"
+  ],
+  "answer": 1,
+  "explanation": "I crimini internazionali sono le più gravi violazioni dei diritti umani, commesse da organi dello Stato o da privati, in pace o in guerra, e ledono norme di jus cogens e i valori della comunità internazionale."
+ },
+ {
+  "id": "t13-003",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Quale atto contiene la prima codificazione dei crimini internazionali?",
+  "options": [
+   "La Convenzione di New York del 1948 sul genocidio",
+   "Le quattro Convenzioni di Ginevra del 1949",
+   "L'Accordo di Londra del 1945, istitutivo del Tribunale di Norimberga",
+   "Lo Statuto di Roma del 1998, istitutivo della Corte penale internazionale"
+  ],
+  "answer": 2,
+  "explanation": "La prima codificazione dei crimini internazionali è nell'Accordo di Londra del 1945, che istituì il Tribunale di Norimberga per giudicare i grandi criminali di guerra nazisti."
+ },
+ {
+  "id": "t13-004",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Quali categorie di crimini distingueva l'art. 6 dello Statuto del Tribunale di Norimberga?",
+  "options": [
+   "Genocidio, crimini di guerra e crimine di aggressione",
+   "Genocidio, crimini contro l'umanità e crimini contro la pace",
+   "Crimini di guerra, terrorismo internazionale e crimini contro l'umanità",
+   "Crimini contro la pace, crimini contro l'umanità e crimini di guerra"
+  ],
+  "answer": 3,
+  "explanation": "L'art. 6 dello Statuto di Norimberga distingueva crimini contro la pace, contro l'umanità e di guerra; il genocidio si è aggiunto come fattispecie autonoma solo dopo, con la Convenzione del 1948."
+ },
+ {
+  "id": "t13-005",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Qual è l'elemento decisivo per qualificare un atto come genocidio ai sensi della Convenzione di New York del 1948?",
+  "options": [
+   "Il numero particolarmente elevato delle vittime uccise o ferite",
+   "Il collegamento dell'atto con un conflitto armato internazionale",
+   "L'intento specifico di distruggere, in tutto o in parte, il gruppo in quanto tale",
+   "La qualità di organo dello Stato rivestita dall'autore materiale"
+  ],
+  "answer": 2,
+  "explanation": "Il genocidio richiede l'intento di distruggere, in tutto o in parte, un gruppo nazionale, etnico, razziale o religioso in quanto tale, non solo quello di uccidere o ledere i suoi membri."
+ },
+ {
+  "id": "t13-006",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Nella sentenza Bosnia-Erzegovina c. Serbia e Montenegro del 2007, la CIG ha ritenuto la Serbia responsabile:",
+  "options": [
+   "Di non aver prevenuto né represso il genocidio di Srebrenica",
+   "Di aver commesso direttamente il genocidio di Srebrenica",
+   "Di crimini contro l'umanità commessi dai propri organi militari",
+   "Di non aver consegnato i propri generali alla Corte penale internazionale"
+  ],
+  "answer": 0,
+  "explanation": "Nella sentenza del 2007 la CIG ha escluso che la Serbia avesse commesso il genocidio, ma l'ha ritenuta responsabile di non aver fatto nulla per prevenirlo o reprimerlo, come impone la Convenzione del 1948."
+ },
+ {
+  "id": "t13-007",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Che cosa distingue i crimini contro l'umanità dai crimini di guerra?",
+  "options": [
+   "I crimini contro l'umanità richiedono l'intento di distruggere un gruppo in quanto tale",
+   "I crimini contro l'umanità possono essere commessi soltanto da militari",
+   "I crimini di guerra possono essere commessi anche in tempo di pace",
+   "I crimini contro l'umanità non devono necessariamente essere connessi a un conflitto armato"
+  ],
+  "answer": 3,
+  "explanation": "I crimini contro l'umanità, commessi in un attacco esteso o sistematico contro civili, possono avvenire anche in pace; i crimini di guerra presuppongono sempre un conflitto armato, internazionale o interno."
+ },
+ {
+  "id": "t13-008",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Un militare uccide un prigioniero di guerra nel corso di una guerra civile. Di quale crimine si tratta?",
+  "options": [
+   "Di genocidio, poiché la vittima appartiene a una delle parti in lotta",
+   "Di crimine di guerra, poiché è una grave violazione del diritto umanitario in un conflitto armato",
+   "Di nessun crimine internazionale, poiché il conflitto armato è soltanto interno",
+   "Di crimine contro la pace, poiché è commesso durante un conflitto armato"
+  ],
+  "answer": 1,
+  "explanation": "I crimini di guerra sono gravi violazioni delle leggi e usi di guerra commesse in un conflitto armato internazionale o interno; l'omicidio di prigionieri di guerra è un atto contro persone protette."
+ },
+ {
+  "id": "t13-009",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Quale dei seguenti principi fondamentali del diritto internazionale umanitario impone di dirigere gli attacchi solo contro obiettivi militari?",
+  "options": [
+   "Il principio di proporzionalità",
+   "Il principio di distinzione",
+   "Il principio di precauzione",
+   "Il principio di complementarietà"
+  ],
+  "answer": 1,
+  "explanation": "Il principio di distinzione si fonda sulla contrapposizione tra combattenti e civili: gli attacchi possono essere diretti solo contro obiettivi militari, non contro la popolazione civile."
+ },
+ {
+  "id": "t13-010",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Quali sono le principali fonti pattizie del diritto internazionale umanitario?",
+  "options": [
+   "La Convenzione di New York del 1948 e i due Patti internazionali del 1966",
+   "La Carta delle Nazioni Unite e la Dichiarazione universale del 1948",
+   "Lo Statuto di Roma del 1998 e l'Accordo di Londra del 1945",
+   "Le quattro Convenzioni di Ginevra del 1949 e i due Protocolli addizionali del 1977"
+  ],
+  "answer": 3,
+  "explanation": "Il diritto umanitario è codificato in trattati che in gran parte riproducono consuetudini, in particolare le quattro Convenzioni di Ginevra del 1949 e i due Protocolli addizionali del 1977."
+ },
+ {
+  "id": "t13-011",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Con quale atto sono stati istituiti i tribunali penali internazionali per la ex Jugoslavia e per il Rwanda?",
+  "options": [
+   "Con risoluzioni del Consiglio di sicurezza adottate ai sensi dell'art. 41 della Carta",
+   "Con trattati internazionali conclusi tra gli Stati della regione interessata",
+   "Con risoluzioni dell'Assemblea generale adottate a maggioranza qualificata",
+   "Con una decisione della Corte internazionale di giustizia su richiesta del Segretario generale"
+  ],
+  "answer": 0,
+  "explanation": "Furono creati nel 1993 e nel 1994 con risoluzioni del Consiglio di sicurezza, come organi sussidiari, nell'ambito delle misure non implicanti l'uso della forza (art. 41 della Carta)."
+ },
+ {
+  "id": "t13-012",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "In che cosa la Corte penale internazionale si differenzia dai tribunali per la ex Jugoslavia e per il Rwanda?",
+  "options": [
+   "È stata istituita dal Consiglio di sicurezza ed è competente solo per il genocidio",
+   "Giudica gli Stati oltre che gli individui accusati di crimini internazionali",
+   "È un organo permanente istituito da un trattato, lo Statuto di Roma del 1998",
+   "È un tribunale ad hoc con competenza limitata a un territorio e a un periodo determinati"
+  ],
+  "answer": 2,
+  "explanation": "La CPI, istituita dallo Statuto di Roma del 1998 ed entrata in vigore nel 2002, è il primo organo giudiziario internazionale permanente e nasce da un trattato, non da una risoluzione del CdS."
+ },
+ {
+  "id": "t13-013",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Secondo l'art. 33 dello Statuto di Roma, l'ordine di un superiore esonera dalla responsabilità penale:",
+  "options": [
+   "Sempre, se l'ordine proviene da un governo o da un superiore militare",
+   "Solo se l'autore aveva l'obbligo legale di ubbidire, anche se l'ordine era manifestamente illegale",
+   "Solo per i crimini di genocidio e contro l'umanità, considerati ordini legittimi",
+   "Solo se ricorrono insieme obbligo di ubbidire, ignoranza dell'illegalità e illegalità non manifesta"
+  ],
+  "answer": 3,
+  "explanation": "Per l'art. 33 le tre condizioni sono cumulative; gli ordini di commettere genocidio o crimini contro l'umanità sono sempre manifestamente illegali, quindi per essi l'eccezione non opera mai."
+ },
+ {
+  "id": "t13-014",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Quale principio esprime l'art. 27 dello Statuto di Roma?",
+  "options": [
+   "L'imprescrittibilità dei crimini di competenza della Corte",
+   "La complementarietà della giurisdizione della Corte rispetto a quella statale",
+   "L'irrilevanza della qualifica ufficiale, con disconoscimento dell'immunità funzionale",
+   "L'esclusione delle persone giuridiche dalla giurisdizione della Corte"
+  ],
+  "answer": 2,
+  "explanation": "L'art. 27 stabilisce che la qualifica ufficiale, anche di capo di Stato o di governo, non esonera dalla responsabilità penale né riduce la pena: è il disconoscimento dell'immunità funzionale."
+ },
+ {
+  "id": "t13-015",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Un cittadino russo è accusato di crimini di guerra commessi in Ucraina. Su quale base la CPI può giudicarlo, benché la Russia non sia parte dello Statuto?",
+  "options": [
+   "Sul criterio di nazionalità, poiché la Russia è membro permanente del Consiglio di sicurezza",
+   "Sul criterio territoriale, poiché l'Ucraina ha accettato la giurisdizione della Corte",
+   "Sul consenso dell'individuo, che può accettare personalmente la giurisdizione della Corte",
+   "Su un referral del Consiglio di sicurezza adottato nei confronti della Russia"
+  ],
+  "answer": 1,
+  "explanation": "Grazie al criterio territoriale basta che lo Stato in cui il crimine è commesso abbia accettato la giurisdizione: l'Ucraina lo ha fatto con dichiarazioni ad hoc ed è parte dello Statuto dal 2025."
+ },
+ {
+  "id": "t13-016",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Che cosa comporta il referral del Consiglio di sicurezza alla Corte penale internazionale?",
+  "options": [
+   "La Corte procede prescindendo dai criteri territoriale e nazionale, come avvenuto per Darfur e Libia",
+   "La Corte deve condannare gli individui indicati nella risoluzione senza svolgere indagini",
+   "La Corte può giudicare anche gli Stati responsabili della situazione deferita",
+   "La Corte procede solo se lo Stato territoriale ha reso una dichiarazione ad hoc"
+  ],
+  "answer": 0,
+  "explanation": "Con il referral, vincolante per la Corte, si prescinde dall'accettazione della giurisdizione da parte degli Stati, fermo il vaglio del Procuratore (art. 53); è stato usato solo per il Darfur (2005) e la Libia (2011)."
  }
 ]

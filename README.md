@@ -6,9 +6,9 @@ Applicazione web per esercitarsi con test a risposta multipla: 20 domande a sess
 - **Tecnologia:** C# / Blazor WebAssembly (.NET 10), pubblicata gratis su **GitHub Pages**.
 - **Utenti e statistiche:** **Supabase** (piano gratuito): accesso con email e password,
   sessioni e risposte salvate nel database e visibili da qualsiasi dispositivo.
-- **Domande:** `QuizApp/wwwroot/data/questions.json` (205 domande sugli appunti corretti di
-  Diritto internazionale, fino alla lezione del 16/11/2026 sulle immunità diplomatiche,
-  consolari e delle organizzazioni internazionali).
+- **Domande:** `QuizApp/wwwroot/data/questions.json` (253 domande sugli appunti corretti di
+  Diritto internazionale, fino alla lezione del 23/11/2026 sui crimini internazionali e la
+  Corte penale internazionale).
 
 ## Cosa fa
 
