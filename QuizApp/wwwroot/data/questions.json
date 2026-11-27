@@ -3287,5 +3287,265 @@
   ],
   "answer": 0,
   "explanation": "Con il referral, vincolante per la Corte, si prescinde dall'accettazione della giurisdizione da parte degli Stati, fermo il vaglio del Procuratore (art. 53); è stato usato solo per il Darfur (2005) e la Libia (2011)."
+ },
+ {
+  "id": "t13-017",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Quale conseguenza pratica deriva dall'art. 27 dello Statuto di Roma, che esclude l'immunità funzionale davanti alla Corte?",
+  "options": [
+   "La Corte può emettere mandati d'arresto anche contro un capo di Stato in carica, come Putin",
+   "La Corte può giudicare i capi di Stato solo dopo la fine del loro mandato",
+   "I capi di Stato possono essere giudicati solo con l'autorizzazione del proprio Parlamento",
+   "La qualifica ufficiale non esclude la responsabilità ma comporta sempre una riduzione di pena"
+  ],
+  "answer": 0,
+  "explanation": "Per l'art. 27 le immunità non operano nel sistema dello Statuto: la Corte ha emesso un mandato d'arresto anche nei confronti del presidente russo Putin."
+ },
+ {
+  "id": "t13-018",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Nel sistema dell'art. 33 dello Statuto di Roma, chi deve provare i presupposti dell'esimente dell'ordine superiore?",
+  "options": [
+   "Il Procuratore, che deve dimostrare che l'ordine era manifestamente illegale",
+   "L'imputato, che deve dimostrare anche che l'ordine non era manifestamente illegale",
+   "Il superiore che ha impartito l'ordine, chiamato a deporre come testimone",
+   "La Camera preliminare, che accerta d'ufficio l'obbligo legale di obbedire"
+  ],
+  "answer": 1,
+  "explanation": "La prova grava sull'imputato: provare l'obbligo legale di obbedire è agevole, ma per crimini di guerra, contro l'umanità o genocidio è ben difficile provare che l'ordine non fosse manifestamente illegale."
+ },
+ {
+  "id": "t13-019",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Quali sono i due punti deboli che, nel bilancio della Corte penale internazionale, ne limitano l'efficacia?",
+  "options": [
+   "Il potere di veto del Consiglio di sicurezza e la brevità dei termini di prescrizione",
+   "La natura provvisoria della Corte e la competenza limitata al solo genocidio",
+   "L'assenza di grandi Potenze come USA, Russia e Cina e la scarsa cooperazione degli Stati",
+   "L'impossibilità di giudicare i capi di Stato e l'assenza di una Camera d'appello"
+  ],
+  "answer": 2,
+  "explanation": "Le grandi Potenze restano fuori dallo Statuto (gli USA lo hanno firmato ma non ratificato) e soprattutto lo osteggiano; inoltre la cooperazione degli Stati è spesso carente."
+ },
+ {
+  "id": "t13-020",
+  "topic": "Crimini internazionali e Corte penale internazionale",
+  "question": "Putin si è recato in Mongolia, Stato parte dello Statuto di Roma, senza essere arrestato. Come va valutato questo caso?",
+  "options": [
+   "La Mongolia ha agito legittimamente, perché i capi di Stato in carica godono di immunità davanti alla Corte",
+   "La Corte avrebbe potuto comunque processare Putin in contumacia, rendendo irrilevante l'arresto",
+   "La Mongolia non aveva obblighi di arresto, perché la Russia non è parte dello Statuto di Roma",
+   "La Mongolia ha violato i suoi obblighi di arresto e consegna, decisivi perché la Corte non giudica in contumacia"
+  ],
+  "answer": 3,
+  "explanation": "La CPI non può giudicare in contumacia e dipende dagli Stati parti per arrestare e consegnare i ricercati: la Mongolia, non arrestando Putin, ha violato i propri obblighi."
+ },
+ {
+  "id": "t14-001",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Come si qualifica, nel diritto internazionale, la disciplina dell'ingresso e del soggiorno degli stranieri?",
+  "options": [
+   "Rientra nel dominio riservato degli Stati, che la regolano in autonomia salvo i limiti internazionali",
+   "È interamente disciplinata da norme consuetudinarie che fissano condizioni di ingresso uniformi",
+   "È di competenza esclusiva dell'UNHCR, che rilascia i permessi di soggiorno agli stranieri",
+   "Rientra nel dominio riservato solo per i cittadini provenienti da Stati confinanti"
+  ],
+  "answer": 0,
+  "explanation": "L'immigrazione rientra nella giurisdizione domestica: lo Stato fissa ingresso, permessi ed espulsioni, ma il suo potere non è più assoluto (diritti fondamentali, richiedenti protezione)."
+ },
+ {
+  "id": "t14-002",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Uno straniero entra in Italia violando la normativa nazionale sull'immigrazione. Quale conseguenza ne deriva sul piano dei diritti umani?",
+  "options": [
+   "Perde i diritti umani finché non regolarizza la propria posizione",
+   "Conserva solo i diritti espressamente riconosciuti dallo Stato di ingresso",
+   "Conserva i diritti fondamentali, che gli spettano in quanto essere umano",
+   "Conserva i diritti fondamentali solo se presenta domanda di asilo"
+  ],
+  "answer": 2,
+  "explanation": "I diritti fondamentali spettano all'individuo in quanto essere umano (art. 1 DUDU: «tutti»): l'ingresso irregolare non ne comporta la privazione."
+ },
+ {
+  "id": "t14-003",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Che cosa caratterizza la protezione sussidiaria rispetto allo status di rifugiato?",
+  "options": [
+   "È prevista dalla Convenzione di Ginevra come forma attenuata di asilo per i migranti economici",
+   "Spetta a chi non ha i requisiti di rifugiato ma rischia un grave danno, e vige solo negli Stati UE",
+   "È riconosciuta da tutti gli Stati che hanno ratificato la CEDU, compresi Stati Uniti e Canada",
+   "Presuppone un fondato timore di persecuzione, ma per motivi diversi da quelli dell'art. 1"
+  ],
+  "answer": 1,
+  "explanation": "La protezione sussidiaria, introdotta da direttive UE, si fonda sul rischio effettivo di grave danno e non sulla persecuzione; non è meno importante, è una forma diversa di protezione."
+ },
+ {
+  "id": "t14-004",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Perché la Convenzione di Ginevra del 1951 è il testo internazionale fondamentale in materia di asilo, a differenza dell'art. 14 della Dichiarazione universale del 1948?",
+  "options": [
+   "Perché è stata adottata dal Consiglio di sicurezza con una risoluzione vincolante",
+   "Perché è la prima fonte a proclamare il diritto di cercare asilo dalle persecuzioni",
+   "Perché disciplina l'asilo per tutti i migranti, compresi quelli economici",
+   "Perché è un trattato vincolante con una definizione di rifugiato e i relativi diritti"
+  ],
+  "answer": 3,
+  "explanation": "La DUDU (art. 14, par. 1) non è giuridicamente vincolante; la Convenzione di Ginevra lo è e contiene la definizione internazionalmente valida di rifugiato e i diritti che ne derivano."
+ },
+ {
+  "id": "t14-005",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Quali sono, secondo l'art. 1 della Convenzione di Ginevra, i motivi di persecuzione rilevanti per lo status di rifugiato?",
+  "options": [
+   "Razza, religione, nazionalità, opinioni politiche e condizioni di estrema povertà",
+   "Razza, religione, cittadinanza, conflitto armato e calamità ambientali",
+   "Razza, religione, nazionalità, appartenenza a un determinato gruppo sociale, opinioni politiche",
+   "Religione, opinioni politiche, orientamento sessuale, genere ed età"
+  ],
+  "answer": 2,
+  "explanation": "I motivi sono tassativi e sono solo quelli indicati dall'art. 1; la Convenzione non definisce invece la nozione di persecuzione."
+ },
+ {
+  "id": "t14-006",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Durante un conflitto alcuni civili si spostano a 3.000 km di distanza, in una regione sicura dello stesso Stato. Possono essere considerati rifugiati?",
+  "options": [
+   "No: sono sfollati interni, perché non si trovano fuori dal Paese di cittadinanza",
+   "Sì, perché hanno abbandonato contro la loro volontà le zone di origine",
+   "Sì, se la distanza percorsa rende loro impossibile il ritorno",
+   "No, perché la Convenzione di Ginevra non si applica in tempo di guerra"
+  ],
+  "answer": 0,
+  "explanation": "Un elemento costitutivo della definizione è la presenza del richiedente al di fuori del Paese di cittadinanza: chi resta nel proprio Stato è uno sfollato interno."
+ },
+ {
+  "id": "t14-007",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Un pastore lascia il suo Paese perché una siccità prolungata ha distrutto bestiame e raccolti. Come si qualifica secondo la Convenzione di Ginevra?",
+  "options": [
+   "È un rifugiato ambientale, categoria aggiunta con un protocollo alla Convenzione",
+   "È un rifugiato, perché la siccità equivale a persecuzione per gruppo sociale",
+   "È un rifugiato solo se dimostra di aver subito un danno patrimoniale grave",
+   "Non è un rifugiato: la nozione di rifugiato ambientale non esiste nel diritto d'asilo"
+  ],
+  "answer": 3,
+  "explanation": "È un migrante per cause ambientali ed economiche; la Convenzione di Ginevra non è mai stata modificata e non conosce i «rifugiati ambientali»."
+ },
+ {
+  "id": "t14-008",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Che cosa si intende per «appartenenza a un determinato gruppo sociale» ai fini dello status di rifugiato?",
+  "options": [
+   "L'iscrizione a un partito o a un sindacato perseguitato dal governo in carica",
+   "La condivisione di una caratteristica innata, immutabile o attribuita, che fa percepire come «diversi»",
+   "La residenza in una regione colpita da un conflitto armato interno o internazionale",
+   "L'appartenenza a una minoranza nazionale riconosciuta dalla Costituzione dello Stato"
+  ],
+  "answer": 1,
+  "explanation": "Nozione interpretata in senso estensivo: vi rientrano ad es. le persecuzioni di genere (donne che rifiutano le mutilazioni genitali), dei minori soldato, per orientamento sessuale e per stigma."
+ },
+ {
+  "id": "t14-009",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Quale tra i seguenti è un indicatore della violenza indiscriminata e generalizzata in un conflitto armato?",
+  "options": [
+   "Il riconoscimento del governo in carica da parte della maggioranza degli Stati",
+   "Il numero di civili morti e feriti e la capacità dello Stato di proteggerli",
+   "Il numero di domande di asilo già accolte negli Stati membri dell'UE",
+   "La ratifica della Convenzione di Ginevra da parte dello Stato di origine"
+  ],
+  "answer": 1,
+  "explanation": "Tra gli indicatori: durata del conflitto, armi e tecniche di guerra, capacità dello Stato di proteggere i civili, numero di vittime civili, sfollati, assistenza sanitaria e cibo compromessi."
+ },
+ {
+  "id": "t14-010",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Un cittadino omosessuale di uno Stato che punisce l'omosessualità non ha mai subito persecuzioni, ma si sente costantemente in pericolo. Può essere riconosciuto rifugiato?",
+  "options": [
+   "No, perché la persecuzione deve essere già stata subita e documentata",
+   "No, perché l'orientamento sessuale non è menzionato nella Convenzione del 1951",
+   "Sì, ma solo con la protezione sussidiaria e non con lo status di rifugiato",
+   "Sì, se il suo timore di persecuzione futura è fondato su elementi oggettivi"
+  ],
+  "answer": 3,
+  "explanation": "La definizione richiede un fondato timore, proiettato verso il futuro: la persecuzione può essere solo temuta; l'orientamento sessuale rientra nel gruppo sociale."
+ },
+ {
+  "id": "t14-011",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Che rilievo ha l'aver subito persecuzioni in passato ai fini del riconoscimento dello status di rifugiato?",
+  "options": [
+   "È un indizio del timore, di cui va però accertata l'attualità e quindi la fondatezza",
+   "Comporta automaticamente il riconoscimento dello status di rifugiato",
+   "È irrilevante, perché conta solo la situazione al momento della partenza",
+   "È un requisito indispensabile, senza il quale la domanda va respinta"
+  ],
+  "answer": 0,
+  "explanation": "La persecuzione passata non comporta il riconoscimento automatico: è un indizio del timore, che deve essere attuale e fondato."
+ },
+ {
+  "id": "t14-012",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Quale dei seguenti obblighi grava sullo Stato nei confronti dei rifugiati presenti sul suo territorio, secondo la Convenzione di Ginevra?",
+  "options": [
+   "Concedere la cittadinanza dopo cinque anni di residenza (art. 27)",
+   "Garantire il diritto di voto alle elezioni amministrative (art. 4)",
+   "Rilasciare un documento di identità (art. 27)",
+   "Assicurare il ricongiungimento con tutti i familiari (art. 3)"
+  ],
+  "answer": 2,
+  "explanation": "Tra i diritti previsti: non discriminazione (art. 3), libertà religiosa (art. 4), assistenza sanitaria (art. 23), documento di identità (art. 27), non-refoulement (art. 33)."
+ },
+ {
+  "id": "t14-013",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Che cosa si intende per respingimento indiretto nel quadro del principio di non-refoulement (art. 33 Convenzione di Ginevra)?",
+  "options": [
+   "Il respingimento eseguito da soggetti privati, come i vettori aerei, per conto dello Stato",
+   "L'espulsione verso lo Stato di cittadinanza disposta dopo il rigetto della domanda di asilo",
+   "Il trasferimento del rifugiato nello Stato membro dell'UE competente a esaminare la domanda",
+   "Il rinvio verso uno Stato che potrebbe a sua volta inviare l'individuo dove rischia maltrattamenti"
+  ],
+  "answer": 3,
+  "explanation": "Il refoulement è vietato anche quando lo Stato che rimpatria avrebbe dovuto sapere che lo Stato di destinazione potrebbe inviare l'individuo in uno Stato in cui sarebbe a rischio."
+ },
+ {
+  "id": "t14-014",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Uno straniero giunto per motivi economici si è visto respingere la domanda di asilo e rischia la tortura nel Paese di origine. Può esservi rimandato?",
+  "options": [
+   "Sì, perché il non-refoulement dell'art. 33 si applica ai soli rifugiati",
+   "No: il non-refoulement è stato esteso a tutti gli stranieri (es. art. 19, par. 2, Carta UE)",
+   "Sì, purché lo Stato di origine fornisca garanzie diplomatiche di trattamento umano",
+   "No, ma solo se ha soggiornato regolarmente per almeno un anno"
+  ],
+  "answer": 1,
+  "explanation": "Il principio è stato esteso alla generalità degli stranieri: l'art. 19, par. 2, della Carta dei diritti fondamentali dell'UE dice «nessuno», con portata assoluta."
+ },
+ {
+  "id": "t14-015",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Un cittadino nigeriano ha commesso un grave reato in Italia e in Nigeria rischierebbe la tortura. Che cosa stabilisce in proposito il sistema CEDU?",
+  "options": [
+   "Può essere espulso, perché la CEDU non contiene norme sull'asilo",
+   "Può essere espulso, perché la Nigeria non è parte della CEDU",
+   "Non può essere espulso: il divieto deriva dall'art. 3 CEDU ed è assoluto",
+   "Non può essere espulso solo se ha già ottenuto lo status di rifugiato"
+  ],
+  "answer": 2,
+  "explanation": "La Corte europea ha ricavato dall'art. 3 CEDU il divieto di rinviare stranieri verso Stati dove sarebbero esposti a tortura o trattamenti inumani, anche se autori di reati."
+ },
+ {
+  "id": "t14-016",
+  "topic": "Immigrazione e protezione dei rifugiati",
+  "question": "Secondo la sentenza Elgafaji della Corte di giustizia (17 febbraio 2009), quando la violenza indiscriminata giustifica la protezione sussidiaria (art. 15, lett. c, della direttiva)?",
+  "options": [
+   "Quando è così elevata che un civile, per la sua sola presenza nel Paese o nella regione, rischierebbe la minaccia grave",
+   "Quando il richiedente dimostra di essere personalmente preso di mira per le sue opinioni politiche",
+   "Quando il conflitto armato è internazionale e non interno, e dura senza interruzioni da almeno due anni",
+   "Quando il Consiglio di sicurezza ha qualificato il conflitto come una minaccia alla pace internazionale"
+  ],
+  "answer": 0,
+  "explanation": "Elgafaji: rileva la violenza di livello tale che il civile rischia il grave danno per il solo fatto di trovarsi sul territorio; la Convenzione di Ginevra non tutela dal timore di essere coinvolti in un conflitto."
  }
 ]
